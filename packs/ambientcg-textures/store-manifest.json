@@ -6,7 +6,7 @@
   "website": "https://ambientcg.com",
   "description": "Extensive collection of 100% CC0 public domain PBR materials and surface textures by Lennart Demes (ambientcg.com) in max 512px KTX2 format with full mipmaps for fast scene prototyping and low VRAM usage. Master resolutions (up to 8K/12K) available via original source links.",
   "folder": "packs/ambientcg-textures",
-  "pinnedSha": "6090abdb0efd237bfb6172a393741341c92f7da2",
+  "pinnedSha": "a825b94984deb82b1d0e447336f9697e05b0abfd",
   "itemCount": 31,
   "items": [
     {
@@ -1226,7 +1226,7 @@
     {
       "fileName": "Asphalt033.ktx2",
       "path": "packs/ambientcg-textures/textures/Asphalt033/Asphalt033.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Asphalt033/Asphalt033.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Asphalt033/Asphalt033.ktx2",
       "sha256": "f518e6ea0f45051a275017082a301e1becf3939021cd7f7f3ec6ad922fbe1d9b",
       "size": 243752,
       "role": "Image"
@@ -1234,7 +1234,7 @@
     {
       "fileName": "Asphalt033_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "e3d4043648fc8e2dc35bed4d28f7ca809de721e85e183e848c390cd5770fe3ec",
       "size": 287220,
       "role": "Texture:AO"
@@ -1242,7 +1242,7 @@
     {
       "fileName": "Asphalt033_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_Color.ktx2",
       "sha256": "cd032a152b455c267ffde67f0287153b7f59354c6df7d60ff4cce717310e03a1",
       "size": 223897,
       "role": "Texture:Albedo"
@@ -1250,7 +1250,7 @@
     {
       "fileName": "Asphalt033_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_Color_preview.png",
       "sha256": "e1f62a94342ca566c29683a8d4ddfa44fa98e37549922d3ff8087168f32ae5bc",
       "size": 112475,
       "role": "Texture:Albedo"
@@ -1258,7 +1258,7 @@
     {
       "fileName": "Asphalt033_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_Displacement.ktx2",
       "sha256": "2a7c2401078b870029863ebef906aceecaf1e7d5405f485a7158ed4fa518f10d",
       "size": 239220,
       "role": "Texture:Height"
@@ -1266,7 +1266,7 @@
     {
       "fileName": "Asphalt033_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_NormalGL.ktx2",
       "sha256": "78048c009643111be44477fd2642804515f771077a12d9e67d36309d28f77be7",
       "size": 323785,
       "role": "Texture:Normal"
@@ -1274,7 +1274,7 @@
     {
       "fileName": "Asphalt033_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_1K-PNG_Roughness.ktx2",
       "sha256": "21744a087d239e2d65d9754b70b4625f754c4607d0b8559576be4dcc42477cd4",
       "size": 243765,
       "role": "Texture:Roughness"
@@ -1282,7 +1282,7 @@
     {
       "fileName": "Asphalt033_preview.png",
       "path": "packs/ambientcg-textures/textures/Asphalt033/Asphalt033_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_preview.png",
       "sha256": "9d9af06efe42a784398bf632be30f308e5b5529d22f05dd468a7cf3f483994c8",
       "size": 95371,
       "role": "Image"
@@ -1290,7 +1290,7 @@
     {
       "fileName": "Bricks104.ktx2",
       "path": "packs/ambientcg-textures/textures/Bricks104/Bricks104.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Bricks104/Bricks104.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Bricks104/Bricks104.ktx2",
       "sha256": "cfebd4b6b15e5e7a6e566a007ad2acf2d977f56fec033229705474e16cfa5ebc",
       "size": 224182,
       "role": "Image"
@@ -1298,7 +1298,7 @@
     {
       "fileName": "Bricks104_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "80a3d30057451ff89f877bdd9b73d8583d327ced67068cf2a75ea4a20271b1b3",
       "size": 97524,
       "role": "Texture:AO"
@@ -1306,7 +1306,7 @@
     {
       "fileName": "Bricks104_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_Color.ktx2",
       "sha256": "660c955983c6a29f9730efa58e1051a2e3dc572e6077dd2fc90929412209c6ef",
       "size": 139185,
       "role": "Texture:Albedo"
@@ -1314,7 +1314,7 @@
     {
       "fileName": "Bricks104_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_Color_preview.png",
       "sha256": "a865c39c3ce0b651d7bf1fa41eae6c94daf7f7bcae61acb93c8108f055f07673",
       "size": 66944,
       "role": "Texture:Albedo"
@@ -1322,7 +1322,7 @@
     {
       "fileName": "Bricks104_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_Displacement.ktx2",
       "sha256": "0010bdc572f99258c6cb3e89288a64c4418a272c33221035364483c8d6b72835",
       "size": 109588,
       "role": "Texture:Height"
@@ -1330,7 +1330,7 @@
     {
       "fileName": "Bricks104_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_NormalGL.ktx2",
       "sha256": "0b1983529ba0444980e9f606a915f00cfb74c6c86b8db77af8fee67be82af464",
       "size": 105051,
       "role": "Texture:Normal"
@@ -1338,7 +1338,7 @@
     {
       "fileName": "Bricks104_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Bricks104/Bricks104_1K-PNG_Roughness.ktx2",
       "sha256": "87074674df67301907d4d848a14baa5bfb772050afcaec25db4a2db51453b2ed",
       "size": 125024,
       "role": "Texture:Roughness"
@@ -1346,7 +1346,7 @@
     {
       "fileName": "Bricks104_preview.png",
       "path": "packs/ambientcg-textures/textures/Bricks104/Bricks104_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Bricks104/Bricks104_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Bricks104/Bricks104_preview.png",
       "sha256": "e3e04d3aeca3dfeefc5770be156e5bab27ea4291c5be6bc8eac811fc59db5539",
       "size": 110030,
       "role": "Image"
@@ -1354,7 +1354,7 @@
     {
       "fileName": "Concrete034.ktx2",
       "path": "packs/ambientcg-textures/textures/Concrete034/Concrete034.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete034/Concrete034.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete034/Concrete034.ktx2",
       "sha256": "508a9b4dacbcdab097d096d53c6db538b7afd83fbf24c250d1d0fb4452e5c83e",
       "size": 172577,
       "role": "Image"
@@ -1362,7 +1362,7 @@
     {
       "fileName": "Concrete034_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_Color.ktx2",
       "sha256": "72f105fbd2207baeaa182113e22739b6fb88a186ca4b1607ef7d5dd0aff6d750",
       "size": 103801,
       "role": "Texture:Albedo"
@@ -1370,7 +1370,7 @@
     {
       "fileName": "Concrete034_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_Color_preview.png",
       "sha256": "97061b2c8477a5aceab4c5e3ed0f3d382eee3401c0be687bc45407ca60672b1a",
       "size": 27004,
       "role": "Texture:Albedo"
@@ -1378,7 +1378,7 @@
     {
       "fileName": "Concrete034_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_Displacement.ktx2",
       "sha256": "e98c0a2416831997a2e61f068685ab06a121a9c8c698827f77b6c2f9ee7b908c",
       "size": 113418,
       "role": "Texture:Height"
@@ -1386,7 +1386,7 @@
     {
       "fileName": "Concrete034_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_NormalGL.ktx2",
       "sha256": "3f249bf16c8515e971cf6f7b397ae69c832a3828b6a9d68e98ec42adbd97df2f",
       "size": 145640,
       "role": "Texture:Normal"
@@ -1394,7 +1394,7 @@
     {
       "fileName": "Concrete034_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete034/Concrete034_1K-PNG_Roughness.ktx2",
       "sha256": "10527039327de4b50b44c30a92b097695d0c7221946f5eaaaabb05a223df5fdc",
       "size": 103222,
       "role": "Texture:Roughness"
@@ -1402,7 +1402,7 @@
     {
       "fileName": "Concrete034_preview.png",
       "path": "packs/ambientcg-textures/textures/Concrete034/Concrete034_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete034/Concrete034_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete034/Concrete034_preview.png",
       "sha256": "e7c5c972e25353f51c64c7d396d2c257d2cfcb5732082d3a2540d93d315aef4c",
       "size": 76065,
       "role": "Image"
@@ -1410,7 +1410,7 @@
     {
       "fileName": "Concrete048.ktx2",
       "path": "packs/ambientcg-textures/textures/Concrete048/Concrete048.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete048/Concrete048.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete048/Concrete048.ktx2",
       "sha256": "f391ecf1ead52d6d1579b6ab742b575732a97641e23d3505de37cee4aaa00f70",
       "size": 227045,
       "role": "Image"
@@ -1418,7 +1418,7 @@
     {
       "fileName": "Concrete048_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "f837b98b8aba8e1ffdc74ac5842a1b23de33667d994303ca1c83ef44db05beca",
       "size": 225753,
       "role": "Texture:AO"
@@ -1426,7 +1426,7 @@
     {
       "fileName": "Concrete048_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Color.ktx2",
       "sha256": "69f129f9cc5c05e5212aaaaecff03a279ff0912a57304ea75acb7295d324f6cc",
       "size": 266547,
       "role": "Texture:Albedo"
@@ -1434,7 +1434,7 @@
     {
       "fileName": "Concrete048_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Color_preview.png",
       "sha256": "13b085597b8225c9637443c43dd9c77ca62e64663658dd1f87656b005db49c40",
       "size": 99767,
       "role": "Texture:Albedo"
@@ -1442,7 +1442,7 @@
     {
       "fileName": "Concrete048_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Displacement.ktx2",
       "sha256": "527432dca4e68a0ce12964b26f529aebf9a9e5345d770ca44993a3dc8a2a5f90",
       "size": 204042,
       "role": "Texture:Height"
@@ -1450,7 +1450,7 @@
     {
       "fileName": "Concrete048_1K-PNG_Metalness.ktx2",
       "path": "packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Metalness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Metalness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Metalness.ktx2",
       "sha256": "ad7562a40c1d8125bdd77124485fd74a420d647c6fb44d67d170eef707b62883",
       "size": 652,
       "role": "Texture:Metallic"
@@ -1458,7 +1458,7 @@
     {
       "fileName": "Concrete048_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_NormalGL.ktx2",
       "sha256": "da6f1f63f91a5eb93a2800b7987b27abbd96ba434f74fd131e1afe29e545aa80",
       "size": 227410,
       "role": "Texture:Normal"
@@ -1466,7 +1466,7 @@
     {
       "fileName": "Concrete048_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete048/Concrete048_1K-PNG_Roughness.ktx2",
       "sha256": "6261450c2e33d4fcdd799bac08ae6e8c872ed8a64e422747e0a17c145b26be8a",
       "size": 239856,
       "role": "Texture:Roughness"
@@ -1474,7 +1474,7 @@
     {
       "fileName": "Concrete048_preview.png",
       "path": "packs/ambientcg-textures/textures/Concrete048/Concrete048_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete048/Concrete048_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete048/Concrete048_preview.png",
       "sha256": "68ed93c5001ad4dc54b4da92f945c4ffbb56ccbf37b05f822dcbc92241341b03",
       "size": 92338,
       "role": "Image"
@@ -1482,7 +1482,7 @@
     {
       "fileName": "CorrugatedSteel009.ktx2",
       "path": "packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009.ktx2",
       "sha256": "cdbab97989d695c5d0057bf0a762e5dd4ca777ba2a1f94fd0260b75be3a002f4",
       "size": 204707,
       "role": "Image"
@@ -1490,7 +1490,7 @@
     {
       "fileName": "CorrugatedSteel009_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "e4e05c431daadbdfe7768009f089812c3e709b4efca319780fd09f3afcee9b37",
       "size": 58542,
       "role": "Texture:AO"
@@ -1498,7 +1498,7 @@
     {
       "fileName": "CorrugatedSteel009_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Color.ktx2",
       "sha256": "5024b8911f62ae6243ded3e18645fce622a410b686a1242bb0d4da3242075ab7",
       "size": 114688,
       "role": "Texture:Albedo"
@@ -1506,7 +1506,7 @@
     {
       "fileName": "CorrugatedSteel009_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Color_preview.png",
       "sha256": "fa59cc41bec985a80ba22da0616d71e41966a9aa0cb822d40d531727d9e820e7",
       "size": 55639,
       "role": "Texture:Albedo"
@@ -1514,7 +1514,7 @@
     {
       "fileName": "CorrugatedSteel009_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Displacement.ktx2",
       "sha256": "a1cee765fb204dd3f1029d6823dc179aa1898027084e187363e9af4a7087b139",
       "size": 67583,
       "role": "Texture:Height"
@@ -1522,7 +1522,7 @@
     {
       "fileName": "CorrugatedSteel009_1K-PNG_Metalness.ktx2",
       "path": "packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Metalness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Metalness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Metalness.ktx2",
       "sha256": "e08f6b00110a8bb580c1c004cf5a46e686a19f9c3abc8fa8e67f3f137c00a2e7",
       "size": 57628,
       "role": "Texture:Metallic"
@@ -1530,7 +1530,7 @@
     {
       "fileName": "CorrugatedSteel009_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_NormalGL.ktx2",
       "sha256": "9d3c27a154ba31bf1375d7770f6709e3cae661bbbb993510fe97ba9c4b4774d6",
       "size": 64355,
       "role": "Texture:Normal"
@@ -1538,7 +1538,7 @@
     {
       "fileName": "CorrugatedSteel009_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_1K-PNG_Roughness.ktx2",
       "sha256": "1312f395e246c228a973c64f97a762eb2e99210a2e7f386639e066bc31a02b92",
       "size": 102617,
       "role": "Texture:Roughness"
@@ -1546,7 +1546,7 @@
     {
       "fileName": "CorrugatedSteel009_preview.png",
       "path": "packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_preview.png",
       "sha256": "825144bb317f852b138036a68bffa4c7de4772fd7208405d6077dc97dccdb6f1",
       "size": 96038,
       "role": "Image"
@@ -1554,7 +1554,7 @@
     {
       "fileName": "Grass001.ktx2",
       "path": "packs/ambientcg-textures/textures/Grass001/Grass001.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass001/Grass001.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass001/Grass001.ktx2",
       "sha256": "7a435b82254a02abbe3cd5b20ec147b96b2ccc84d37460d50b9fa0e108178c63",
       "size": 261561,
       "role": "Image"
@@ -1562,7 +1562,7 @@
     {
       "fileName": "Grass001_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "a8386302bd824cc772601985fec8a35899c6ec45ac117a255db18254fcd7f35d",
       "size": 283701,
       "role": "Texture:AO"
@@ -1570,7 +1570,7 @@
     {
       "fileName": "Grass001_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_Color.ktx2",
       "sha256": "481478e59ccf8adbb4d4a927e6c6a137e26c1ce299425bbeb911cefc25b9c6c3",
       "size": 338661,
       "role": "Texture:Albedo"
@@ -1578,7 +1578,7 @@
     {
       "fileName": "Grass001_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_Color_preview.png",
       "sha256": "fe9c5e7f9c88f4cf1c702c89e42921ab0ef79090911ff7390bcd75edf3387f68",
       "size": 133085,
       "role": "Texture:Albedo"
@@ -1586,7 +1586,7 @@
     {
       "fileName": "Grass001_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_Displacement.ktx2",
       "sha256": "e73d46bf18fdbc5b163c93ebc6acb81e0b7b0e2cfe4b051097135643a4b6e814",
       "size": 308877,
       "role": "Texture:Height"
@@ -1594,7 +1594,7 @@
     {
       "fileName": "Grass001_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_NormalGL.ktx2",
       "sha256": "dec7c766e38252c593fe9a8403bf5085ae3205630b817990f82ca807cacb3775",
       "size": 337821,
       "role": "Texture:Normal"
@@ -1602,7 +1602,7 @@
     {
       "fileName": "Grass001_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass001/Grass001_1K-PNG_Roughness.ktx2",
       "sha256": "6c9d083683ffd6d1cb8b96b905a360b2abf309ddce0664055e398dbb0e82bfd1",
       "size": 285499,
       "role": "Texture:Roughness"
@@ -1610,7 +1610,7 @@
     {
       "fileName": "Grass001_preview.png",
       "path": "packs/ambientcg-textures/textures/Grass001/Grass001_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass001/Grass001_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass001/Grass001_preview.png",
       "sha256": "809573afe0f3cf67060a9c97608a4054fcf3c3882aa2899021cd24d6ac104d1d",
       "size": 133075,
       "role": "Image"
@@ -1618,7 +1618,7 @@
     {
       "fileName": "Grass005.ktx2",
       "path": "packs/ambientcg-textures/textures/Grass005/Grass005.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass005/Grass005.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass005/Grass005.ktx2",
       "sha256": "d1957d4efa1d58b41d7037c9e6d83d1262703d29b9186fc84bb536bf7d8b4293",
       "size": 261964,
       "role": "Image"
@@ -1626,7 +1626,7 @@
     {
       "fileName": "Grass005_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "a2da72d5aba3409a2f32dd327d05e9e7f14616f5f233fd6235bd79cad21169d4",
       "size": 298369,
       "role": "Texture:AO"
@@ -1634,7 +1634,7 @@
     {
       "fileName": "Grass005_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_Color.ktx2",
       "sha256": "889c460207af7d6aead9cf5b3b31c90bf89c64c31baa4cbd5b392c64df07f8c5",
       "size": 339801,
       "role": "Texture:Albedo"
@@ -1642,7 +1642,7 @@
     {
       "fileName": "Grass005_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_Color_preview.png",
       "sha256": "c3cee67e5c65ee24b594a484cbcf453ade42866770f35f33c9a2b4c887c6afa3",
       "size": 134389,
       "role": "Texture:Albedo"
@@ -1650,7 +1650,7 @@
     {
       "fileName": "Grass005_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_Displacement.ktx2",
       "sha256": "392b4607fadae3a84db939256d87b4631197c5d9d8ff0b0b294c1c1c4497f394",
       "size": 298465,
       "role": "Texture:Height"
@@ -1658,7 +1658,7 @@
     {
       "fileName": "Grass005_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_NormalGL.ktx2",
       "sha256": "1c881c2acb7377e31cef13b04e22fffa2cfd33094a5eb3303f90b7123c2c3686",
       "size": 332113,
       "role": "Texture:Normal"
@@ -1666,7 +1666,7 @@
     {
       "fileName": "Grass005_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass005/Grass005_1K-PNG_Roughness.ktx2",
       "sha256": "42c4f5f5c86d3535f5b860d1527a66339eca268e089b4e47002c40bab336832a",
       "size": 280175,
       "role": "Texture:Roughness"
@@ -1674,7 +1674,7 @@
     {
       "fileName": "Grass005_preview.png",
       "path": "packs/ambientcg-textures/textures/Grass005/Grass005_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass005/Grass005_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass005/Grass005_preview.png",
       "sha256": "a0d11df97f85ec8262b854a0f7455efc3d5e1dde7cff5c347dce1465671efd4c",
       "size": 125106,
       "role": "Image"
@@ -1682,7 +1682,7 @@
     {
       "fileName": "Gravel043.ktx2",
       "path": "packs/ambientcg-textures/textures/Gravel043/Gravel043.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Gravel043/Gravel043.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Gravel043/Gravel043.ktx2",
       "sha256": "c3943aa2031ff9bd7f7accffaf1f18e2dd0b41211bb38450a63752c6809cff81",
       "size": 262280,
       "role": "Image"
@@ -1690,7 +1690,7 @@
     {
       "fileName": "Gravel043_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "7646b32ea1374ad21c3636be726580da9fd8f347390b5fcbbadccb1cab409b92",
       "size": 280621,
       "role": "Texture:AO"
@@ -1698,7 +1698,7 @@
     {
       "fileName": "Gravel043_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_Color.ktx2",
       "sha256": "394217b4d57b9a3c25736c21ee8d3af4e0d3c6fda59d50d924e51ca111e612bb",
       "size": 340376,
       "role": "Texture:Albedo"
@@ -1706,7 +1706,7 @@
     {
       "fileName": "Gravel043_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_Color_preview.png",
       "sha256": "107d3a9db5206d646ceb45f4c856a6ec68c6181187b7912cc5f20de2d7ee6c98",
       "size": 157424,
       "role": "Texture:Albedo"
@@ -1714,7 +1714,7 @@
     {
       "fileName": "Gravel043_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_Displacement.ktx2",
       "sha256": "50a0975e06163a546990352592ea4f9f91273604be11c74a4cf4a73fb012b0a5",
       "size": 295925,
       "role": "Texture:Height"
@@ -1722,7 +1722,7 @@
     {
       "fileName": "Gravel043_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_NormalGL.ktx2",
       "sha256": "a19163a349448eccd8994860d2bd6814425620a98d7d0d242ec7c7a407e47ba9",
       "size": 334001,
       "role": "Texture:Normal"
@@ -1730,7 +1730,7 @@
     {
       "fileName": "Gravel043_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Gravel043/Gravel043_1K-PNG_Roughness.ktx2",
       "sha256": "d845d253e00ed1138b3148daa63b1032632209f8e04998f52c1ab9f46dde1c61",
       "size": 284417,
       "role": "Texture:Roughness"
@@ -1738,7 +1738,7 @@
     {
       "fileName": "Gravel043_preview.png",
       "path": "packs/ambientcg-textures/textures/Gravel043/Gravel043_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Gravel043/Gravel043_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Gravel043/Gravel043_preview.png",
       "sha256": "3ae24213fa9c4590b5b57a035614cf8d2abf2228c9aa94e5512bd978adf074f9",
       "size": 122234,
       "role": "Image"
@@ -1746,7 +1746,7 @@
     {
       "fileName": "Ground103.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground103/Ground103.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground103/Ground103.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground103/Ground103.ktx2",
       "sha256": "d3cac4693035f4ba58ce71534773390f655744b3f3c0e20d19c0531aaa5cbaba",
       "size": 255322,
       "role": "Image"
@@ -1754,7 +1754,7 @@
     {
       "fileName": "Ground103_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "f50a354e879daa88423e190cd515459de97888f85ede084b8dc748acd1a67b45",
       "size": 309245,
       "role": "Texture:AO"
@@ -1762,7 +1762,7 @@
     {
       "fileName": "Ground103_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_Color.ktx2",
       "sha256": "5c389c505e125e5ab37ffc14c66eafe2257cd2bbd0415d9aa5c7d564b3e2e98c",
       "size": 330868,
       "role": "Texture:Albedo"
@@ -1770,7 +1770,7 @@
     {
       "fileName": "Ground103_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_Color_preview.png",
       "sha256": "0ec439a71fe1a70d450e258e273e674f8301f45617fe471306025d93ec221e25",
       "size": 138376,
       "role": "Texture:Albedo"
@@ -1778,7 +1778,7 @@
     {
       "fileName": "Ground103_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_Displacement.ktx2",
       "sha256": "3c69dac6e841fe7a8a6cc22661df1a283fad0f8435ede2d08531399d396b4c95",
       "size": 253754,
       "role": "Texture:Height"
@@ -1786,7 +1786,7 @@
     {
       "fileName": "Ground103_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_NormalGL.ktx2",
       "sha256": "d04c09d01ce5d2872f5607905b02563da60e77be1fb18d7c0ec009c54e8baec9",
       "size": 338230,
       "role": "Texture:Normal"
@@ -1794,7 +1794,7 @@
     {
       "fileName": "Ground103_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground103/Ground103_1K-PNG_Roughness.ktx2",
       "sha256": "37a64f366b6e356756ee17f7c1665d5af3996b7d49783ab4d77e4c013f4cd79b",
       "size": 296801,
       "role": "Texture:Roughness"
@@ -1802,7 +1802,7 @@
     {
       "fileName": "Ground103_preview.png",
       "path": "packs/ambientcg-textures/textures/Ground103/Ground103_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground103/Ground103_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground103/Ground103_preview.png",
       "sha256": "ae8eccb6c55cfcaf1bba1d8cb04c47da55113663c7295881c87f6204fecb3e0b",
       "size": 112136,
       "role": "Image"
@@ -1810,7 +1810,7 @@
     {
       "fileName": "Ground106.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground106/Ground106.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground106/Ground106.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground106/Ground106.ktx2",
       "sha256": "acdf331b84804c66c5f44a9fd1cd78908ffc375890d2e6c8cdcc0fe5ab0410e0",
       "size": 263962,
       "role": "Image"
@@ -1818,7 +1818,7 @@
     {
       "fileName": "Ground106_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "73ef3a115dec61888fb800ddccdb2289dfba27c8aa12de605d04a285ebe1cf81",
       "size": 285884,
       "role": "Texture:AO"
@@ -1826,7 +1826,7 @@
     {
       "fileName": "Ground106_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_Color.ktx2",
       "sha256": "5ca46232890307ce79a3988ebac818ce7c6be38b18cb9407d552df925361d931",
       "size": 335423,
       "role": "Texture:Albedo"
@@ -1834,7 +1834,7 @@
     {
       "fileName": "Ground106_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_Color_preview.png",
       "sha256": "1b2ea5e2850f7db2186d7d5b687aa40938ddd36f8e4b639b9e83c88e92276c38",
       "size": 144736,
       "role": "Texture:Albedo"
@@ -1842,7 +1842,7 @@
     {
       "fileName": "Ground106_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_Displacement.ktx2",
       "sha256": "9eedd8e7cb387ecd58e662a9822eb0cbff13e3128a767e976686f4cb133435b8",
       "size": 261936,
       "role": "Texture:Height"
@@ -1850,7 +1850,7 @@
     {
       "fileName": "Ground106_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_NormalGL.ktx2",
       "sha256": "0206032010da298746f2bb0a37b508eeaef601b737109bec44641006e1ba8b02",
       "size": 338834,
       "role": "Texture:Normal"
@@ -1858,7 +1858,7 @@
     {
       "fileName": "Ground106_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground106/Ground106_1K-PNG_Roughness.ktx2",
       "sha256": "2c2a1a9ad479f60a8856fd682c3dc57ce343ba76b61c76b9b6f0a6ac2d498603",
       "size": 280716,
       "role": "Texture:Roughness"
@@ -1866,7 +1866,7 @@
     {
       "fileName": "Ground106_preview.png",
       "path": "packs/ambientcg-textures/textures/Ground106/Ground106_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground106/Ground106_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground106/Ground106_preview.png",
       "sha256": "f94f064f7643eb551f5e3f1383d48016e44198551ee16ad63fcad556637f30c4",
       "size": 120332,
       "role": "Image"
@@ -1874,7 +1874,7 @@
     {
       "fileName": "Ground107.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground107/Ground107.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground107/Ground107.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground107/Ground107.ktx2",
       "sha256": "8fda0a87ebfcbd6501cf5bb6c2150351f05a0902c0e6252139dd7728d613a6be",
       "size": 264344,
       "role": "Image"
@@ -1882,7 +1882,7 @@
     {
       "fileName": "Ground107_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "0de83a89671fa429aa14e13c2796926e75a814569285a51cd01e0e28358f744f",
       "size": 274905,
       "role": "Texture:AO"
@@ -1890,7 +1890,7 @@
     {
       "fileName": "Ground107_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_Color.ktx2",
       "sha256": "cf435bfa9dfbd7a59ebb4a31b9c3e758e633b019f4c366ed04ca009786ef9311",
       "size": 341441,
       "role": "Texture:Albedo"
@@ -1898,7 +1898,7 @@
     {
       "fileName": "Ground107_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_Color_preview.png",
       "sha256": "4a8c69fba15c4549fb99267c48af81510631b6b7bd5e6bfbcfb2d3fe071454ba",
       "size": 150480,
       "role": "Texture:Albedo"
@@ -1906,7 +1906,7 @@
     {
       "fileName": "Ground107_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_Displacement.ktx2",
       "sha256": "3c6b73c7cf95c4092859bd428455b20b90e63158b30b5ff986f0609d8f1b31e8",
       "size": 291582,
       "role": "Texture:Height"
@@ -1914,7 +1914,7 @@
     {
       "fileName": "Ground107_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_NormalGL.ktx2",
       "sha256": "dc029553e9983b141f7a8acc7c7207af6802a471567bce88ff3788399960c3a8",
       "size": 338697,
       "role": "Texture:Normal"
@@ -1922,7 +1922,7 @@
     {
       "fileName": "Ground107_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground107/Ground107_1K-PNG_Roughness.ktx2",
       "sha256": "3165f0d3b8548aac15220336ed05ae8bc68b6bb1812aec1e04d6c05383b02d37",
       "size": 280978,
       "role": "Texture:Roughness"
@@ -1930,7 +1930,7 @@
     {
       "fileName": "Ground107_preview.png",
       "path": "packs/ambientcg-textures/textures/Ground107/Ground107_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground107/Ground107_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground107/Ground107_preview.png",
       "sha256": "4e7ef51dbb28c94ee956141eaa3b1905be7904f0506509983d746f5b97e6245d",
       "size": 121487,
       "role": "Image"
@@ -1938,7 +1938,7 @@
     {
       "fileName": "Ground108.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground108/Ground108.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground108/Ground108.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground108/Ground108.ktx2",
       "sha256": "ea79e60f7f025adfdebe509411f3748910582a9deb677b06050824490be0da15",
       "size": 244784,
       "role": "Image"
@@ -1946,7 +1946,7 @@
     {
       "fileName": "Ground108_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "bf55d3c265b1b53120408a6b4ebbb21ce7ea321ad04b638ea8223756d76eb429",
       "size": 303039,
       "role": "Texture:AO"
@@ -1954,7 +1954,7 @@
     {
       "fileName": "Ground108_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_Color.ktx2",
       "sha256": "ca92809ab409e102fa70791c8cba20efb1810d9eecf1cf8731d4ccdbfd13222d",
       "size": 350053,
       "role": "Texture:Albedo"
@@ -1962,7 +1962,7 @@
     {
       "fileName": "Ground108_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_Color_preview.png",
       "sha256": "c9823e0baf7100fafcf2bac891fa0d9afb50195151c48aee4900b66e45e2909a",
       "size": 171004,
       "role": "Texture:Albedo"
@@ -1970,7 +1970,7 @@
     {
       "fileName": "Ground108_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_Displacement.ktx2",
       "sha256": "2b7f912aab5dc39d75daaf08d80c4f617045a9ac9da0e89df65f11c0ffa51992",
       "size": 268302,
       "role": "Texture:Height"
@@ -1978,7 +1978,7 @@
     {
       "fileName": "Ground108_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_NormalGL.ktx2",
       "sha256": "c47187b970c196cb3789f1bcd113e7541193665ffb9d62c93c728fae093c09dc",
       "size": 338466,
       "role": "Texture:Normal"
@@ -1986,7 +1986,7 @@
     {
       "fileName": "Ground108_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground108/Ground108_1K-PNG_Roughness.ktx2",
       "sha256": "abc5c4829de217920db5ea816da6afb07b2602340db5c7217a4d224df7843742",
       "size": 294560,
       "role": "Texture:Roughness"
@@ -1994,7 +1994,7 @@
     {
       "fileName": "Ground108_preview.png",
       "path": "packs/ambientcg-textures/textures/Ground108/Ground108_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground108/Ground108_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground108/Ground108_preview.png",
       "sha256": "a66dfca247274821af449b5ca98808863008855b8c929232ae1bffeaf035cbe5",
       "size": 127506,
       "role": "Image"
@@ -2002,7 +2002,7 @@
     {
       "fileName": "ManholeCover011.ktx2",
       "path": "packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011.ktx2",
       "sha256": "8b92321216267f62b5f3e6010530b02e9c5a625ffcaa3fc15ffe28b1b64c8883",
       "size": 248016,
       "role": "Image"
@@ -2010,7 +2010,7 @@
     {
       "fileName": "ManholeCover011_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "194d61d7601a4ca8736f030684e24c4830596b1e8e0ead75ec921e82e3e30258",
       "size": 233964,
       "role": "Texture:AO"
@@ -2018,7 +2018,7 @@
     {
       "fileName": "ManholeCover011_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Color.ktx2",
       "sha256": "4a9a9fd7d65df61e60c1b7e0124b2f8abbad82c1209511d1949fa02f7aba7959",
       "size": 300953,
       "role": "Texture:Albedo"
@@ -2026,7 +2026,7 @@
     {
       "fileName": "ManholeCover011_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Color_preview.png",
       "sha256": "9e0af7cf5506311cd5d6c6c9c67eb863e5213c3c437e7603b3dbb3a6bab74b7c",
       "size": 135060,
       "role": "Texture:Albedo"
@@ -2034,7 +2034,7 @@
     {
       "fileName": "ManholeCover011_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Displacement.ktx2",
       "sha256": "824606592710ed8099e99a11bc09addcc004a59eba4193dc9147495e424fe85f",
       "size": 220937,
       "role": "Texture:Height"
@@ -2042,7 +2042,7 @@
     {
       "fileName": "ManholeCover011_1K-PNG_Metalness.ktx2",
       "path": "packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Metalness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Metalness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Metalness.ktx2",
       "sha256": "34db30439de4a5788d049f326d8acda270e791954ea2d69479109843d97b7146",
       "size": 71597,
       "role": "Texture:Metallic"
@@ -2050,7 +2050,7 @@
     {
       "fileName": "ManholeCover011_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_NormalGL.ktx2",
       "sha256": "797a8867a8779e0206c70ecca0c7c31ccaa33a3ae695b608ffd5174375df93ed",
       "size": 262435,
       "role": "Texture:Normal"
@@ -2058,7 +2058,7 @@
     {
       "fileName": "ManholeCover011_1K-PNG_Opacity.ktx2",
       "path": "packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Opacity.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Opacity.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Opacity.ktx2",
       "sha256": "06562b4a166328fe6eff0ff03857699c3ecc86b94b38bfbae3a75845d158d8e7",
       "size": 20712,
       "role": "Texture:Opacity"
@@ -2066,7 +2066,7 @@
     {
       "fileName": "ManholeCover011_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_1K-PNG_Roughness.ktx2",
       "sha256": "b70a2f6f8d84d9a193a47d72e8aa4b7ab19de98963b78f7d3e6b137ae45f5b5a",
       "size": 253496,
       "role": "Texture:Roughness"
@@ -2074,7 +2074,7 @@
     {
       "fileName": "ManholeCover011_preview.png",
       "path": "packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_preview.png",
       "sha256": "2024eccdc2f2b243d643ed2a639ca241f2a2ca71327efa81bcdd9f46e679d49e",
       "size": 116491,
       "role": "Image"
@@ -2082,7 +2082,7 @@
     {
       "fileName": "Metal049A.ktx2",
       "path": "packs/ambientcg-textures/textures/Metal049A/Metal049A.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal049A/Metal049A.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal049A/Metal049A.ktx2",
       "sha256": "da222bfb874314bde28f27925f8f7485bf8d517c917ea71d04200c82ef6aba69",
       "size": 171612,
       "role": "Image"
@@ -2090,7 +2090,7 @@
     {
       "fileName": "Metal049A_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Color.ktx2",
       "sha256": "52e23ddef063fd3b12088a137c42f690bdea703b2672e7102135cd5dc140cdda",
       "size": 86880,
       "role": "Texture:Albedo"
@@ -2098,7 +2098,7 @@
     {
       "fileName": "Metal049A_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Color_preview.png",
       "sha256": "136bf87079bd425bd53eb3681a7f804b02f01615c70214bcdd954f534dafbfb7",
       "size": 59932,
       "role": "Texture:Albedo"
@@ -2106,7 +2106,7 @@
     {
       "fileName": "Metal049A_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Displacement.ktx2",
       "sha256": "3178d39b4fe7972d795f698d426b06e279b2f7e348b3612ad342c7f8acc854c8",
       "size": 678,
       "role": "Texture:Height"
@@ -2114,7 +2114,7 @@
     {
       "fileName": "Metal049A_1K-PNG_Metalness.ktx2",
       "path": "packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Metalness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Metalness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Metalness.ktx2",
       "sha256": "95ad7b7531ad90d3b3c2f0499bbed3b48c6a9fcbecfa554f2eab3a37292e9eda",
       "size": 1449,
       "role": "Texture:Metallic"
@@ -2122,7 +2122,7 @@
     {
       "fileName": "Metal049A_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_NormalGL.ktx2",
       "sha256": "737e706450cac4c3bd025e03f306030735456dcc0f15af2522f5b758fa9a50ed",
       "size": 142192,
       "role": "Texture:Normal"
@@ -2130,7 +2130,7 @@
     {
       "fileName": "Metal049A_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal049A/Metal049A_1K-PNG_Roughness.ktx2",
       "sha256": "5fb2fca6f53ae3d5d13aaf463473987638531d17d7b6f600bc69d5a67f60291a",
       "size": 150111,
       "role": "Texture:Roughness"
@@ -2138,7 +2138,7 @@
     {
       "fileName": "Metal049A_preview.png",
       "path": "packs/ambientcg-textures/textures/Metal049A/Metal049A_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal049A/Metal049A_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal049A/Metal049A_preview.png",
       "sha256": "bdce26462f5d59270bcc38d980b09430026149088d7cd7525eaf30b1536a4bfa",
       "size": 76855,
       "role": "Image"
@@ -2146,7 +2146,7 @@
     {
       "fileName": "Metal063.ktx2",
       "path": "packs/ambientcg-textures/textures/Metal063/Metal063.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal063/Metal063.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal063/Metal063.ktx2",
       "sha256": "29cb88ae04a7e55923e3a09251ef4f6d8840783952a024ba66893b1f62255389",
       "size": 207170,
       "role": "Image"
@@ -2154,7 +2154,7 @@
     {
       "fileName": "Metal063_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Color.ktx2",
       "sha256": "22a16523fa629c468448574fd3f8dcb2f23e77a6208c43fc4855c4e74d418188",
       "size": 268028,
       "role": "Texture:Albedo"
@@ -2162,7 +2162,7 @@
     {
       "fileName": "Metal063_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Color_preview.png",
       "sha256": "ce6637e3c5ab750eadc2e2011f6d42fd841115179e9e3939999602ace4931bcf",
       "size": 116782,
       "role": "Texture:Albedo"
@@ -2170,7 +2170,7 @@
     {
       "fileName": "Metal063_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Displacement.ktx2",
       "sha256": "0fc5d25fcb6d03c75a4db1a2e20c3cb446b0f5a7e15a8ae63e21437c6ad27212",
       "size": 268481,
       "role": "Texture:Height"
@@ -2178,7 +2178,7 @@
     {
       "fileName": "Metal063_1K-PNG_Metalness.ktx2",
       "path": "packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Metalness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Metalness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Metalness.ktx2",
       "sha256": "4a23c877189806f06ed3b2b35f3c57f040c6c07b3c9f64ccdd49bc3e862d9915",
       "size": 218445,
       "role": "Texture:Metallic"
@@ -2186,7 +2186,7 @@
     {
       "fileName": "Metal063_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_NormalGL.ktx2",
       "sha256": "0e13410f129e629d57b308fe2fdb9c204312c1f1cdbea1edce70350229d94138",
       "size": 142201,
       "role": "Texture:Normal"
@@ -2194,7 +2194,7 @@
     {
       "fileName": "Metal063_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal063/Metal063_1K-PNG_Roughness.ktx2",
       "sha256": "8d526be13d03cfa8e44bbb0cfd717113fcbfbad876a76ba904a887dd2c1e9553",
       "size": 265040,
       "role": "Texture:Roughness"
@@ -2202,7 +2202,7 @@
     {
       "fileName": "Metal063_preview.png",
       "path": "packs/ambientcg-textures/textures/Metal063/Metal063_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal063/Metal063_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal063/Metal063_preview.png",
       "sha256": "89db815a7ae207c63241e7b1809c846dcb3cca585161c48dc575422c5e132ba6",
       "size": 92553,
       "role": "Image"
@@ -2210,7 +2210,7 @@
     {
       "fileName": "PavingStones151.ktx2",
       "path": "packs/ambientcg-textures/textures/PavingStones151/PavingStones151.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/PavingStones151/PavingStones151.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/PavingStones151/PavingStones151.ktx2",
       "sha256": "0b421a5a77a3dd36db88b099ade45fb3826b200b4602825885b1fad5815c59b1",
       "size": 263890,
       "role": "Image"
@@ -2218,7 +2218,7 @@
     {
       "fileName": "PavingStones151_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "78d99e466972fb7ec391fe2267de1310a750897ce18fbe475108410675bbce92",
       "size": 286289,
       "role": "Texture:AO"
@@ -2226,7 +2226,7 @@
     {
       "fileName": "PavingStones151_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_Color.ktx2",
       "sha256": "4867de4d44bcac5c2bed5f64ad50c3a8c3d0defff6cf68bb40cd7d2ebd1cfc13",
       "size": 324753,
       "role": "Texture:Albedo"
@@ -2234,7 +2234,7 @@
     {
       "fileName": "PavingStones151_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_Color_preview.png",
       "sha256": "90691f7da173fd08d5cd7018cbea43368c6d3b66796a723736d1886f5af4ce0d",
       "size": 155687,
       "role": "Texture:Albedo"
@@ -2242,7 +2242,7 @@
     {
       "fileName": "PavingStones151_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_Displacement.ktx2",
       "sha256": "34e1a3d14b72cc30af13a2a361c0b23f98032e4fd2349100bd1b4a7df9d74710",
       "size": 280401,
       "role": "Texture:Height"
@@ -2250,7 +2250,7 @@
     {
       "fileName": "PavingStones151_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_NormalGL.ktx2",
       "sha256": "a7925ab88d737f5b79a05cbe1d5c5e392f438fe634f30cca5f2bac40df915244",
       "size": 314629,
       "role": "Texture:Normal"
@@ -2258,7 +2258,7 @@
     {
       "fileName": "PavingStones151_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_1K-PNG_Roughness.ktx2",
       "sha256": "f0412bdc42eab6bec74cb53baa9c69e454dca32795b946f319d48a06628f4fbc",
       "size": 299592,
       "role": "Texture:Roughness"
@@ -2266,7 +2266,7 @@
     {
       "fileName": "PavingStones151_preview.png",
       "path": "packs/ambientcg-textures/textures/PavingStones151/PavingStones151_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_preview.png",
       "sha256": "9364dc0e0f71b8911e6ec48196efcd193104d272f0f9c66b6fcf5666d541111c",
       "size": 123315,
       "role": "Image"
@@ -2274,7 +2274,7 @@
     {
       "fileName": "Road007.ktx2",
       "path": "packs/ambientcg-textures/textures/Road007/Road007.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road007/Road007.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road007/Road007.ktx2",
       "sha256": "d510bb939493950830799d96473435d1d68c25669dc5fa3fe69a07dba8b73aa4",
       "size": 141522,
       "role": "Image"
@@ -2282,7 +2282,7 @@
     {
       "fileName": "Road007_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_Color.ktx2",
       "sha256": "708c599533a941691e9af39aa115a189b82e208232debdc514aef1f2dca590f3",
       "size": 176699,
       "role": "Texture:Albedo"
@@ -2290,7 +2290,7 @@
     {
       "fileName": "Road007_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_Color_preview.png",
       "sha256": "cec68582ff03711cb7eb89ceadd34e1333be7455ab2800bdfb1ba950491ceefc",
       "size": 86933,
       "role": "Texture:Albedo"
@@ -2298,7 +2298,7 @@
     {
       "fileName": "Road007_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_Displacement.ktx2",
       "sha256": "a1717cb270a6d1ffc793704f9016c02b89ba5c3a1048ca28136dffde22b45dc7",
       "size": 188863,
       "role": "Texture:Height"
@@ -2306,7 +2306,7 @@
     {
       "fileName": "Road007_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_NormalGL.ktx2",
       "sha256": "488945fbd90cfd1a388200d8f4cee884a997ae036a69d581a38c39dfc8a5f128",
       "size": 156331,
       "role": "Texture:Normal"
@@ -2314,7 +2314,7 @@
     {
       "fileName": "Road007_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road007/Road007_1K-PNG_Roughness.ktx2",
       "sha256": "cbf364e289c674bead0e55fc852eff98d8df379abf39044b24b1d6a8065fd86c",
       "size": 223671,
       "role": "Texture:Roughness"
@@ -2322,7 +2322,7 @@
     {
       "fileName": "Road007_preview.png",
       "path": "packs/ambientcg-textures/textures/Road007/Road007_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road007/Road007_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road007/Road007_preview.png",
       "sha256": "a1e7e86c40b254d244d11dd14af89fba418c8f824bbfa62db26ef35785d8e287",
       "size": 66736,
       "role": "Image"
@@ -2330,7 +2330,7 @@
     {
       "fileName": "Road012A.ktx2",
       "path": "packs/ambientcg-textures/textures/Road012A/Road012A.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road012A/Road012A.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road012A/Road012A.ktx2",
       "sha256": "6a665dbf64a4ea16c33f1a24317be7f7d906a6bd17fa977921be52870c5952a1",
       "size": 203858,
       "role": "Image"
@@ -2338,7 +2338,7 @@
     {
       "fileName": "Road012A_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "35b80f6bec72eb748a6e5ee1ef6aed35964ef5c5220f4023877cf837e2699e3b",
       "size": 227964,
       "role": "Texture:AO"
@@ -2346,7 +2346,7 @@
     {
       "fileName": "Road012A_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_Color.ktx2",
       "sha256": "4e18b6ce1baf4a706684648054eef806006a19f45e3ebc1276d235366175eb96",
       "size": 173871,
       "role": "Texture:Albedo"
@@ -2354,7 +2354,7 @@
     {
       "fileName": "Road012A_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_Color_preview.png",
       "sha256": "801611488360b48eddb48ae9ee686c17e4edcdfe71cc29af0562c173ac408cd4",
       "size": 96562,
       "role": "Texture:Albedo"
@@ -2362,7 +2362,7 @@
     {
       "fileName": "Road012A_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_Displacement.ktx2",
       "sha256": "258222532d13d6be1506b3fabb9db2e5e056f58f35a96b293e7b32a54d443555",
       "size": 253880,
       "role": "Texture:Height"
@@ -2370,7 +2370,7 @@
     {
       "fileName": "Road012A_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_NormalGL.ktx2",
       "sha256": "5385cbf1f67912ce49d635ed19c2c11e75960990dba51634e9f3c681fcc83ba8",
       "size": 281635,
       "role": "Texture:Normal"
@@ -2378,7 +2378,7 @@
     {
       "fileName": "Road012A_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road012A/Road012A_1K-PNG_Roughness.ktx2",
       "sha256": "7e6292aae63f6f94d753d04b99ff9a4a3e10efade98d0461a119131943e64a87",
       "size": 270082,
       "role": "Texture:Roughness"
@@ -2386,7 +2386,7 @@
     {
       "fileName": "Road012A_preview.png",
       "path": "packs/ambientcg-textures/textures/Road012A/Road012A_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road012A/Road012A_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road012A/Road012A_preview.png",
       "sha256": "068c1cd9c0d651cfa6c749ff0e64a00ead448a3ffe580c3c0e057c5063c2dc53",
       "size": 80360,
       "role": "Image"
@@ -2394,7 +2394,7 @@
     {
       "fileName": "Rock063.ktx2",
       "path": "packs/ambientcg-textures/textures/Rock063/Rock063.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock063/Rock063.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock063/Rock063.ktx2",
       "sha256": "add69dbc45b7044f0bd53f070db305e8c23ae601b529993f4622347f1e870bcf",
       "size": 245278,
       "role": "Image"
@@ -2402,7 +2402,7 @@
     {
       "fileName": "Rock063_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "d1daedcc6250999ef5d977db9a0ffa57b0463e5331eee68c3ed78beeeedc8795",
       "size": 133411,
       "role": "Texture:AO"
@@ -2410,7 +2410,7 @@
     {
       "fileName": "Rock063_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_Color.ktx2",
       "sha256": "e460199d534365cbdb263e86e3ec07ce4769112e2b565094e87efbe1d1158c1d",
       "size": 175297,
       "role": "Texture:Albedo"
@@ -2418,7 +2418,7 @@
     {
       "fileName": "Rock063_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_Color_preview.png",
       "sha256": "44f55d776dcf7cf63efb489f681dfd16980e9a33dd6f4f49f5df67f7b6952006",
       "size": 90473,
       "role": "Texture:Albedo"
@@ -2426,7 +2426,7 @@
     {
       "fileName": "Rock063_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_Displacement.ktx2",
       "sha256": "a5d213413afc52a74c29768bf78f49371a688250d4931ba58138d8e7393f221e",
       "size": 101749,
       "role": "Texture:Height"
@@ -2434,7 +2434,7 @@
     {
       "fileName": "Rock063_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_NormalGL.ktx2",
       "sha256": "21bfba3701a87d9bb2584add30d6a3c529d013101eecc7620945df51cbd9eee4",
       "size": 148269,
       "role": "Texture:Normal"
@@ -2442,7 +2442,7 @@
     {
       "fileName": "Rock063_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock063/Rock063_1K-PNG_Roughness.ktx2",
       "sha256": "6742b87ba71d183d9d031130a3e1268f48d674b4e5147d863e8331f96f2f4fde",
       "size": 142104,
       "role": "Texture:Roughness"
@@ -2450,7 +2450,7 @@
     {
       "fileName": "Rock063_preview.png",
       "path": "packs/ambientcg-textures/textures/Rock063/Rock063_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock063/Rock063_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock063/Rock063_preview.png",
       "sha256": "f27dbabf85584762a2c42de4f77da3c92329abffacb0cae6f888f354ab840908",
       "size": 127697,
       "role": "Image"
@@ -2458,7 +2458,7 @@
     {
       "fileName": "Rock064.ktx2",
       "path": "packs/ambientcg-textures/textures/Rock064/Rock064.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock064/Rock064.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock064/Rock064.ktx2",
       "sha256": "af95ff63c7844431ed3041f0c35a40819f0f822d0e43f89a38d65b0bcd4b315e",
       "size": 247787,
       "role": "Image"
@@ -2466,7 +2466,7 @@
     {
       "fileName": "Rock064_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "0cb79b7aac568230c043b3de6e5062e287e917b0f2132a425bacfc1d3d337064",
       "size": 243515,
       "role": "Texture:AO"
@@ -2474,7 +2474,7 @@
     {
       "fileName": "Rock064_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_Color.ktx2",
       "sha256": "e38eef0695dee3c280c0ae04a87060982f8716a751206265ab37776880dc926f",
       "size": 348072,
       "role": "Texture:Albedo"
@@ -2482,7 +2482,7 @@
     {
       "fileName": "Rock064_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_Color_preview.png",
       "sha256": "32571d8523d40d457129f73fa904de6a6a123ee539111e9630af10dec49c93a5",
       "size": 167155,
       "role": "Texture:Albedo"
@@ -2490,7 +2490,7 @@
     {
       "fileName": "Rock064_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_Displacement.ktx2",
       "sha256": "7f1d4ec5e414a3b6788afcf685ada90dd3233f58f54eb92a31db6b86a4343df2",
       "size": 192962,
       "role": "Texture:Height"
@@ -2498,7 +2498,7 @@
     {
       "fileName": "Rock064_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_NormalGL.ktx2",
       "sha256": "5567b8efba87aeccbe4fa4545b58102601b025415e89a0737bfa306ca9a2bdc3",
       "size": 305200,
       "role": "Texture:Normal"
@@ -2506,7 +2506,7 @@
     {
       "fileName": "Rock064_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock064/Rock064_1K-PNG_Roughness.ktx2",
       "sha256": "85238bb16a3cb7c394b0f9a26727e91a5a499d9ec3e4dffcb12d9dedcfdeaf02",
       "size": 283317,
       "role": "Texture:Roughness"
@@ -2514,7 +2514,7 @@
     {
       "fileName": "Rock064_preview.png",
       "path": "packs/ambientcg-textures/textures/Rock064/Rock064_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock064/Rock064_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock064/Rock064_preview.png",
       "sha256": "aa26f5432603546a44f0dbb762223f6bc7d08b10c25532f01666b50efb18fbdc",
       "size": 121117,
       "role": "Image"
@@ -2522,7 +2522,7 @@
     {
       "fileName": "ScatteredLeaves009.ktx2",
       "path": "packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009.ktx2",
       "sha256": "e42231d0bfed97b233b0c162a286634009346afd046dd04c4618a1b0d41a84ed",
       "size": 261547,
       "role": "Image"
@@ -2530,7 +2530,7 @@
     {
       "fileName": "ScatteredLeaves009_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "28cbf9433274a938ca0f65e1e7b12024ddc17142e3afdd3c1eb798e2fbeda198",
       "size": 310058,
       "role": "Texture:AO"
@@ -2538,7 +2538,7 @@
     {
       "fileName": "ScatteredLeaves009_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_Color.ktx2",
       "sha256": "d7502811b4d7d52531dba9f9b2892f2fda5913b37929ab5c713ca6125b7f0c04",
       "size": 349777,
       "role": "Texture:Albedo"
@@ -2546,7 +2546,7 @@
     {
       "fileName": "ScatteredLeaves009_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_Color_preview.png",
       "sha256": "f0517844c7d7ecb98ae158facf2ad3ce66f0cdf1ca9b3720bd81cc6bc8c99f38",
       "size": 176891,
       "role": "Texture:Albedo"
@@ -2554,7 +2554,7 @@
     {
       "fileName": "ScatteredLeaves009_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_Displacement.ktx2",
       "sha256": "7f33f5df70801a1252a7c9f2e3d8628e642d9747d286a3c55d55d2404e38e3e1",
       "size": 314031,
       "role": "Texture:Height"
@@ -2562,7 +2562,7 @@
     {
       "fileName": "ScatteredLeaves009_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_NormalGL.ktx2",
       "sha256": "a232d6d6ec048ee3afb1944b456bb7103d9c39a160cb48d4a2ecf06efe8bf968",
       "size": 339789,
       "role": "Texture:Normal"
@@ -2570,7 +2570,7 @@
     {
       "fileName": "ScatteredLeaves009_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_1K-PNG_Roughness.ktx2",
       "sha256": "69d20650ab4eceeeb9aac7d5d7d687558f55c0c0289231bfa2086b3708140f47",
       "size": 296365,
       "role": "Texture:Roughness"
@@ -2578,7 +2578,7 @@
     {
       "fileName": "ScatteredLeaves009_preview.png",
       "path": "packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_preview.png",
       "sha256": "3564117bd4bc399fd190f999542efdf399f043a4526eead00dd856f42321b41f",
       "size": 143819,
       "role": "Image"
@@ -2586,7 +2586,7 @@
     {
       "fileName": "Tiles139.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles139/Tiles139.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles139/Tiles139.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles139/Tiles139.ktx2",
       "sha256": "fadcd95fcb526fb0167957a02a8a4b39936cb2c7e5462e0d81c5526f670d2628",
       "size": 202726,
       "role": "Image"
@@ -2594,7 +2594,7 @@
     {
       "fileName": "Tiles139_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_Color.ktx2",
       "sha256": "3ca16c08395ee8d80fba920cf13ee9f3f8739bd0c7da07d9785c2b08c4a7f724",
       "size": 262924,
       "role": "Texture:Albedo"
@@ -2602,7 +2602,7 @@
     {
       "fileName": "Tiles139_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_Color_preview.png",
       "sha256": "8a9f13f8306504c69496ceabc3954f1c3a9801d99a496446c63c61f799fc7e8f",
       "size": 122074,
       "role": "Texture:Albedo"
@@ -2610,7 +2610,7 @@
     {
       "fileName": "Tiles139_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_Displacement.ktx2",
       "sha256": "dfc9bbf6617b029680a8801c8280b74a5e7894800a118a9369182b3cd482c9f1",
       "size": 179100,
       "role": "Texture:Height"
@@ -2618,7 +2618,7 @@
     {
       "fileName": "Tiles139_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_NormalGL.ktx2",
       "sha256": "d688734e85a9827c3c0965358033aaab73c253016b2ffd189ba74dee7fd2b809",
       "size": 127135,
       "role": "Texture:Normal"
@@ -2626,7 +2626,7 @@
     {
       "fileName": "Tiles139_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles139/Tiles139_1K-PNG_Roughness.ktx2",
       "sha256": "2f6bcc1f94e25a832e2bd1546516ec609f2573496c2afd94c1853b7b2f5e061f",
       "size": 243315,
       "role": "Texture:Roughness"
@@ -2634,7 +2634,7 @@
     {
       "fileName": "Tiles139_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles139/Tiles139_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles139/Tiles139_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles139/Tiles139_preview.png",
       "sha256": "150f32ad37cc8df13802444d8b432b0f7c2eb9318a343d0d9544823452eeae05",
       "size": 92765,
       "role": "Image"
@@ -2642,7 +2642,7 @@
     {
       "fileName": "Tiles140.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles140/Tiles140.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles140/Tiles140.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles140/Tiles140.ktx2",
       "sha256": "64f6749aba4cfc1bff2d2137e379f53f691e47abddd2496afbae301ad366ee3c",
       "size": 219464,
       "role": "Image"
@@ -2650,7 +2650,7 @@
     {
       "fileName": "Tiles140_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_Color.ktx2",
       "sha256": "7fe9e55b0dd866f3ec83a0e68f944bad71fd535c62be28eec22709c3c5099f10",
       "size": 268275,
       "role": "Texture:Albedo"
@@ -2658,7 +2658,7 @@
     {
       "fileName": "Tiles140_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_Color_preview.png",
       "sha256": "820763d3db0efc4b4725a40247a93d75727c7852afdd4690b912ca67a7b0a431",
       "size": 124335,
       "role": "Texture:Albedo"
@@ -2666,7 +2666,7 @@
     {
       "fileName": "Tiles140_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_Displacement.ktx2",
       "sha256": "96d806cdcbe514514536f33899d6b4c20080ab8f71dd9c513ae23ea65f7b88b8",
       "size": 177189,
       "role": "Texture:Height"
@@ -2674,7 +2674,7 @@
     {
       "fileName": "Tiles140_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_NormalGL.ktx2",
       "sha256": "9b5f2de7b4dc14477a43344e934d607675b9470d536f4451337a6dbc04f9c5a9",
       "size": 135605,
       "role": "Texture:Normal"
@@ -2682,7 +2682,7 @@
     {
       "fileName": "Tiles140_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles140/Tiles140_1K-PNG_Roughness.ktx2",
       "sha256": "85325b0146bbd3d8ef319dace753ae2e15912a2a4bfbfbe99c7639d7c9664337",
       "size": 245253,
       "role": "Texture:Roughness"
@@ -2690,7 +2690,7 @@
     {
       "fileName": "Tiles140_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles140/Tiles140_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles140/Tiles140_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles140/Tiles140_preview.png",
       "sha256": "df253b2fd5fc0f1c913e05c3447ac4aea2f07caa9ed3da829425cb05eedef1f3",
       "size": 97137,
       "role": "Image"
@@ -2698,7 +2698,7 @@
     {
       "fileName": "Tiles141.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles141/Tiles141.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles141/Tiles141.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles141/Tiles141.ktx2",
       "sha256": "45f01044c9d9c00792dc535f4d299259e1a252d7434630b45fd2086ee86de917",
       "size": 198713,
       "role": "Image"
@@ -2706,7 +2706,7 @@
     {
       "fileName": "Tiles141_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_Color.ktx2",
       "sha256": "3211d58e7602036f6f0fb214b7f1389650dd8fda9f253b0e3d55dae5f794a2a5",
       "size": 286767,
       "role": "Texture:Albedo"
@@ -2714,7 +2714,7 @@
     {
       "fileName": "Tiles141_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_Color_preview.png",
       "sha256": "aaeb227cf529dc18c0bf3024e606cfe43b418ce5f5184cb6cf54035ea409fdf3",
       "size": 127532,
       "role": "Texture:Albedo"
@@ -2722,7 +2722,7 @@
     {
       "fileName": "Tiles141_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_Displacement.ktx2",
       "sha256": "5d574e0433161b1d3234e6d1c003967f1caa296223b5008cf5035ebd14a5af75",
       "size": 185095,
       "role": "Texture:Height"
@@ -2730,7 +2730,7 @@
     {
       "fileName": "Tiles141_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_NormalGL.ktx2",
       "sha256": "3a7b999f6078e42a1d94517e5fa0f9fa10d91987bef9711120e47319f98789b3",
       "size": 127048,
       "role": "Texture:Normal"
@@ -2738,7 +2738,7 @@
     {
       "fileName": "Tiles141_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles141/Tiles141_1K-PNG_Roughness.ktx2",
       "sha256": "2079b80e230d4287885d334c718b16ddf08a1f628776132d2f3612b7de516746",
       "size": 243375,
       "role": "Texture:Roughness"
@@ -2746,7 +2746,7 @@
     {
       "fileName": "Tiles141_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles141/Tiles141_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles141/Tiles141_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles141/Tiles141_preview.png",
       "sha256": "5427988351fd96d5eddd601a90e1a4a9fc6f0bf2f5f9d2703a0bdbf90ed32de5",
       "size": 89017,
       "role": "Image"
@@ -2754,7 +2754,7 @@
     {
       "fileName": "Tiles142.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles142/Tiles142.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles142/Tiles142.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles142/Tiles142.ktx2",
       "sha256": "e4c79ecc8991c062619242d12fde77b007fffd41d5bdf1ba597a7c9ea689c3e3",
       "size": 226334,
       "role": "Image"
@@ -2762,7 +2762,7 @@
     {
       "fileName": "Tiles142_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_Color.ktx2",
       "sha256": "154a1f55f8d2c6270e76c945d77f9bb1edc788191b8d9c656da9b1118f6c8462",
       "size": 276118,
       "role": "Texture:Albedo"
@@ -2770,7 +2770,7 @@
     {
       "fileName": "Tiles142_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_Color_preview.png",
       "sha256": "3bf5ed5d0615831cf84603926aec119f5f977632dadb342face1b508f05d77e5",
       "size": 129435,
       "role": "Texture:Albedo"
@@ -2778,7 +2778,7 @@
     {
       "fileName": "Tiles142_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_Displacement.ktx2",
       "sha256": "76b35aa555a05cb4dc4a8e38b7747144d5b299c168c1f845633683e7ae604c05",
       "size": 247222,
       "role": "Texture:Height"
@@ -2786,7 +2786,7 @@
     {
       "fileName": "Tiles142_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_NormalGL.ktx2",
       "sha256": "b949636e0d1ee43d393c20fd69deadd35ec77d4bfd6d64607157f55661c8615b",
       "size": 131028,
       "role": "Texture:Normal"
@@ -2794,7 +2794,7 @@
     {
       "fileName": "Tiles142_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles142/Tiles142_1K-PNG_Roughness.ktx2",
       "sha256": "137448d368ea9daad7ce328e0e89cc20bd319cb8fdaa2881674efac6ebfb46ec",
       "size": 235400,
       "role": "Texture:Roughness"
@@ -2802,7 +2802,7 @@
     {
       "fileName": "Tiles142_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles142/Tiles142_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles142/Tiles142_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles142/Tiles142_preview.png",
       "sha256": "33293e9140ea0a4af2731a1b00e05dc3b686571b097b40fa05530ee1714c17e4",
       "size": 100529,
       "role": "Image"
@@ -2810,7 +2810,7 @@
     {
       "fileName": "Tiles143.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles143/Tiles143.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles143/Tiles143.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles143/Tiles143.ktx2",
       "sha256": "bf887eb041a7758dcce4e3df57381a7f3123ae38923a4e5d895e7f4c2312bc4e",
       "size": 225091,
       "role": "Image"
@@ -2818,7 +2818,7 @@
     {
       "fileName": "Tiles143_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_Color.ktx2",
       "sha256": "93fcf176004c8015e8194a41a72436ef376b9e2c67d37610ab0a6efb565bd8aa",
       "size": 275014,
       "role": "Texture:Albedo"
@@ -2826,7 +2826,7 @@
     {
       "fileName": "Tiles143_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_Color_preview.png",
       "sha256": "5c90fa4015ce783d73c0c2349685373c0488c4b07209bc281c5d7e6ef7f80f15",
       "size": 129483,
       "role": "Texture:Albedo"
@@ -2834,7 +2834,7 @@
     {
       "fileName": "Tiles143_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_Displacement.ktx2",
       "sha256": "2b41d338605b59180f7ab876716aaed57862aee57b1bf789b013bce01b5e4f5e",
       "size": 246114,
       "role": "Texture:Height"
@@ -2842,7 +2842,7 @@
     {
       "fileName": "Tiles143_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_NormalGL.ktx2",
       "sha256": "2b660b59713fcda94ebd39d640dd6d7a4807a86a49bb30b06729f77075860609",
       "size": 130294,
       "role": "Texture:Normal"
@@ -2850,7 +2850,7 @@
     {
       "fileName": "Tiles143_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles143/Tiles143_1K-PNG_Roughness.ktx2",
       "sha256": "1f466f3e7119900d9f1e063f6d62285838e7e4222a9aecc5cc522dc8a5e2f18a",
       "size": 235224,
       "role": "Texture:Roughness"
@@ -2858,7 +2858,7 @@
     {
       "fileName": "Tiles143_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles143/Tiles143_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles143/Tiles143_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles143/Tiles143_preview.png",
       "sha256": "f58a91d083c51c82330a83abb498e943ac2a2de3ff39b7d069bcb0a7369520c7",
       "size": 100157,
       "role": "Image"
@@ -2866,7 +2866,7 @@
     {
       "fileName": "Wood051.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood051/Wood051.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood051/Wood051.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood051/Wood051.ktx2",
       "sha256": "fb1ef59a1acb37f0e0682b966eb0d2c34cc2b4e5fd8c6a1956f6028b8c7719da",
       "size": 200662,
       "role": "Image"
@@ -2874,7 +2874,7 @@
     {
       "fileName": "Wood051_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_Color.ktx2",
       "sha256": "caceceec049ba06782970c8c0d3dedd9a0a1638326b0f58ff37c823e941f3dfb",
       "size": 171143,
       "role": "Texture:Albedo"
@@ -2882,7 +2882,7 @@
     {
       "fileName": "Wood051_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_Color_preview.png",
       "sha256": "39912ced8ecf6b349d5c9d4c15fef476b7de1906c0b50f13a37214740200ad4f",
       "size": 78819,
       "role": "Texture:Albedo"
@@ -2890,7 +2890,7 @@
     {
       "fileName": "Wood051_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_Displacement.ktx2",
       "sha256": "b877c9f192651cdb192bb8382bb7ca91cd6a22cbb0710dfe77ce41fe0789862b",
       "size": 259279,
       "role": "Texture:Height"
@@ -2898,7 +2898,7 @@
     {
       "fileName": "Wood051_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_NormalGL.ktx2",
       "sha256": "f848d6c9c4ffe9b08b96834c22a7a18cd5449567561d48ab2393a94ba5b7d05f",
       "size": 203887,
       "role": "Texture:Normal"
@@ -2906,7 +2906,7 @@
     {
       "fileName": "Wood051_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood051/Wood051_1K-PNG_Roughness.ktx2",
       "sha256": "01eb48a07718d0a3b8e47c811ed1dd48fa186fb7aa01fb9c32eaa8cf9bf46ff0",
       "size": 243110,
       "role": "Texture:Roughness"
@@ -2914,7 +2914,7 @@
     {
       "fileName": "Wood051_preview.png",
       "path": "packs/ambientcg-textures/textures/Wood051/Wood051_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood051/Wood051_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood051/Wood051_preview.png",
       "sha256": "8242e32ef7f6fc9b3ec8e8b0170a8a1cca07f9544b7dcd5924c9370d5d2b3d1b",
       "size": 86084,
       "role": "Image"
@@ -2922,7 +2922,7 @@
     {
       "fileName": "Wood092.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood092/Wood092.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood092/Wood092.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood092/Wood092.ktx2",
       "sha256": "f843b5269e12f38316bd9a0d75f11fd5d379e770e0da93a234fdfe0d68d70657",
       "size": 184708,
       "role": "Image"
@@ -2930,7 +2930,7 @@
     {
       "fileName": "Wood092_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_Color.ktx2",
       "sha256": "97aba29795f481fcc6180e65598ea0965f7cf38147bb86604831d37be4861445",
       "size": 193129,
       "role": "Texture:Albedo"
@@ -2938,7 +2938,7 @@
     {
       "fileName": "Wood092_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_Color_preview.png",
       "sha256": "630f87a3051d1bce7fce0e171d806a38219e3d082ce21c35a416acd6105231da",
       "size": 73778,
       "role": "Texture:Albedo"
@@ -2946,7 +2946,7 @@
     {
       "fileName": "Wood092_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_Displacement.ktx2",
       "sha256": "810d3a843601c1096c30febf5c8918121f4d5c8e959979ce7061fad7ef3449b8",
       "size": 208073,
       "role": "Texture:Height"
@@ -2954,7 +2954,7 @@
     {
       "fileName": "Wood092_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_NormalGL.ktx2",
       "sha256": "2ccffd58f83097c3d1480b68e1f6736abdbd2e4d5dfac80a35d1267ed4e985b5",
       "size": 136467,
       "role": "Texture:Normal"
@@ -2962,7 +2962,7 @@
     {
       "fileName": "Wood092_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood092/Wood092_1K-PNG_Roughness.ktx2",
       "sha256": "ee956c157a034e259ddfced360e8890026ca2c1552a3680a11c4d25209f2e215",
       "size": 178218,
       "role": "Texture:Roughness"
@@ -2970,7 +2970,7 @@
     {
       "fileName": "Wood092_preview.png",
       "path": "packs/ambientcg-textures/textures/Wood092/Wood092_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood092/Wood092_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood092/Wood092_preview.png",
       "sha256": "c09b9d6e57983e6cac32eeccc7a131d43d8e73da2782a92b9a647a1c18dc2dc3",
       "size": 81527,
       "role": "Image"
@@ -2978,7 +2978,7 @@
     {
       "fileName": "Wood094.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood094/Wood094.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood094/Wood094.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood094/Wood094.ktx2",
       "sha256": "53cf13d5a195da328c5360596b50f06257424253c0f453dc374f63ec35970cea",
       "size": 174965,
       "role": "Image"
@@ -2986,7 +2986,7 @@
     {
       "fileName": "Wood094_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_Color.ktx2",
       "sha256": "1a1c48f3a847413cc9093f34507b2e52e32c2a9f89783550d1580681ce22363d",
       "size": 180108,
       "role": "Texture:Albedo"
@@ -2994,7 +2994,7 @@
     {
       "fileName": "Wood094_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_Color_preview.png",
       "sha256": "9a61cd3c0b2aff31b41a3ece65c80fe3c15d3e9c3a78973709e58af53190c860",
       "size": 86913,
       "role": "Texture:Albedo"
@@ -3002,7 +3002,7 @@
     {
       "fileName": "Wood094_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_Displacement.ktx2",
       "sha256": "291070f0031a4c62bfd81528d495b9f0485c9f2a90006f697d3d58ff3b11176c",
       "size": 212476,
       "role": "Texture:Height"
@@ -3010,7 +3010,7 @@
     {
       "fileName": "Wood094_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_NormalGL.ktx2",
       "sha256": "11dbfe4a5826e5ffbe9e33f7ee370a3cea2317e1fc8acdf18479e2f0b3fdbd89",
       "size": 146848,
       "role": "Texture:Normal"
@@ -3018,7 +3018,7 @@
     {
       "fileName": "Wood094_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood094/Wood094_1K-PNG_Roughness.ktx2",
       "sha256": "cc25c336f2d35547cef78498b34c2bbaa1c81f55625f4d76087f908405651f0c",
       "size": 142487,
       "role": "Texture:Roughness"
@@ -3026,7 +3026,7 @@
     {
       "fileName": "Wood094_preview.png",
       "path": "packs/ambientcg-textures/textures/Wood094/Wood094_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood094/Wood094_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood094/Wood094_preview.png",
       "sha256": "35f4387c3ca8f5f997c9ab8d1b8b1881638872a9f7bbfc0d547aba4172b1e786",
       "size": 86023,
       "role": "Image"
@@ -3034,7 +3034,7 @@
     {
       "fileName": "Wood095.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood095/Wood095.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood095/Wood095.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood095/Wood095.ktx2",
       "sha256": "4272fa1cf03b3b5b95fddfb07092b16107ec393b2e294014db2c9605c4a3e840",
       "size": 198340,
       "role": "Image"
@@ -3042,7 +3042,7 @@
     {
       "fileName": "Wood095_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_Color.ktx2",
       "sha256": "acfa059a12da151cd3907e050f64e501679fd5cc78959b49120523d158175fd2",
       "size": 99547,
       "role": "Texture:Albedo"
@@ -3050,7 +3050,7 @@
     {
       "fileName": "Wood095_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_Color_preview.png",
       "sha256": "5aa3334c03bdd9cb82df122844db44fac15d03fb534d7ab601d19ff88a8fb360",
       "size": 53749,
       "role": "Texture:Albedo"
@@ -3058,7 +3058,7 @@
     {
       "fileName": "Wood095_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_Displacement.ktx2",
       "sha256": "f7a642397d40f4cd66301acadf72387c5cdd97b9f11d731db5eb59e08f4012d1",
       "size": 102849,
       "role": "Texture:Height"
@@ -3066,7 +3066,7 @@
     {
       "fileName": "Wood095_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_NormalGL.ktx2",
       "sha256": "fe539f1b76e58033c920e617549406ab6741361d869ae0a85ff060e05ff5917b",
       "size": 96389,
       "role": "Texture:Normal"
@@ -3074,7 +3074,7 @@
     {
       "fileName": "Wood095_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood095/Wood095_1K-PNG_Roughness.ktx2",
       "sha256": "ed9d6aaf0cd8caf7e7bcd7c7e87875e5e64cd6d43d1e5d383a4df6ef9f4b4db8",
       "size": 93118,
       "role": "Texture:Roughness"
@@ -3082,7 +3082,7 @@
     {
       "fileName": "Wood095_preview.png",
       "path": "packs/ambientcg-textures/textures/Wood095/Wood095_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood095/Wood095_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood095/Wood095_preview.png",
       "sha256": "5f9eb5202bbd7aa6310fcff4c85aba664a298c85573c87034a90544c82c0ef24",
       "size": 88476,
       "role": "Image"
@@ -3090,7 +3090,7 @@
     {
       "fileName": "WoodFloor051.ktx2",
       "path": "packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051.ktx2",
       "sha256": "76c0e05b603e83b47b657b78bf719cf7cb55e09663ae774325491b67c569a2fc",
       "size": 201055,
       "role": "Image"
@@ -3098,7 +3098,7 @@
     {
       "fileName": "WoodFloor051_1K-PNG_AmbientOcclusion.ktx2",
       "path": "packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_AmbientOcclusion.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_AmbientOcclusion.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_AmbientOcclusion.ktx2",
       "sha256": "404ea7f13af719b6d43c6037e9b1ae7be12df185eac021ecf17b91e5dd023963",
       "size": 47227,
       "role": "Texture:AO"
@@ -3106,7 +3106,7 @@
     {
       "fileName": "WoodFloor051_1K-PNG_Color.ktx2",
       "path": "packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_Color.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_Color.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_Color.ktx2",
       "sha256": "c1b3dd084d89fb6ad4e9b0d8ba8fdd0157f28c1f3a9bae9e78ab75c54490d76e",
       "size": 237444,
       "role": "Texture:Albedo"
@@ -3114,7 +3114,7 @@
     {
       "fileName": "WoodFloor051_1K-PNG_Color_preview.png",
       "path": "packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_Color_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_Color_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_Color_preview.png",
       "sha256": "042e4df5a0bd3161420b68675d450cb0d80221fc8d635ca62bdc20f62838da87",
       "size": 92158,
       "role": "Texture:Albedo"
@@ -3122,7 +3122,7 @@
     {
       "fileName": "WoodFloor051_1K-PNG_Displacement.ktx2",
       "path": "packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_Displacement.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_Displacement.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_Displacement.ktx2",
       "sha256": "371cca648d6e8a92a6f5e8abe4432bd9a288bfdedfea973e3e60e404cdb37add",
       "size": 234224,
       "role": "Texture:Height"
@@ -3130,7 +3130,7 @@
     {
       "fileName": "WoodFloor051_1K-PNG_NormalGL.ktx2",
       "path": "packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_NormalGL.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_NormalGL.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_NormalGL.ktx2",
       "sha256": "a73c4a0c51521e462052ca8e87e327464d592f8d3f08c7153117cc761fe6eb6d",
       "size": 123393,
       "role": "Texture:Normal"
@@ -3138,7 +3138,7 @@
     {
       "fileName": "WoodFloor051_1K-PNG_Roughness.ktx2",
       "path": "packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_Roughness.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_Roughness.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_1K-PNG_Roughness.ktx2",
       "sha256": "2f3412607e335595a08a272586b974a0fada8da88fae2e41264c76236937a3bc",
       "size": 185281,
       "role": "Texture:Roughness"
@@ -3146,7 +3146,7 @@
     {
       "fileName": "WoodFloor051_preview.png",
       "path": "packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_preview.png",
       "sha256": "4e46ccc278e49f79251147675cc4769b91d4da06fc748d0a876def560063d5e9",
       "size": 91335,
       "role": "Image"
@@ -3156,7 +3156,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/ambientcg-textures/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/cover.png",
       "sha256": "cb869ca09e4fd2a32cd0dad164f174bae8ea3bde132cf22ba10b1df5ecdc56e1",
       "size": 1868399,
       "contentType": "image/png",
@@ -3165,7 +3165,7 @@
     {
       "fileName": "Asphalt033_preview.png",
       "path": "packs/ambientcg-textures/textures/Asphalt033/Asphalt033_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Asphalt033/Asphalt033_preview.png",
       "sha256": "9d9af06efe42a784398bf632be30f308e5b5529d22f05dd468a7cf3f483994c8",
       "size": 95371,
       "contentType": "image/png",
@@ -3175,7 +3175,7 @@
     {
       "fileName": "Bricks104_preview.png",
       "path": "packs/ambientcg-textures/textures/Bricks104/Bricks104_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Bricks104/Bricks104_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Bricks104/Bricks104_preview.png",
       "sha256": "e3e04d3aeca3dfeefc5770be156e5bab27ea4291c5be6bc8eac811fc59db5539",
       "size": 110030,
       "contentType": "image/png",
@@ -3185,7 +3185,7 @@
     {
       "fileName": "Concrete034_preview.png",
       "path": "packs/ambientcg-textures/textures/Concrete034/Concrete034_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete034/Concrete034_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete034/Concrete034_preview.png",
       "sha256": "e7c5c972e25353f51c64c7d396d2c257d2cfcb5732082d3a2540d93d315aef4c",
       "size": 76065,
       "contentType": "image/png",
@@ -3195,7 +3195,7 @@
     {
       "fileName": "Concrete048_preview.png",
       "path": "packs/ambientcg-textures/textures/Concrete048/Concrete048_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Concrete048/Concrete048_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Concrete048/Concrete048_preview.png",
       "sha256": "68ed93c5001ad4dc54b4da92f945c4ffbb56ccbf37b05f822dcbc92241341b03",
       "size": 92338,
       "contentType": "image/png",
@@ -3205,7 +3205,7 @@
     {
       "fileName": "CorrugatedSteel009_preview.png",
       "path": "packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/CorrugatedSteel009/CorrugatedSteel009_preview.png",
       "sha256": "825144bb317f852b138036a68bffa4c7de4772fd7208405d6077dc97dccdb6f1",
       "size": 96038,
       "contentType": "image/png",
@@ -3215,7 +3215,7 @@
     {
       "fileName": "Grass001_preview.png",
       "path": "packs/ambientcg-textures/textures/Grass001/Grass001_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass001/Grass001_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass001/Grass001_preview.png",
       "sha256": "809573afe0f3cf67060a9c97608a4054fcf3c3882aa2899021cd24d6ac104d1d",
       "size": 133075,
       "contentType": "image/png",
@@ -3225,7 +3225,7 @@
     {
       "fileName": "Grass005_preview.png",
       "path": "packs/ambientcg-textures/textures/Grass005/Grass005_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Grass005/Grass005_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Grass005/Grass005_preview.png",
       "sha256": "a0d11df97f85ec8262b854a0f7455efc3d5e1dde7cff5c347dce1465671efd4c",
       "size": 125106,
       "contentType": "image/png",
@@ -3235,7 +3235,7 @@
     {
       "fileName": "Gravel043_preview.png",
       "path": "packs/ambientcg-textures/textures/Gravel043/Gravel043_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Gravel043/Gravel043_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Gravel043/Gravel043_preview.png",
       "sha256": "3ae24213fa9c4590b5b57a035614cf8d2abf2228c9aa94e5512bd978adf074f9",
       "size": 122234,
       "contentType": "image/png",
@@ -3245,7 +3245,7 @@
     {
       "fileName": "Ground103_preview.png",
       "path": "packs/ambientcg-textures/textures/Ground103/Ground103_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground103/Ground103_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground103/Ground103_preview.png",
       "sha256": "ae8eccb6c55cfcaf1bba1d8cb04c47da55113663c7295881c87f6204fecb3e0b",
       "size": 112136,
       "contentType": "image/png",
@@ -3255,7 +3255,7 @@
     {
       "fileName": "Ground106_preview.png",
       "path": "packs/ambientcg-textures/textures/Ground106/Ground106_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground106/Ground106_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground106/Ground106_preview.png",
       "sha256": "f94f064f7643eb551f5e3f1383d48016e44198551ee16ad63fcad556637f30c4",
       "size": 120332,
       "contentType": "image/png",
@@ -3265,7 +3265,7 @@
     {
       "fileName": "Ground107_preview.png",
       "path": "packs/ambientcg-textures/textures/Ground107/Ground107_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground107/Ground107_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground107/Ground107_preview.png",
       "sha256": "4e7ef51dbb28c94ee956141eaa3b1905be7904f0506509983d746f5b97e6245d",
       "size": 121487,
       "contentType": "image/png",
@@ -3275,7 +3275,7 @@
     {
       "fileName": "Ground108_preview.png",
       "path": "packs/ambientcg-textures/textures/Ground108/Ground108_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Ground108/Ground108_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Ground108/Ground108_preview.png",
       "sha256": "a66dfca247274821af449b5ca98808863008855b8c929232ae1bffeaf035cbe5",
       "size": 127506,
       "contentType": "image/png",
@@ -3285,7 +3285,7 @@
     {
       "fileName": "ManholeCover011_preview.png",
       "path": "packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ManholeCover011/ManholeCover011_preview.png",
       "sha256": "2024eccdc2f2b243d643ed2a639ca241f2a2ca71327efa81bcdd9f46e679d49e",
       "size": 116491,
       "contentType": "image/png",
@@ -3295,7 +3295,7 @@
     {
       "fileName": "Metal049A_preview.png",
       "path": "packs/ambientcg-textures/textures/Metal049A/Metal049A_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal049A/Metal049A_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal049A/Metal049A_preview.png",
       "sha256": "bdce26462f5d59270bcc38d980b09430026149088d7cd7525eaf30b1536a4bfa",
       "size": 76855,
       "contentType": "image/png",
@@ -3305,7 +3305,7 @@
     {
       "fileName": "Metal063_preview.png",
       "path": "packs/ambientcg-textures/textures/Metal063/Metal063_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Metal063/Metal063_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Metal063/Metal063_preview.png",
       "sha256": "89db815a7ae207c63241e7b1809c846dcb3cca585161c48dc575422c5e132ba6",
       "size": 92553,
       "contentType": "image/png",
@@ -3315,7 +3315,7 @@
     {
       "fileName": "PavingStones151_preview.png",
       "path": "packs/ambientcg-textures/textures/PavingStones151/PavingStones151_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/PavingStones151/PavingStones151_preview.png",
       "sha256": "9364dc0e0f71b8911e6ec48196efcd193104d272f0f9c66b6fcf5666d541111c",
       "size": 123315,
       "contentType": "image/png",
@@ -3325,7 +3325,7 @@
     {
       "fileName": "Road007_preview.png",
       "path": "packs/ambientcg-textures/textures/Road007/Road007_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road007/Road007_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road007/Road007_preview.png",
       "sha256": "a1e7e86c40b254d244d11dd14af89fba418c8f824bbfa62db26ef35785d8e287",
       "size": 66736,
       "contentType": "image/png",
@@ -3335,7 +3335,7 @@
     {
       "fileName": "Road012A_preview.png",
       "path": "packs/ambientcg-textures/textures/Road012A/Road012A_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Road012A/Road012A_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Road012A/Road012A_preview.png",
       "sha256": "068c1cd9c0d651cfa6c749ff0e64a00ead448a3ffe580c3c0e057c5063c2dc53",
       "size": 80360,
       "contentType": "image/png",
@@ -3345,7 +3345,7 @@
     {
       "fileName": "Rock063_preview.png",
       "path": "packs/ambientcg-textures/textures/Rock063/Rock063_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock063/Rock063_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock063/Rock063_preview.png",
       "sha256": "f27dbabf85584762a2c42de4f77da3c92329abffacb0cae6f888f354ab840908",
       "size": 127697,
       "contentType": "image/png",
@@ -3355,7 +3355,7 @@
     {
       "fileName": "Rock064_preview.png",
       "path": "packs/ambientcg-textures/textures/Rock064/Rock064_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Rock064/Rock064_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Rock064/Rock064_preview.png",
       "sha256": "aa26f5432603546a44f0dbb762223f6bc7d08b10c25532f01666b50efb18fbdc",
       "size": 121117,
       "contentType": "image/png",
@@ -3365,7 +3365,7 @@
     {
       "fileName": "ScatteredLeaves009_preview.png",
       "path": "packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/ScatteredLeaves009/ScatteredLeaves009_preview.png",
       "sha256": "3564117bd4bc399fd190f999542efdf399f043a4526eead00dd856f42321b41f",
       "size": 143819,
       "contentType": "image/png",
@@ -3375,7 +3375,7 @@
     {
       "fileName": "Tiles139_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles139/Tiles139_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles139/Tiles139_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles139/Tiles139_preview.png",
       "sha256": "150f32ad37cc8df13802444d8b432b0f7c2eb9318a343d0d9544823452eeae05",
       "size": 92765,
       "contentType": "image/png",
@@ -3385,7 +3385,7 @@
     {
       "fileName": "Tiles140_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles140/Tiles140_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles140/Tiles140_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles140/Tiles140_preview.png",
       "sha256": "df253b2fd5fc0f1c913e05c3447ac4aea2f07caa9ed3da829425cb05eedef1f3",
       "size": 97137,
       "contentType": "image/png",
@@ -3395,7 +3395,7 @@
     {
       "fileName": "Tiles141_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles141/Tiles141_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles141/Tiles141_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles141/Tiles141_preview.png",
       "sha256": "5427988351fd96d5eddd601a90e1a4a9fc6f0bf2f5f9d2703a0bdbf90ed32de5",
       "size": 89017,
       "contentType": "image/png",
@@ -3405,7 +3405,7 @@
     {
       "fileName": "Tiles142_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles142/Tiles142_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles142/Tiles142_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles142/Tiles142_preview.png",
       "sha256": "33293e9140ea0a4af2731a1b00e05dc3b686571b097b40fa05530ee1714c17e4",
       "size": 100529,
       "contentType": "image/png",
@@ -3415,7 +3415,7 @@
     {
       "fileName": "Tiles143_preview.png",
       "path": "packs/ambientcg-textures/textures/Tiles143/Tiles143_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Tiles143/Tiles143_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Tiles143/Tiles143_preview.png",
       "sha256": "f58a91d083c51c82330a83abb498e943ac2a2de3ff39b7d069bcb0a7369520c7",
       "size": 100157,
       "contentType": "image/png",
@@ -3425,7 +3425,7 @@
     {
       "fileName": "Wood051_preview.png",
       "path": "packs/ambientcg-textures/textures/Wood051/Wood051_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood051/Wood051_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood051/Wood051_preview.png",
       "sha256": "8242e32ef7f6fc9b3ec8e8b0170a8a1cca07f9544b7dcd5924c9370d5d2b3d1b",
       "size": 86084,
       "contentType": "image/png",
@@ -3435,7 +3435,7 @@
     {
       "fileName": "Wood092_preview.png",
       "path": "packs/ambientcg-textures/textures/Wood092/Wood092_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood092/Wood092_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood092/Wood092_preview.png",
       "sha256": "c09b9d6e57983e6cac32eeccc7a131d43d8e73da2782a92b9a647a1c18dc2dc3",
       "size": 81527,
       "contentType": "image/png",
@@ -3445,7 +3445,7 @@
     {
       "fileName": "Wood094_preview.png",
       "path": "packs/ambientcg-textures/textures/Wood094/Wood094_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood094/Wood094_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood094/Wood094_preview.png",
       "sha256": "35f4387c3ca8f5f997c9ab8d1b8b1881638872a9f7bbfc0d547aba4172b1e786",
       "size": 86023,
       "contentType": "image/png",
@@ -3455,7 +3455,7 @@
     {
       "fileName": "Wood095_preview.png",
       "path": "packs/ambientcg-textures/textures/Wood095/Wood095_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/Wood095/Wood095_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/Wood095/Wood095_preview.png",
       "sha256": "5f9eb5202bbd7aa6310fcff4c85aba664a298c85573c87034a90544c82c0ef24",
       "size": 88476,
       "contentType": "image/png",
@@ -3465,7 +3465,7 @@
     {
       "fileName": "WoodFloor051_preview.png",
       "path": "packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_preview.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/6090abdb0efd237bfb6172a393741341c92f7da2/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_preview.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/a825b94984deb82b1d0e447336f9697e05b0abfd/packs/ambientcg-textures/textures/WoodFloor051/WoodFloor051_preview.png",
       "sha256": "4e46ccc278e49f79251147675cc4769b91d4da06fc748d0a876def560063d5e9",
       "size": 91335,
       "contentType": "image/png",
