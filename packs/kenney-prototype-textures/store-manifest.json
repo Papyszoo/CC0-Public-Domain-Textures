@@ -6,7 +6,7 @@
   "website": "https://kenney.nl/assets/prototype-textures",
   "description": "Universal development and blockout grid prototype textures (dark, light, orange, green, red, purple grids with meter units) by Kenney (kenney.nl) in max 512px KTX2 format. CC0 1.0 Universal.",
   "folder": "packs/kenney-prototype-textures",
-  "pinnedSha": "ea249a862ed7676fc62fe14b71799faf839f0059",
+  "pinnedSha": "7b62885530bf1db6a5e863ec797765e86ec7e11a",
   "itemCount": 13,
   "items": [
     {
@@ -170,7 +170,7 @@
     {
       "fileName": "texture_01.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_01.ktx2",
       "sha256": "c7155a6d93ecf5b3938b37ce81348fd9f3ebfdfa75329e5b7fdbb40e3f3efd53",
       "size": 14764,
       "role": "Image"
@@ -178,7 +178,7 @@
     {
       "fileName": "texture_02.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_02.ktx2",
       "sha256": "a9ad66879c9bdfcb39a92641f8c8623a1e45bab643d58808d14ba04a5d069b71",
       "size": 9828,
       "role": "Image"
@@ -186,7 +186,7 @@
     {
       "fileName": "texture_03.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_03.ktx2",
       "sha256": "09816573d1fc77b4d707dacfa46017ffdfcd29a1d9333e07a7e142a9d1061b21",
       "size": 7857,
       "role": "Image"
@@ -194,7 +194,7 @@
     {
       "fileName": "texture_04.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_04.ktx2",
       "sha256": "aab3871c96c25d8626e5b25c935ea51dc99cc86a22895d7b042a64694af03f18",
       "size": 8288,
       "role": "Image"
@@ -202,7 +202,7 @@
     {
       "fileName": "texture_05.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_05.ktx2",
       "sha256": "15b0b81310e6f49694d5af2b602c0137b67b786a9a3449535452c0fb1d7b28a5",
       "size": 21758,
       "role": "Image"
@@ -210,7 +210,7 @@
     {
       "fileName": "texture_06.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_06.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_06.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_06.ktx2",
       "sha256": "b4cda21ef40a6606a24c708ae8fd3a34d6e6840c556f0c89f11dd81dbe51da67",
       "size": 24937,
       "role": "Image"
@@ -218,7 +218,7 @@
     {
       "fileName": "texture_07.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_07.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_07.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_07.ktx2",
       "sha256": "b01d2eec5f5959b39e28d4385e98951d4d82bf4fe1e65c9d1393ad7f822d997e",
       "size": 10174,
       "role": "Image"
@@ -226,7 +226,7 @@
     {
       "fileName": "texture_08.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_08.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_08.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_08.ktx2",
       "sha256": "7da47b22d5df1b3a6600eafa9ddb93be77f16f84e8d2db7c2f8190981a154eb1",
       "size": 9597,
       "role": "Image"
@@ -234,7 +234,7 @@
     {
       "fileName": "texture_09.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_09.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_09.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_09.ktx2",
       "sha256": "3c5e31f2ff2451dd8a83ffccb15e61255117b5b832d081a1a061ff7eb8cf27d3",
       "size": 3616,
       "role": "Image"
@@ -242,7 +242,7 @@
     {
       "fileName": "texture_10.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_10.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_10.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_10.ktx2",
       "sha256": "ab3897be700975af3e1e4f3caff458952c728ce45b65ff4e369f1392133c4f6d",
       "size": 5757,
       "role": "Image"
@@ -250,7 +250,7 @@
     {
       "fileName": "texture_11.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_11.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_11.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_11.ktx2",
       "sha256": "f5a569a29f83b0842f7a6efeffc814f9b55aefa78c889c3275e4af90118ac867",
       "size": 16145,
       "role": "Image"
@@ -258,7 +258,7 @@
     {
       "fileName": "texture_12.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_12.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_12.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_12.ktx2",
       "sha256": "db0c2689149d19147570e613192668c439d77ff5f195815263438ef4693d218b",
       "size": 17305,
       "role": "Image"
@@ -266,7 +266,7 @@
     {
       "fileName": "texture_13.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_13.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_13.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_13.ktx2",
       "sha256": "4a872489196af9b692cffbb4cb8927a568a45b3f7f838cfcab3c8cbdb49e09f2",
       "size": 17806,
       "role": "Image"
@@ -276,7 +276,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-prototype-textures/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/cover.png",
       "sha256": "46818d616f7c1311eb4b6bef93589b2357d9e95a4d443452305f98b0efa476d4",
       "size": 158255,
       "contentType": "image/png",
@@ -285,7 +285,7 @@
     {
       "fileName": "texture_01.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_01.ktx2",
       "sha256": "c7155a6d93ecf5b3938b37ce81348fd9f3ebfdfa75329e5b7fdbb40e3f3efd53",
       "size": 14764,
       "contentType": "image/ktx2",
@@ -295,7 +295,7 @@
     {
       "fileName": "texture_02.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_02.ktx2",
       "sha256": "a9ad66879c9bdfcb39a92641f8c8623a1e45bab643d58808d14ba04a5d069b71",
       "size": 9828,
       "contentType": "image/ktx2",
@@ -305,7 +305,7 @@
     {
       "fileName": "texture_03.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_03.ktx2",
       "sha256": "09816573d1fc77b4d707dacfa46017ffdfcd29a1d9333e07a7e142a9d1061b21",
       "size": 7857,
       "contentType": "image/ktx2",
@@ -315,7 +315,7 @@
     {
       "fileName": "texture_04.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_04.ktx2",
       "sha256": "aab3871c96c25d8626e5b25c935ea51dc99cc86a22895d7b042a64694af03f18",
       "size": 8288,
       "contentType": "image/ktx2",
@@ -325,7 +325,7 @@
     {
       "fileName": "texture_05.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_05.ktx2",
       "sha256": "15b0b81310e6f49694d5af2b602c0137b67b786a9a3449535452c0fb1d7b28a5",
       "size": 21758,
       "contentType": "image/ktx2",
@@ -335,7 +335,7 @@
     {
       "fileName": "texture_06.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_06.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_06.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_06.ktx2",
       "sha256": "b4cda21ef40a6606a24c708ae8fd3a34d6e6840c556f0c89f11dd81dbe51da67",
       "size": 24937,
       "contentType": "image/ktx2",
@@ -345,7 +345,7 @@
     {
       "fileName": "texture_07.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_07.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_07.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_07.ktx2",
       "sha256": "b01d2eec5f5959b39e28d4385e98951d4d82bf4fe1e65c9d1393ad7f822d997e",
       "size": 10174,
       "contentType": "image/ktx2",
@@ -355,7 +355,7 @@
     {
       "fileName": "texture_08.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_08.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_08.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_08.ktx2",
       "sha256": "7da47b22d5df1b3a6600eafa9ddb93be77f16f84e8d2db7c2f8190981a154eb1",
       "size": 9597,
       "contentType": "image/ktx2",
@@ -365,7 +365,7 @@
     {
       "fileName": "texture_09.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_09.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_09.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_09.ktx2",
       "sha256": "3c5e31f2ff2451dd8a83ffccb15e61255117b5b832d081a1a061ff7eb8cf27d3",
       "size": 3616,
       "contentType": "image/ktx2",
@@ -375,7 +375,7 @@
     {
       "fileName": "texture_10.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_10.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_10.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_10.ktx2",
       "sha256": "ab3897be700975af3e1e4f3caff458952c728ce45b65ff4e369f1392133c4f6d",
       "size": 5757,
       "contentType": "image/ktx2",
@@ -385,7 +385,7 @@
     {
       "fileName": "texture_11.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_11.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_11.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_11.ktx2",
       "sha256": "f5a569a29f83b0842f7a6efeffc814f9b55aefa78c889c3275e4af90118ac867",
       "size": 16145,
       "contentType": "image/ktx2",
@@ -395,7 +395,7 @@
     {
       "fileName": "texture_12.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_12.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_12.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_12.ktx2",
       "sha256": "db0c2689149d19147570e613192668c439d77ff5f195815263438ef4693d218b",
       "size": 17305,
       "contentType": "image/ktx2",
@@ -405,7 +405,7 @@
     {
       "fileName": "texture_13.ktx2",
       "path": "packs/kenney-prototype-textures/textures/texture_13.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-prototype-textures/textures/texture_13.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/7b62885530bf1db6a5e863ec797765e86ec7e11a/packs/kenney-prototype-textures/textures/texture_13.ktx2",
       "sha256": "4a872489196af9b692cffbb4cb8927a568a45b3f7f838cfcab3c8cbdb49e09f2",
       "size": 17806,
       "contentType": "image/ktx2",
