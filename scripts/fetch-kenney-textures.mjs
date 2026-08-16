@@ -26,15 +26,6 @@ const KENNEY_TEXTURE_PACKS = [
     subcategory: 'Plastic & Rubber',
     preferSubdir: 'PNG',
   },
-  {
-    slug: 'kenney-particle-pack',
-    name: 'Particle Textures Pack',
-    pageUrl: 'https://kenney.nl/assets/particle-pack',
-    description: 'Over 80 particle, fire, smoke, star, flare, spark, and VFX textures by Kenney (kenney.nl) in max 512px KTX2 format. CC0 1.0 Universal.',
-    category: 'Imperfections & Overlays',
-    subcategory: 'Decals & Stains',
-    preferSubdir: 'PNG (Transparent)',
-  },
 ];
 
 async function fetchPageInfo(pageUrl) {

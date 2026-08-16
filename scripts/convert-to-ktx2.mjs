@@ -161,8 +161,8 @@ function convertFile(inputPath) {
     execSync(cmd, { stdio: ['pipe', 'pipe', 'inherit'] });
     console.log(`  -> Created ${path.relative(REPO, ktx2Path)} (${(statSync(ktx2Path).size / 1024).toFixed(1)} KB)`);
 
-    // If this is an Albedo map, also generate/keep a 256px preview PNG for web catalog inspection
-    if (isAlbedoMap(inputPath)) {
+    // If this is an Albedo/Color map or general texture, also generate a 256px preview PNG for web catalog inspection
+    if (isAlbedoMap(inputPath) || !isLinearMap(inputPath)) {
       const previewPngPath = path.join(dir, `${stem}_preview.png`);
       try {
         execSync(`sips -Z 256 "${inputPath}" --out "${previewPngPath}"`, { stdio: ['pipe', 'ignore', 'ignore'] });

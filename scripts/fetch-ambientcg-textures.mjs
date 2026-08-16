@@ -46,13 +46,15 @@ function downloadFile(url, destPath) {
 
 async function main() {
   console.log('Fetching AmbientCG materials index...');
-  let queryUrl = 'https://ambientcg.com/api/v2/full_json?sort=Popular&limit=100';
+  let queryUrl = 'https://ambientcg.com/api/v2/full_json?type=Material&sort=Popular&limit=100';
   if (targetCat) {
     queryUrl += `&q=${encodeURIComponent(targetCat)}`;
   }
 
   const res = await fetchJson(queryUrl);
-  let assets = res.foundAssets || [];
+  let assets = (res.foundAssets || []).filter(
+    (a) => (a.dataType === 'Material' || !a.dataType) && !a.assetId.toLowerCase().includes('hdri')
+  );
 
   if (targetIds) {
     const targetSet = new Set(targetIds.map((s) => s.toLowerCase()));
