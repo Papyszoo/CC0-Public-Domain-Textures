@@ -123,6 +123,16 @@ async function main() {
       stdio: 'inherit',
     });
 
+    // Download official 3D material sphere render from Poly Haven
+    const thumbUrl = info.thumbnail_url || `https://cdn.polyhaven.com/asset_img/primary/${id}.png`;
+    const previewPngPath = path.join(matDir, `${id}_preview.png`);
+    downloadFile(thumbUrl, previewPngPath);
+    if (existsSync(previewPngPath)) {
+      try {
+        execSync(`sips -Z 256 "${previewPngPath}"`, { stdio: ['ignore', 'ignore', 'ignore'] });
+      } catch {}
+    }
+
     upstreamItems[id] = {
       name: info.name || id,
       source_url: `https://polyhaven.com/a/${id}`,

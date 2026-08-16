@@ -119,7 +119,17 @@ async function main() {
       }
     }
 
-    // Convert raw maps to max 1k KTX2
+    // Preserve author 3D render thumbnail as _preview.png
+    const rawPreviewPath = path.join(matDir, `${assetId}.png`);
+    const finalPreviewPath = path.join(matDir, `${assetId}_preview.png`);
+    if (existsSync(rawPreviewPath)) {
+      renameSync(rawPreviewPath, finalPreviewPath);
+      try {
+        execSync(`sips -Z 256 "${finalPreviewPath}"`, { stdio: ['ignore', 'ignore', 'ignore'] });
+      } catch {}
+    }
+
+    // Convert raw maps to max 512px KTX2
     execSync(`node "${path.join(SCRIPTS_DIR, 'convert-to-ktx2.mjs')}" --file "${matDir}" 2>/dev/null || node "${path.join(SCRIPTS_DIR, 'convert-to-ktx2.mjs')}" --pack "${PACK_SLUG}"`, {
       stdio: 'inherit',
     });

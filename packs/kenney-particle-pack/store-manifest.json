@@ -6,7 +6,7 @@
   "website": "https://kenney.nl/assets/particle-pack",
   "description": "Over 80 particle, fire, smoke, star, flare, spark, and VFX textures by Kenney (kenney.nl) in max 512px KTX2 format. CC0 1.0 Universal.",
   "folder": "packs/kenney-particle-pack",
-  "pinnedSha": "240d96a57c46c8494d4044b98b4aec77edd6e71d",
+  "pinnedSha": "ea249a862ed7676fc62fe14b71799faf839f0059",
   "itemCount": 96,
   "items": [
     {
@@ -1166,7 +1166,7 @@
     {
       "fileName": "circle_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/circle_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/circle_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/circle_01.ktx2",
       "sha256": "f967b95e995e4c1347d194e51e45b905d1f7dabb7228e32c339eeea0ce263d39",
       "size": 95656,
       "role": "Image"
@@ -1174,7 +1174,7 @@
     {
       "fileName": "circle_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/circle_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/circle_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/circle_02.ktx2",
       "sha256": "f16613e99b7b948aac9cab1f4a5ba903a3ebd7bdd9ecbb3f7a7fb5ece5444e6c",
       "size": 58682,
       "role": "Image"
@@ -1182,7 +1182,7 @@
     {
       "fileName": "circle_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/circle_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/circle_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/circle_03.ktx2",
       "sha256": "dbc6261bebeed22d001e9ef27af4124647796623ddb36a25cc4100e92089497f",
       "size": 105420,
       "role": "Image"
@@ -1190,7 +1190,7 @@
     {
       "fileName": "circle_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/circle_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/circle_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/circle_04.ktx2",
       "sha256": "4a4180fdef023e2b6df3b9226c3015c4af07f4003876f3d541fe78f2145e38f8",
       "size": 77346,
       "role": "Image"
@@ -1198,7 +1198,7 @@
     {
       "fileName": "circle_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/circle_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/circle_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/circle_05.ktx2",
       "sha256": "a98520c4e052eb06de6a8dfdd763887c5bac3006b5514acad445d08a0b95d641",
       "size": 100122,
       "role": "Image"
@@ -1206,7 +1206,7 @@
     {
       "fileName": "dirt_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/dirt_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/dirt_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/dirt_01.ktx2",
       "sha256": "40c5b02fdbdb9adccc98868e88eee29da9489d7a20c3bb67c1f0307bd11ff537",
       "size": 71849,
       "role": "Image"
@@ -1214,7 +1214,7 @@
     {
       "fileName": "dirt_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/dirt_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/dirt_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/dirt_02.ktx2",
       "sha256": "b7bcba8fbdb10c10f7fbb5a866a948e0e2041166966286722753ca5e6cc59613",
       "size": 82538,
       "role": "Image"
@@ -1222,7 +1222,7 @@
     {
       "fileName": "dirt_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/dirt_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/dirt_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/dirt_03.ktx2",
       "sha256": "d9900b4c14c984a88fb3b4743bef5f95bba2f652e446dfe3340bad867115e47d",
       "size": 161766,
       "role": "Image"
@@ -1230,7 +1230,7 @@
     {
       "fileName": "fire_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/fire_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/fire_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/fire_01.ktx2",
       "sha256": "f62902710c4cdaf815b5fa70934c43926454c2796c3b047c3ad360ce31deaea8",
       "size": 144110,
       "role": "Image"
@@ -1238,7 +1238,7 @@
     {
       "fileName": "fire_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/fire_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/fire_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/fire_02.ktx2",
       "sha256": "b14f950e3c4f36f8b139c0725ff27dd7868971539f546e63a940e97e748ff8ab",
       "size": 127695,
       "role": "Image"
@@ -1246,7 +1246,7 @@
     {
       "fileName": "flame_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_01.ktx2",
       "sha256": "1387823a0a66af508cc2650b05454c57b9793523d66702d41f99bedf907fe72c",
       "size": 74549,
       "role": "Image"
@@ -1254,7 +1254,7 @@
     {
       "fileName": "flame_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_02.ktx2",
       "sha256": "4567bb48d3aa3c3010f3ac991a0c1f8c13552e08b1189e6457ff012ee6953e8e",
       "size": 98632,
       "role": "Image"
@@ -1262,7 +1262,7 @@
     {
       "fileName": "flame_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_03.ktx2",
       "sha256": "02e0cf9d9679cb4cbe8a756984a9923fe12566eb2092668ed7e7fbb1bbef7978",
       "size": 65922,
       "role": "Image"
@@ -1270,7 +1270,7 @@
     {
       "fileName": "flame_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_04.ktx2",
       "sha256": "9135cafd90a2da1342cf47ff960e9c8d25eafbf6c798c11f970985526e6f8cca",
       "size": 91059,
       "role": "Image"
@@ -1278,7 +1278,7 @@
     {
       "fileName": "flame_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_05.ktx2",
       "sha256": "6324b3580e0484442d7c2ffb768a34ea6efc9c702cd83b4e27dfb58f7197fac9",
       "size": 16702,
       "role": "Image"
@@ -1286,7 +1286,7 @@
     {
       "fileName": "flame_05_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_05_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_05_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_05_rotated.ktx2",
       "sha256": "dcfe6e1a4a805e51c58979387327da802d75d5bba25f8e97553ccb3aca1080e2",
       "size": 15301,
       "role": "Image"
@@ -1294,7 +1294,7 @@
     {
       "fileName": "flame_06.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_06.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_06.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_06.ktx2",
       "sha256": "485ed1a518e3190408d29a8e7dcda0ebc9f5c095f56e068f22d7ab0ca7262277",
       "size": 20227,
       "role": "Image"
@@ -1302,7 +1302,7 @@
     {
       "fileName": "flame_06_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_06_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_06_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_06_rotated.ktx2",
       "sha256": "ff0ccccbff86768678b8de32f66402c55b192345907497f01b7d95352df20fdb",
       "size": 18911,
       "role": "Image"
@@ -1310,7 +1310,7 @@
     {
       "fileName": "flare_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/flare_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flare_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flare_01.ktx2",
       "sha256": "8daf2d00d8cea9bb9929578f85e51ad8c8aca30dac5520d1176e2ad620b3ded4",
       "size": 64732,
       "role": "Image"
@@ -1318,7 +1318,7 @@
     {
       "fileName": "light_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/light_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/light_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/light_01.ktx2",
       "sha256": "025be25d6c161e422b682b74b8bd1470cc0a886ae5df28c3d370dfd6ae718d61",
       "size": 141810,
       "role": "Image"
@@ -1326,7 +1326,7 @@
     {
       "fileName": "light_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/light_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/light_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/light_02.ktx2",
       "sha256": "39133d0f977fb87c3016830464cde5c6190f8257531aa672666ad93ba7ecfe7c",
       "size": 140858,
       "role": "Image"
@@ -1334,7 +1334,7 @@
     {
       "fileName": "light_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/light_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/light_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/light_03.ktx2",
       "sha256": "2bab3786a8c0e7143abd81a301b14a770008dab9373638bc4d4c3b4152e7a4cc",
       "size": 144783,
       "role": "Image"
@@ -1342,7 +1342,7 @@
     {
       "fileName": "magic_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/magic_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/magic_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/magic_01.ktx2",
       "sha256": "6ee095285a6b675319346f434a717a185ea639df91e24498db16bfb45cfe8073",
       "size": 111286,
       "role": "Image"
@@ -1350,7 +1350,7 @@
     {
       "fileName": "magic_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/magic_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/magic_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/magic_02.ktx2",
       "sha256": "b3b791d205103883a9390baa04ca01ef4e3031d28baa8b6c4361e13f6d7267c8",
       "size": 112203,
       "role": "Image"
@@ -1358,7 +1358,7 @@
     {
       "fileName": "magic_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/magic_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/magic_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/magic_03.ktx2",
       "sha256": "0acb6ffea9454b87ec88cae442eeea6d515a4c85b32ee4ab65666cf8b048dafa",
       "size": 85991,
       "role": "Image"
@@ -1366,7 +1366,7 @@
     {
       "fileName": "magic_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/magic_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/magic_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/magic_04.ktx2",
       "sha256": "15054ee5427e6ebd34f0c17fe36cdecd9475d81be98d77a245b2262e7042181c",
       "size": 69153,
       "role": "Image"
@@ -1374,7 +1374,7 @@
     {
       "fileName": "magic_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/magic_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/magic_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/magic_05.ktx2",
       "sha256": "1828028d539c81b2f2e0e90b635f348207343fa182a84f2ba20a08c694cba39a",
       "size": 114001,
       "role": "Image"
@@ -1382,7 +1382,7 @@
     {
       "fileName": "muzzle_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_01.ktx2",
       "sha256": "42dded51446772cb87086f610c41a311294c04c51e9e7531728c366f622e18f4",
       "size": 111236,
       "role": "Image"
@@ -1390,7 +1390,7 @@
     {
       "fileName": "muzzle_01_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_01_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_01_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_01_rotated.ktx2",
       "sha256": "4478baf750365ac75fc3a9bb55f619d06b4a6ff4c6fc73974bcb523981012574",
       "size": 110575,
       "role": "Image"
@@ -1398,7 +1398,7 @@
     {
       "fileName": "muzzle_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_02.ktx2",
       "sha256": "c3a54d1070036358ba0de7c7db4a5261ff0a0580b8b8bd7b9e98280e82de9700",
       "size": 78084,
       "role": "Image"
@@ -1406,7 +1406,7 @@
     {
       "fileName": "muzzle_02_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_02_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_02_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_02_rotated.ktx2",
       "sha256": "62d16b9f5bd0f285660b275cb2874d3c0ad144ec4c219907d3f947a5fe3cc304",
       "size": 76820,
       "role": "Image"
@@ -1414,7 +1414,7 @@
     {
       "fileName": "muzzle_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_03.ktx2",
       "sha256": "046236919d99fb7af782e93307a97fda1c08a17989cf1a462993848698254320",
       "size": 78049,
       "role": "Image"
@@ -1422,7 +1422,7 @@
     {
       "fileName": "muzzle_03_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_03_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_03_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_03_rotated.ktx2",
       "sha256": "9aed4ffc353fa40fd563d5272e55fc7915a8fd2bd71cf9eae87c6352ec9da01f",
       "size": 74436,
       "role": "Image"
@@ -1430,7 +1430,7 @@
     {
       "fileName": "muzzle_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_04.ktx2",
       "sha256": "2d09550505a053d187bab274ce681104d30f7bf7eb71ba00cbea58f63156c001",
       "size": 83491,
       "role": "Image"
@@ -1438,7 +1438,7 @@
     {
       "fileName": "muzzle_04_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_04_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_04_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_04_rotated.ktx2",
       "sha256": "a9de815b74d51c861f0fff7accc732528465d6ffacac6d889303716a4fe31b8e",
       "size": 77762,
       "role": "Image"
@@ -1446,7 +1446,7 @@
     {
       "fileName": "muzzle_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_05.ktx2",
       "sha256": "521eff604509fa310bdf97744dd95259c91b2660d38995f0a3b4716ddc0a56da",
       "size": 72481,
       "role": "Image"
@@ -1454,7 +1454,7 @@
     {
       "fileName": "muzzle_05_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_05_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_05_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_05_rotated.ktx2",
       "sha256": "0872ab8fac0b78fd2fb0d53afc282ea007a39637ff5dccc804fc52f302bac2dc",
       "size": 69111,
       "role": "Image"
@@ -1462,7 +1462,7 @@
     {
       "fileName": "scorch_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/scorch_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/scorch_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/scorch_01.ktx2",
       "sha256": "2f2760c4588ab1d547f0d8404f37913868fcf97979830b5248322a9daa2edcb7",
       "size": 88120,
       "role": "Image"
@@ -1470,7 +1470,7 @@
     {
       "fileName": "scorch_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/scorch_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/scorch_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/scorch_02.ktx2",
       "sha256": "5f60dc365d9667ef9ee5ee8cea8d39d836ec03c11306ff6c414284081b338811",
       "size": 108024,
       "role": "Image"
@@ -1478,7 +1478,7 @@
     {
       "fileName": "scorch_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/scorch_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/scorch_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/scorch_03.ktx2",
       "sha256": "8a2531003f46c8be6da3634ffe2d151b9a3bc901d94babd375c66e22b0f85820",
       "size": 131887,
       "role": "Image"
@@ -1486,7 +1486,7 @@
     {
       "fileName": "scratch_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/scratch_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/scratch_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/scratch_01.ktx2",
       "sha256": "4893ec3a8eca0023c4b96b0598ca4c73a265c0b657f9973f78e22574cbce1e15",
       "size": 86666,
       "role": "Image"
@@ -1494,7 +1494,7 @@
     {
       "fileName": "slash_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/slash_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/slash_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/slash_01.ktx2",
       "sha256": "d0066d87db3eafadf6f64ac99fcda7c56ba2205458c3ee1953336b6509347ebd",
       "size": 31383,
       "role": "Image"
@@ -1502,7 +1502,7 @@
     {
       "fileName": "slash_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/slash_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/slash_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/slash_02.ktx2",
       "sha256": "93dd3ca449b5c9995ce6bcd4ee7fd3ce7eef6849051723da9a3718c39bab3ede",
       "size": 49305,
       "role": "Image"
@@ -1510,7 +1510,7 @@
     {
       "fileName": "slash_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/slash_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/slash_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/slash_03.ktx2",
       "sha256": "64668a8a4099451680a44634e20d29a33ce79be14c46b6636b6f75d3c0d26779",
       "size": 23319,
       "role": "Image"
@@ -1518,7 +1518,7 @@
     {
       "fileName": "slash_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/slash_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/slash_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/slash_04.ktx2",
       "sha256": "2bbb2f52e49f1ae4b2d4a59b0538526fa4e0f12378d81606505cc7a1b9c0ed67",
       "size": 26703,
       "role": "Image"
@@ -1526,7 +1526,7 @@
     {
       "fileName": "smoke_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_01.ktx2",
       "sha256": "c84046ecdb69c10828733de629ef66bffeff0d683702d055a31540141bcbc35a",
       "size": 134416,
       "role": "Image"
@@ -1534,7 +1534,7 @@
     {
       "fileName": "smoke_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_02.ktx2",
       "sha256": "fc1b675bf76022a3809cbd5cae9f48f71e80b11a7989212d55a0cd016f93eb03",
       "size": 129672,
       "role": "Image"
@@ -1542,7 +1542,7 @@
     {
       "fileName": "smoke_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_03.ktx2",
       "sha256": "0af7d76249f4fd4f9ad8b34c8ebb3ee3b9e8ccf0464e4d9530c4c3984bb1a96b",
       "size": 46348,
       "role": "Image"
@@ -1550,7 +1550,7 @@
     {
       "fileName": "smoke_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_04.ktx2",
       "sha256": "ff21dffb9f3e7d2c6a211a8db81aa6013eb556546d862eedcfbc601cb286cc81",
       "size": 128129,
       "role": "Image"
@@ -1558,7 +1558,7 @@
     {
       "fileName": "smoke_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_05.ktx2",
       "sha256": "fc544e76a574378192692caf1d9e1d4e644b593b92d5e15062bcd16159a359e1",
       "size": 104882,
       "role": "Image"
@@ -1566,7 +1566,7 @@
     {
       "fileName": "smoke_06.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_06.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_06.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_06.ktx2",
       "sha256": "a7507708bb908e0011bcdbfc43e53c2fc5986741c5810d5f840e4d21c5d4a34f",
       "size": 79508,
       "role": "Image"
@@ -1574,7 +1574,7 @@
     {
       "fileName": "smoke_07.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_07.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_07.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_07.ktx2",
       "sha256": "31bbcaf179eca04ee9b7b179cf2771343fefe40255d929d0d7db714c8fb783dd",
       "size": 96264,
       "role": "Image"
@@ -1582,7 +1582,7 @@
     {
       "fileName": "smoke_08.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_08.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_08.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_08.ktx2",
       "sha256": "de0773be5fa1290e74aa8247d6de156c35daec9dae8d23e53bceeaaf66bbb120",
       "size": 108917,
       "role": "Image"
@@ -1590,7 +1590,7 @@
     {
       "fileName": "smoke_09.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_09.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_09.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_09.ktx2",
       "sha256": "eed88cf782aa7f702a506743bbccb70ae996404f1dda4df7bd3b140839c04822",
       "size": 106699,
       "role": "Image"
@@ -1598,7 +1598,7 @@
     {
       "fileName": "smoke_10.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_10.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_10.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_10.ktx2",
       "sha256": "c3134670958695cecd45a2fc6e8ef2ccefbf90875dcb1054c1b072d71db5e7bc",
       "size": 110203,
       "role": "Image"
@@ -1606,7 +1606,7 @@
     {
       "fileName": "spark_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_01.ktx2",
       "sha256": "c3f9fbb15cc0dd1eaf0f9ca8809e1257e1d81aefd4471ac392f8fbedf83bafbb",
       "size": 137247,
       "role": "Image"
@@ -1614,7 +1614,7 @@
     {
       "fileName": "spark_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_02.ktx2",
       "sha256": "4a5a648d4db3091f119eb816aa18c7f28b04a733d7a23dc35bfeea8bbd8c22e4",
       "size": 144007,
       "role": "Image"
@@ -1622,7 +1622,7 @@
     {
       "fileName": "spark_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_03.ktx2",
       "sha256": "43aaea34273253ef016b507253961bcd9114eab4d96679ecbea09ba4a31c088d",
       "size": 109438,
       "role": "Image"
@@ -1630,7 +1630,7 @@
     {
       "fileName": "spark_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_04.ktx2",
       "sha256": "c63928b546357983e52d316d9143ea17f777bb9e54fdbb72142066701ef6e18c",
       "size": 120283,
       "role": "Image"
@@ -1638,7 +1638,7 @@
     {
       "fileName": "spark_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_05.ktx2",
       "sha256": "ecccf052d1fe1ad72559d2cb46db390bf74a1e70ca8dfbac55f7a3defa0c901f",
       "size": 93058,
       "role": "Image"
@@ -1646,7 +1646,7 @@
     {
       "fileName": "spark_05_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_05_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_05_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_05_rotated.ktx2",
       "sha256": "3b18f8c2e0f3f8894e75b060cab5b057ddc44228bd34bcee25dda7a86a9531eb",
       "size": 88664,
       "role": "Image"
@@ -1654,7 +1654,7 @@
     {
       "fileName": "spark_06.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_06.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_06.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_06.ktx2",
       "sha256": "a6e334057233471c707dea1b60f17e28e38e296e3302cff05ffc7b5bc75f4092",
       "size": 65902,
       "role": "Image"
@@ -1662,7 +1662,7 @@
     {
       "fileName": "spark_06_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_06_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_06_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_06_rotated.ktx2",
       "sha256": "638e2a82103362c3030126ea14d45c846a52729fd0bf23637354df25b00c3fdb",
       "size": 60559,
       "role": "Image"
@@ -1670,7 +1670,7 @@
     {
       "fileName": "spark_07.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_07.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_07.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_07.ktx2",
       "sha256": "e2e474b75b4a6cad53a5b07274f3a987aa6f448dd4d9c9670a26cf256a53338a",
       "size": 60755,
       "role": "Image"
@@ -1678,7 +1678,7 @@
     {
       "fileName": "star_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_01.ktx2",
       "sha256": "61a4444b4f5b61369e6d2982329d1a3795e817187ef67d2c33c273713c5fcc5d",
       "size": 58517,
       "role": "Image"
@@ -1686,7 +1686,7 @@
     {
       "fileName": "star_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_02.ktx2",
       "sha256": "ec2ea0f8ffe8dbec1624d1d998255046ba5c399394c7f5fac992ead7fac74b2f",
       "size": 67212,
       "role": "Image"
@@ -1694,7 +1694,7 @@
     {
       "fileName": "star_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_03.ktx2",
       "sha256": "3aeb8639d5cdc2044b8c907b69847c6ecf30a51f42b9b3e1bf218d7f93faf8d0",
       "size": 70070,
       "role": "Image"
@@ -1702,7 +1702,7 @@
     {
       "fileName": "star_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_04.ktx2",
       "sha256": "978b516e26d2fe2ff69f30efd01d66364ad102abdf48af1ea83be01ab1d4e5a7",
       "size": 39942,
       "role": "Image"
@@ -1710,7 +1710,7 @@
     {
       "fileName": "star_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_05.ktx2",
       "sha256": "0ca048cf0fd577a92bc46f9ef196973f0928167e2ffa86825a8b855a79be0447",
       "size": 88838,
       "role": "Image"
@@ -1718,7 +1718,7 @@
     {
       "fileName": "star_06.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_06.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_06.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_06.ktx2",
       "sha256": "29c3180cdb67a8e2325cfedfeea3eff0bfb9fd14ea087769449a7ca0d01708b5",
       "size": 43298,
       "role": "Image"
@@ -1726,7 +1726,7 @@
     {
       "fileName": "star_07.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_07.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_07.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_07.ktx2",
       "sha256": "5ba21bdc256e38ff196023e6ad53652308b72753b1373de972eed31725c62c4b",
       "size": 41726,
       "role": "Image"
@@ -1734,7 +1734,7 @@
     {
       "fileName": "star_08.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_08.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_08.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_08.ktx2",
       "sha256": "4fb172fef64519fa5fc6bd6c4e357dfab0807d516a7b17d6b1942e40c3a83d3a",
       "size": 36803,
       "role": "Image"
@@ -1742,7 +1742,7 @@
     {
       "fileName": "star_09.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_09.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_09.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_09.ktx2",
       "sha256": "2481366fab90413bf5339f2d1f10d6e55fad7ee7ef94ba5c8acd02d4ff024261",
       "size": 64767,
       "role": "Image"
@@ -1750,7 +1750,7 @@
     {
       "fileName": "symbol_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/symbol_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/symbol_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/symbol_01.ktx2",
       "sha256": "66205a315180645cbdea8a53c2e2e4d6b1c8a8600da8bbcacf432705cc70b0ce",
       "size": 13665,
       "role": "Image"
@@ -1758,7 +1758,7 @@
     {
       "fileName": "symbol_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/symbol_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/symbol_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/symbol_02.ktx2",
       "sha256": "ba77e52c614b55945c8040a7a3ce338203cf3c7af69322d4429f189f060dbdd8",
       "size": 12447,
       "role": "Image"
@@ -1766,7 +1766,7 @@
     {
       "fileName": "trace_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_01.ktx2",
       "sha256": "f84e9f19f5f198b0d760b1d032a1801b04a207c92c092a5ca609833926e9ce57",
       "size": 52073,
       "role": "Image"
@@ -1774,7 +1774,7 @@
     {
       "fileName": "trace_01_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_01_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_01_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_01_rotated.ktx2",
       "sha256": "7ba36d7d66227c7b1bd871cf38881d4192dad6b9e844cff3e9c6f3e0b5ad2579",
       "size": 43592,
       "role": "Image"
@@ -1782,7 +1782,7 @@
     {
       "fileName": "trace_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_02.ktx2",
       "sha256": "f8fe5d153ab6032723c36f2a9146db9e768087a0f93e9c6a60b30b09c2369fb2",
       "size": 51068,
       "role": "Image"
@@ -1790,7 +1790,7 @@
     {
       "fileName": "trace_02_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_02_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_02_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_02_rotated.ktx2",
       "sha256": "fede0434a1ef7c974806cd27bf897ed660b0533a3a27488152855d691ce8a023",
       "size": 46045,
       "role": "Image"
@@ -1798,7 +1798,7 @@
     {
       "fileName": "trace_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_03.ktx2",
       "sha256": "f6095958fe3846f66a84de87991a61d3e6fa25f513536235246e4833839e67a7",
       "size": 56363,
       "role": "Image"
@@ -1806,7 +1806,7 @@
     {
       "fileName": "trace_03_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_03_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_03_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_03_rotated.ktx2",
       "sha256": "3041c956289488e731d1c06414ebdb7b1e42ad7fbc3b7df45088c822be3154e7",
       "size": 49953,
       "role": "Image"
@@ -1814,7 +1814,7 @@
     {
       "fileName": "trace_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_04.ktx2",
       "sha256": "cc290e313ca820ec4663b7aa7f250b275c96466de29368d30d887a678b5e4c5a",
       "size": 59089,
       "role": "Image"
@@ -1822,7 +1822,7 @@
     {
       "fileName": "trace_04_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_04_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_04_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_04_rotated.ktx2",
       "sha256": "5fdb6a8fd54ca042cb4458864c1d8c5008166c0f680b87083b9454e484f60549",
       "size": 50207,
       "role": "Image"
@@ -1830,7 +1830,7 @@
     {
       "fileName": "trace_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_05.ktx2",
       "sha256": "1ef70142b83afd5170f98973e43df236157b60eb4f2e87468c859021bdbff77b",
       "size": 59801,
       "role": "Image"
@@ -1838,7 +1838,7 @@
     {
       "fileName": "trace_05_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_05_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_05_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_05_rotated.ktx2",
       "sha256": "7b1526ed342e2dbb2f6371cae8e5c880cbc068efc49c04267bbea94d19779151",
       "size": 55702,
       "role": "Image"
@@ -1846,7 +1846,7 @@
     {
       "fileName": "trace_06.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_06.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_06.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_06.ktx2",
       "sha256": "028c3cecd17296c9b5ac6dba006277febc88fd90619698d35c9da9d1f7d5485d",
       "size": 52525,
       "role": "Image"
@@ -1854,7 +1854,7 @@
     {
       "fileName": "trace_06_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_06_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_06_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_06_rotated.ktx2",
       "sha256": "78a03ef0794801dfce10c84a0329b279a3755a36713d56b892d0daf3e29d4cf1",
       "size": 48791,
       "role": "Image"
@@ -1862,7 +1862,7 @@
     {
       "fileName": "trace_07.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_07.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_07.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_07.ktx2",
       "sha256": "bae079b7d69a2288657059039758bb8377dc5e7bd3ba6f22ab3b4636d9d374ca",
       "size": 48254,
       "role": "Image"
@@ -1870,7 +1870,7 @@
     {
       "fileName": "trace_07_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_07_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_07_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_07_rotated.ktx2",
       "sha256": "efea67af9cfabe0257907146c647db0660407d3934d7c8f5490b3bb70ae1e959",
       "size": 45007,
       "role": "Image"
@@ -1878,7 +1878,7 @@
     {
       "fileName": "twirl_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/twirl_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/twirl_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/twirl_01.ktx2",
       "sha256": "5711b0f681f8106b5ff1555190f9a51e26469349c1011c23303bce0d8492a744",
       "size": 81402,
       "role": "Image"
@@ -1886,7 +1886,7 @@
     {
       "fileName": "twirl_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/twirl_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/twirl_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/twirl_02.ktx2",
       "sha256": "b2611d992dfd5af8660cd562793b8a6aaaf73fdd779de10824db24f15765748e",
       "size": 114971,
       "role": "Image"
@@ -1894,7 +1894,7 @@
     {
       "fileName": "twirl_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/twirl_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/twirl_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/twirl_03.ktx2",
       "sha256": "39ad6d904c9ec22b096091702cfec2870e909cd11045bc48b69b103f58dda88b",
       "size": 114587,
       "role": "Image"
@@ -1902,7 +1902,7 @@
     {
       "fileName": "window_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/window_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/window_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/window_01.ktx2",
       "sha256": "654a7998c113a57b89fa3fe4b402663641a0dac804cd55fcc95e0598537885d2",
       "size": 42327,
       "role": "Image"
@@ -1910,7 +1910,7 @@
     {
       "fileName": "window_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/window_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/window_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/window_02.ktx2",
       "sha256": "24a4528e07eea59aef0bc1ebe41ec7c02cd9a1fb8311d345a59ef15efb8e9463",
       "size": 45995,
       "role": "Image"
@@ -1918,7 +1918,7 @@
     {
       "fileName": "window_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/window_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/window_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/window_03.ktx2",
       "sha256": "036a1bf6f963c15ad84a2ccdf36f5f2cd27b056ad2ae801150abcfdbc87947a4",
       "size": 19659,
       "role": "Image"
@@ -1926,7 +1926,7 @@
     {
       "fileName": "window_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/window_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/window_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/window_04.ktx2",
       "sha256": "a4be6452f6331a0d3a74fb1bd6268f164dc1f17574ef08267e309f2f6673821e",
       "size": 57711,
       "role": "Image"
@@ -1936,7 +1936,7 @@
     {
       "fileName": "cover.png",
       "path": "packs/kenney-particle-pack/cover.png",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/cover.png",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/cover.png",
       "sha256": "37b1b04371116a4ed3b2316056880034b0db7f59605a50c9058591de01b716e0",
       "size": 91674,
       "contentType": "image/png",
@@ -1945,7 +1945,7 @@
     {
       "fileName": "circle_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/circle_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/circle_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/circle_01.ktx2",
       "sha256": "f967b95e995e4c1347d194e51e45b905d1f7dabb7228e32c339eeea0ce263d39",
       "size": 95656,
       "contentType": "image/ktx2",
@@ -1955,7 +1955,7 @@
     {
       "fileName": "circle_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/circle_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/circle_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/circle_02.ktx2",
       "sha256": "f16613e99b7b948aac9cab1f4a5ba903a3ebd7bdd9ecbb3f7a7fb5ece5444e6c",
       "size": 58682,
       "contentType": "image/ktx2",
@@ -1965,7 +1965,7 @@
     {
       "fileName": "circle_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/circle_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/circle_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/circle_03.ktx2",
       "sha256": "dbc6261bebeed22d001e9ef27af4124647796623ddb36a25cc4100e92089497f",
       "size": 105420,
       "contentType": "image/ktx2",
@@ -1975,7 +1975,7 @@
     {
       "fileName": "circle_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/circle_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/circle_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/circle_04.ktx2",
       "sha256": "4a4180fdef023e2b6df3b9226c3015c4af07f4003876f3d541fe78f2145e38f8",
       "size": 77346,
       "contentType": "image/ktx2",
@@ -1985,7 +1985,7 @@
     {
       "fileName": "circle_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/circle_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/circle_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/circle_05.ktx2",
       "sha256": "a98520c4e052eb06de6a8dfdd763887c5bac3006b5514acad445d08a0b95d641",
       "size": 100122,
       "contentType": "image/ktx2",
@@ -1995,7 +1995,7 @@
     {
       "fileName": "dirt_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/dirt_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/dirt_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/dirt_01.ktx2",
       "sha256": "40c5b02fdbdb9adccc98868e88eee29da9489d7a20c3bb67c1f0307bd11ff537",
       "size": 71849,
       "contentType": "image/ktx2",
@@ -2005,7 +2005,7 @@
     {
       "fileName": "dirt_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/dirt_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/dirt_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/dirt_02.ktx2",
       "sha256": "b7bcba8fbdb10c10f7fbb5a866a948e0e2041166966286722753ca5e6cc59613",
       "size": 82538,
       "contentType": "image/ktx2",
@@ -2015,7 +2015,7 @@
     {
       "fileName": "dirt_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/dirt_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/dirt_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/dirt_03.ktx2",
       "sha256": "d9900b4c14c984a88fb3b4743bef5f95bba2f652e446dfe3340bad867115e47d",
       "size": 161766,
       "contentType": "image/ktx2",
@@ -2025,7 +2025,7 @@
     {
       "fileName": "fire_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/fire_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/fire_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/fire_01.ktx2",
       "sha256": "f62902710c4cdaf815b5fa70934c43926454c2796c3b047c3ad360ce31deaea8",
       "size": 144110,
       "contentType": "image/ktx2",
@@ -2035,7 +2035,7 @@
     {
       "fileName": "fire_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/fire_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/fire_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/fire_02.ktx2",
       "sha256": "b14f950e3c4f36f8b139c0725ff27dd7868971539f546e63a940e97e748ff8ab",
       "size": 127695,
       "contentType": "image/ktx2",
@@ -2045,7 +2045,7 @@
     {
       "fileName": "flame_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_01.ktx2",
       "sha256": "1387823a0a66af508cc2650b05454c57b9793523d66702d41f99bedf907fe72c",
       "size": 74549,
       "contentType": "image/ktx2",
@@ -2055,7 +2055,7 @@
     {
       "fileName": "flame_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_02.ktx2",
       "sha256": "4567bb48d3aa3c3010f3ac991a0c1f8c13552e08b1189e6457ff012ee6953e8e",
       "size": 98632,
       "contentType": "image/ktx2",
@@ -2065,7 +2065,7 @@
     {
       "fileName": "flame_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_03.ktx2",
       "sha256": "02e0cf9d9679cb4cbe8a756984a9923fe12566eb2092668ed7e7fbb1bbef7978",
       "size": 65922,
       "contentType": "image/ktx2",
@@ -2075,7 +2075,7 @@
     {
       "fileName": "flame_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_04.ktx2",
       "sha256": "9135cafd90a2da1342cf47ff960e9c8d25eafbf6c798c11f970985526e6f8cca",
       "size": 91059,
       "contentType": "image/ktx2",
@@ -2085,7 +2085,7 @@
     {
       "fileName": "flame_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_05.ktx2",
       "sha256": "6324b3580e0484442d7c2ffb768a34ea6efc9c702cd83b4e27dfb58f7197fac9",
       "size": 16702,
       "contentType": "image/ktx2",
@@ -2095,7 +2095,7 @@
     {
       "fileName": "flame_05_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_05_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_05_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_05_rotated.ktx2",
       "sha256": "dcfe6e1a4a805e51c58979387327da802d75d5bba25f8e97553ccb3aca1080e2",
       "size": 15301,
       "contentType": "image/ktx2",
@@ -2105,7 +2105,7 @@
     {
       "fileName": "flame_06.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_06.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_06.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_06.ktx2",
       "sha256": "485ed1a518e3190408d29a8e7dcda0ebc9f5c095f56e068f22d7ab0ca7262277",
       "size": 20227,
       "contentType": "image/ktx2",
@@ -2115,7 +2115,7 @@
     {
       "fileName": "flame_06_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/flame_06_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flame_06_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flame_06_rotated.ktx2",
       "sha256": "ff0ccccbff86768678b8de32f66402c55b192345907497f01b7d95352df20fdb",
       "size": 18911,
       "contentType": "image/ktx2",
@@ -2125,7 +2125,7 @@
     {
       "fileName": "flare_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/flare_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/flare_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/flare_01.ktx2",
       "sha256": "8daf2d00d8cea9bb9929578f85e51ad8c8aca30dac5520d1176e2ad620b3ded4",
       "size": 64732,
       "contentType": "image/ktx2",
@@ -2135,7 +2135,7 @@
     {
       "fileName": "light_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/light_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/light_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/light_01.ktx2",
       "sha256": "025be25d6c161e422b682b74b8bd1470cc0a886ae5df28c3d370dfd6ae718d61",
       "size": 141810,
       "contentType": "image/ktx2",
@@ -2145,7 +2145,7 @@
     {
       "fileName": "light_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/light_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/light_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/light_02.ktx2",
       "sha256": "39133d0f977fb87c3016830464cde5c6190f8257531aa672666ad93ba7ecfe7c",
       "size": 140858,
       "contentType": "image/ktx2",
@@ -2155,7 +2155,7 @@
     {
       "fileName": "light_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/light_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/light_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/light_03.ktx2",
       "sha256": "2bab3786a8c0e7143abd81a301b14a770008dab9373638bc4d4c3b4152e7a4cc",
       "size": 144783,
       "contentType": "image/ktx2",
@@ -2165,7 +2165,7 @@
     {
       "fileName": "magic_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/magic_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/magic_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/magic_01.ktx2",
       "sha256": "6ee095285a6b675319346f434a717a185ea639df91e24498db16bfb45cfe8073",
       "size": 111286,
       "contentType": "image/ktx2",
@@ -2175,7 +2175,7 @@
     {
       "fileName": "magic_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/magic_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/magic_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/magic_02.ktx2",
       "sha256": "b3b791d205103883a9390baa04ca01ef4e3031d28baa8b6c4361e13f6d7267c8",
       "size": 112203,
       "contentType": "image/ktx2",
@@ -2185,7 +2185,7 @@
     {
       "fileName": "magic_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/magic_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/magic_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/magic_03.ktx2",
       "sha256": "0acb6ffea9454b87ec88cae442eeea6d515a4c85b32ee4ab65666cf8b048dafa",
       "size": 85991,
       "contentType": "image/ktx2",
@@ -2195,7 +2195,7 @@
     {
       "fileName": "magic_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/magic_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/magic_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/magic_04.ktx2",
       "sha256": "15054ee5427e6ebd34f0c17fe36cdecd9475d81be98d77a245b2262e7042181c",
       "size": 69153,
       "contentType": "image/ktx2",
@@ -2205,7 +2205,7 @@
     {
       "fileName": "magic_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/magic_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/magic_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/magic_05.ktx2",
       "sha256": "1828028d539c81b2f2e0e90b635f348207343fa182a84f2ba20a08c694cba39a",
       "size": 114001,
       "contentType": "image/ktx2",
@@ -2215,7 +2215,7 @@
     {
       "fileName": "muzzle_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_01.ktx2",
       "sha256": "42dded51446772cb87086f610c41a311294c04c51e9e7531728c366f622e18f4",
       "size": 111236,
       "contentType": "image/ktx2",
@@ -2225,7 +2225,7 @@
     {
       "fileName": "muzzle_01_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_01_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_01_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_01_rotated.ktx2",
       "sha256": "4478baf750365ac75fc3a9bb55f619d06b4a6ff4c6fc73974bcb523981012574",
       "size": 110575,
       "contentType": "image/ktx2",
@@ -2235,7 +2235,7 @@
     {
       "fileName": "muzzle_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_02.ktx2",
       "sha256": "c3a54d1070036358ba0de7c7db4a5261ff0a0580b8b8bd7b9e98280e82de9700",
       "size": 78084,
       "contentType": "image/ktx2",
@@ -2245,7 +2245,7 @@
     {
       "fileName": "muzzle_02_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_02_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_02_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_02_rotated.ktx2",
       "sha256": "62d16b9f5bd0f285660b275cb2874d3c0ad144ec4c219907d3f947a5fe3cc304",
       "size": 76820,
       "contentType": "image/ktx2",
@@ -2255,7 +2255,7 @@
     {
       "fileName": "muzzle_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_03.ktx2",
       "sha256": "046236919d99fb7af782e93307a97fda1c08a17989cf1a462993848698254320",
       "size": 78049,
       "contentType": "image/ktx2",
@@ -2265,7 +2265,7 @@
     {
       "fileName": "muzzle_03_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_03_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_03_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_03_rotated.ktx2",
       "sha256": "9aed4ffc353fa40fd563d5272e55fc7915a8fd2bd71cf9eae87c6352ec9da01f",
       "size": 74436,
       "contentType": "image/ktx2",
@@ -2275,7 +2275,7 @@
     {
       "fileName": "muzzle_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_04.ktx2",
       "sha256": "2d09550505a053d187bab274ce681104d30f7bf7eb71ba00cbea58f63156c001",
       "size": 83491,
       "contentType": "image/ktx2",
@@ -2285,7 +2285,7 @@
     {
       "fileName": "muzzle_04_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_04_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_04_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_04_rotated.ktx2",
       "sha256": "a9de815b74d51c861f0fff7accc732528465d6ffacac6d889303716a4fe31b8e",
       "size": 77762,
       "contentType": "image/ktx2",
@@ -2295,7 +2295,7 @@
     {
       "fileName": "muzzle_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_05.ktx2",
       "sha256": "521eff604509fa310bdf97744dd95259c91b2660d38995f0a3b4716ddc0a56da",
       "size": 72481,
       "contentType": "image/ktx2",
@@ -2305,7 +2305,7 @@
     {
       "fileName": "muzzle_05_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/muzzle_05_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/muzzle_05_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/muzzle_05_rotated.ktx2",
       "sha256": "0872ab8fac0b78fd2fb0d53afc282ea007a39637ff5dccc804fc52f302bac2dc",
       "size": 69111,
       "contentType": "image/ktx2",
@@ -2315,7 +2315,7 @@
     {
       "fileName": "scorch_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/scorch_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/scorch_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/scorch_01.ktx2",
       "sha256": "2f2760c4588ab1d547f0d8404f37913868fcf97979830b5248322a9daa2edcb7",
       "size": 88120,
       "contentType": "image/ktx2",
@@ -2325,7 +2325,7 @@
     {
       "fileName": "scorch_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/scorch_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/scorch_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/scorch_02.ktx2",
       "sha256": "5f60dc365d9667ef9ee5ee8cea8d39d836ec03c11306ff6c414284081b338811",
       "size": 108024,
       "contentType": "image/ktx2",
@@ -2335,7 +2335,7 @@
     {
       "fileName": "scorch_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/scorch_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/scorch_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/scorch_03.ktx2",
       "sha256": "8a2531003f46c8be6da3634ffe2d151b9a3bc901d94babd375c66e22b0f85820",
       "size": 131887,
       "contentType": "image/ktx2",
@@ -2345,7 +2345,7 @@
     {
       "fileName": "scratch_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/scratch_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/scratch_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/scratch_01.ktx2",
       "sha256": "4893ec3a8eca0023c4b96b0598ca4c73a265c0b657f9973f78e22574cbce1e15",
       "size": 86666,
       "contentType": "image/ktx2",
@@ -2355,7 +2355,7 @@
     {
       "fileName": "slash_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/slash_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/slash_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/slash_01.ktx2",
       "sha256": "d0066d87db3eafadf6f64ac99fcda7c56ba2205458c3ee1953336b6509347ebd",
       "size": 31383,
       "contentType": "image/ktx2",
@@ -2365,7 +2365,7 @@
     {
       "fileName": "slash_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/slash_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/slash_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/slash_02.ktx2",
       "sha256": "93dd3ca449b5c9995ce6bcd4ee7fd3ce7eef6849051723da9a3718c39bab3ede",
       "size": 49305,
       "contentType": "image/ktx2",
@@ -2375,7 +2375,7 @@
     {
       "fileName": "slash_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/slash_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/slash_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/slash_03.ktx2",
       "sha256": "64668a8a4099451680a44634e20d29a33ce79be14c46b6636b6f75d3c0d26779",
       "size": 23319,
       "contentType": "image/ktx2",
@@ -2385,7 +2385,7 @@
     {
       "fileName": "slash_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/slash_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/slash_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/slash_04.ktx2",
       "sha256": "2bbb2f52e49f1ae4b2d4a59b0538526fa4e0f12378d81606505cc7a1b9c0ed67",
       "size": 26703,
       "contentType": "image/ktx2",
@@ -2395,7 +2395,7 @@
     {
       "fileName": "smoke_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_01.ktx2",
       "sha256": "c84046ecdb69c10828733de629ef66bffeff0d683702d055a31540141bcbc35a",
       "size": 134416,
       "contentType": "image/ktx2",
@@ -2405,7 +2405,7 @@
     {
       "fileName": "smoke_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_02.ktx2",
       "sha256": "fc1b675bf76022a3809cbd5cae9f48f71e80b11a7989212d55a0cd016f93eb03",
       "size": 129672,
       "contentType": "image/ktx2",
@@ -2415,7 +2415,7 @@
     {
       "fileName": "smoke_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_03.ktx2",
       "sha256": "0af7d76249f4fd4f9ad8b34c8ebb3ee3b9e8ccf0464e4d9530c4c3984bb1a96b",
       "size": 46348,
       "contentType": "image/ktx2",
@@ -2425,7 +2425,7 @@
     {
       "fileName": "smoke_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_04.ktx2",
       "sha256": "ff21dffb9f3e7d2c6a211a8db81aa6013eb556546d862eedcfbc601cb286cc81",
       "size": 128129,
       "contentType": "image/ktx2",
@@ -2435,7 +2435,7 @@
     {
       "fileName": "smoke_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_05.ktx2",
       "sha256": "fc544e76a574378192692caf1d9e1d4e644b593b92d5e15062bcd16159a359e1",
       "size": 104882,
       "contentType": "image/ktx2",
@@ -2445,7 +2445,7 @@
     {
       "fileName": "smoke_06.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_06.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_06.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_06.ktx2",
       "sha256": "a7507708bb908e0011bcdbfc43e53c2fc5986741c5810d5f840e4d21c5d4a34f",
       "size": 79508,
       "contentType": "image/ktx2",
@@ -2455,7 +2455,7 @@
     {
       "fileName": "smoke_07.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_07.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_07.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_07.ktx2",
       "sha256": "31bbcaf179eca04ee9b7b179cf2771343fefe40255d929d0d7db714c8fb783dd",
       "size": 96264,
       "contentType": "image/ktx2",
@@ -2465,7 +2465,7 @@
     {
       "fileName": "smoke_08.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_08.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_08.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_08.ktx2",
       "sha256": "de0773be5fa1290e74aa8247d6de156c35daec9dae8d23e53bceeaaf66bbb120",
       "size": 108917,
       "contentType": "image/ktx2",
@@ -2475,7 +2475,7 @@
     {
       "fileName": "smoke_09.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_09.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_09.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_09.ktx2",
       "sha256": "eed88cf782aa7f702a506743bbccb70ae996404f1dda4df7bd3b140839c04822",
       "size": 106699,
       "contentType": "image/ktx2",
@@ -2485,7 +2485,7 @@
     {
       "fileName": "smoke_10.ktx2",
       "path": "packs/kenney-particle-pack/textures/smoke_10.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/smoke_10.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/smoke_10.ktx2",
       "sha256": "c3134670958695cecd45a2fc6e8ef2ccefbf90875dcb1054c1b072d71db5e7bc",
       "size": 110203,
       "contentType": "image/ktx2",
@@ -2495,7 +2495,7 @@
     {
       "fileName": "spark_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_01.ktx2",
       "sha256": "c3f9fbb15cc0dd1eaf0f9ca8809e1257e1d81aefd4471ac392f8fbedf83bafbb",
       "size": 137247,
       "contentType": "image/ktx2",
@@ -2505,7 +2505,7 @@
     {
       "fileName": "spark_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_02.ktx2",
       "sha256": "4a5a648d4db3091f119eb816aa18c7f28b04a733d7a23dc35bfeea8bbd8c22e4",
       "size": 144007,
       "contentType": "image/ktx2",
@@ -2515,7 +2515,7 @@
     {
       "fileName": "spark_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_03.ktx2",
       "sha256": "43aaea34273253ef016b507253961bcd9114eab4d96679ecbea09ba4a31c088d",
       "size": 109438,
       "contentType": "image/ktx2",
@@ -2525,7 +2525,7 @@
     {
       "fileName": "spark_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_04.ktx2",
       "sha256": "c63928b546357983e52d316d9143ea17f777bb9e54fdbb72142066701ef6e18c",
       "size": 120283,
       "contentType": "image/ktx2",
@@ -2535,7 +2535,7 @@
     {
       "fileName": "spark_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_05.ktx2",
       "sha256": "ecccf052d1fe1ad72559d2cb46db390bf74a1e70ca8dfbac55f7a3defa0c901f",
       "size": 93058,
       "contentType": "image/ktx2",
@@ -2545,7 +2545,7 @@
     {
       "fileName": "spark_05_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_05_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_05_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_05_rotated.ktx2",
       "sha256": "3b18f8c2e0f3f8894e75b060cab5b057ddc44228bd34bcee25dda7a86a9531eb",
       "size": 88664,
       "contentType": "image/ktx2",
@@ -2555,7 +2555,7 @@
     {
       "fileName": "spark_06.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_06.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_06.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_06.ktx2",
       "sha256": "a6e334057233471c707dea1b60f17e28e38e296e3302cff05ffc7b5bc75f4092",
       "size": 65902,
       "contentType": "image/ktx2",
@@ -2565,7 +2565,7 @@
     {
       "fileName": "spark_06_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_06_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_06_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_06_rotated.ktx2",
       "sha256": "638e2a82103362c3030126ea14d45c846a52729fd0bf23637354df25b00c3fdb",
       "size": 60559,
       "contentType": "image/ktx2",
@@ -2575,7 +2575,7 @@
     {
       "fileName": "spark_07.ktx2",
       "path": "packs/kenney-particle-pack/textures/spark_07.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/spark_07.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/spark_07.ktx2",
       "sha256": "e2e474b75b4a6cad53a5b07274f3a987aa6f448dd4d9c9670a26cf256a53338a",
       "size": 60755,
       "contentType": "image/ktx2",
@@ -2585,7 +2585,7 @@
     {
       "fileName": "star_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_01.ktx2",
       "sha256": "61a4444b4f5b61369e6d2982329d1a3795e817187ef67d2c33c273713c5fcc5d",
       "size": 58517,
       "contentType": "image/ktx2",
@@ -2595,7 +2595,7 @@
     {
       "fileName": "star_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_02.ktx2",
       "sha256": "ec2ea0f8ffe8dbec1624d1d998255046ba5c399394c7f5fac992ead7fac74b2f",
       "size": 67212,
       "contentType": "image/ktx2",
@@ -2605,7 +2605,7 @@
     {
       "fileName": "star_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_03.ktx2",
       "sha256": "3aeb8639d5cdc2044b8c907b69847c6ecf30a51f42b9b3e1bf218d7f93faf8d0",
       "size": 70070,
       "contentType": "image/ktx2",
@@ -2615,7 +2615,7 @@
     {
       "fileName": "star_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_04.ktx2",
       "sha256": "978b516e26d2fe2ff69f30efd01d66364ad102abdf48af1ea83be01ab1d4e5a7",
       "size": 39942,
       "contentType": "image/ktx2",
@@ -2625,7 +2625,7 @@
     {
       "fileName": "star_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_05.ktx2",
       "sha256": "0ca048cf0fd577a92bc46f9ef196973f0928167e2ffa86825a8b855a79be0447",
       "size": 88838,
       "contentType": "image/ktx2",
@@ -2635,7 +2635,7 @@
     {
       "fileName": "star_06.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_06.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_06.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_06.ktx2",
       "sha256": "29c3180cdb67a8e2325cfedfeea3eff0bfb9fd14ea087769449a7ca0d01708b5",
       "size": 43298,
       "contentType": "image/ktx2",
@@ -2645,7 +2645,7 @@
     {
       "fileName": "star_07.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_07.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_07.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_07.ktx2",
       "sha256": "5ba21bdc256e38ff196023e6ad53652308b72753b1373de972eed31725c62c4b",
       "size": 41726,
       "contentType": "image/ktx2",
@@ -2655,7 +2655,7 @@
     {
       "fileName": "star_08.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_08.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_08.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_08.ktx2",
       "sha256": "4fb172fef64519fa5fc6bd6c4e357dfab0807d516a7b17d6b1942e40c3a83d3a",
       "size": 36803,
       "contentType": "image/ktx2",
@@ -2665,7 +2665,7 @@
     {
       "fileName": "star_09.ktx2",
       "path": "packs/kenney-particle-pack/textures/star_09.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/star_09.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/star_09.ktx2",
       "sha256": "2481366fab90413bf5339f2d1f10d6e55fad7ee7ef94ba5c8acd02d4ff024261",
       "size": 64767,
       "contentType": "image/ktx2",
@@ -2675,7 +2675,7 @@
     {
       "fileName": "symbol_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/symbol_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/symbol_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/symbol_01.ktx2",
       "sha256": "66205a315180645cbdea8a53c2e2e4d6b1c8a8600da8bbcacf432705cc70b0ce",
       "size": 13665,
       "contentType": "image/ktx2",
@@ -2685,7 +2685,7 @@
     {
       "fileName": "symbol_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/symbol_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/symbol_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/symbol_02.ktx2",
       "sha256": "ba77e52c614b55945c8040a7a3ce338203cf3c7af69322d4429f189f060dbdd8",
       "size": 12447,
       "contentType": "image/ktx2",
@@ -2695,7 +2695,7 @@
     {
       "fileName": "trace_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_01.ktx2",
       "sha256": "f84e9f19f5f198b0d760b1d032a1801b04a207c92c092a5ca609833926e9ce57",
       "size": 52073,
       "contentType": "image/ktx2",
@@ -2705,7 +2705,7 @@
     {
       "fileName": "trace_01_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_01_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_01_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_01_rotated.ktx2",
       "sha256": "7ba36d7d66227c7b1bd871cf38881d4192dad6b9e844cff3e9c6f3e0b5ad2579",
       "size": 43592,
       "contentType": "image/ktx2",
@@ -2715,7 +2715,7 @@
     {
       "fileName": "trace_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_02.ktx2",
       "sha256": "f8fe5d153ab6032723c36f2a9146db9e768087a0f93e9c6a60b30b09c2369fb2",
       "size": 51068,
       "contentType": "image/ktx2",
@@ -2725,7 +2725,7 @@
     {
       "fileName": "trace_02_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_02_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_02_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_02_rotated.ktx2",
       "sha256": "fede0434a1ef7c974806cd27bf897ed660b0533a3a27488152855d691ce8a023",
       "size": 46045,
       "contentType": "image/ktx2",
@@ -2735,7 +2735,7 @@
     {
       "fileName": "trace_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_03.ktx2",
       "sha256": "f6095958fe3846f66a84de87991a61d3e6fa25f513536235246e4833839e67a7",
       "size": 56363,
       "contentType": "image/ktx2",
@@ -2745,7 +2745,7 @@
     {
       "fileName": "trace_03_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_03_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_03_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_03_rotated.ktx2",
       "sha256": "3041c956289488e731d1c06414ebdb7b1e42ad7fbc3b7df45088c822be3154e7",
       "size": 49953,
       "contentType": "image/ktx2",
@@ -2755,7 +2755,7 @@
     {
       "fileName": "trace_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_04.ktx2",
       "sha256": "cc290e313ca820ec4663b7aa7f250b275c96466de29368d30d887a678b5e4c5a",
       "size": 59089,
       "contentType": "image/ktx2",
@@ -2765,7 +2765,7 @@
     {
       "fileName": "trace_04_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_04_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_04_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_04_rotated.ktx2",
       "sha256": "5fdb6a8fd54ca042cb4458864c1d8c5008166c0f680b87083b9454e484f60549",
       "size": 50207,
       "contentType": "image/ktx2",
@@ -2775,7 +2775,7 @@
     {
       "fileName": "trace_05.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_05.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_05.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_05.ktx2",
       "sha256": "1ef70142b83afd5170f98973e43df236157b60eb4f2e87468c859021bdbff77b",
       "size": 59801,
       "contentType": "image/ktx2",
@@ -2785,7 +2785,7 @@
     {
       "fileName": "trace_05_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_05_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_05_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_05_rotated.ktx2",
       "sha256": "7b1526ed342e2dbb2f6371cae8e5c880cbc068efc49c04267bbea94d19779151",
       "size": 55702,
       "contentType": "image/ktx2",
@@ -2795,7 +2795,7 @@
     {
       "fileName": "trace_06.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_06.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_06.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_06.ktx2",
       "sha256": "028c3cecd17296c9b5ac6dba006277febc88fd90619698d35c9da9d1f7d5485d",
       "size": 52525,
       "contentType": "image/ktx2",
@@ -2805,7 +2805,7 @@
     {
       "fileName": "trace_06_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_06_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_06_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_06_rotated.ktx2",
       "sha256": "78a03ef0794801dfce10c84a0329b279a3755a36713d56b892d0daf3e29d4cf1",
       "size": 48791,
       "contentType": "image/ktx2",
@@ -2815,7 +2815,7 @@
     {
       "fileName": "trace_07.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_07.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_07.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_07.ktx2",
       "sha256": "bae079b7d69a2288657059039758bb8377dc5e7bd3ba6f22ab3b4636d9d374ca",
       "size": 48254,
       "contentType": "image/ktx2",
@@ -2825,7 +2825,7 @@
     {
       "fileName": "trace_07_rotated.ktx2",
       "path": "packs/kenney-particle-pack/textures/trace_07_rotated.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/trace_07_rotated.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/trace_07_rotated.ktx2",
       "sha256": "efea67af9cfabe0257907146c647db0660407d3934d7c8f5490b3bb70ae1e959",
       "size": 45007,
       "contentType": "image/ktx2",
@@ -2835,7 +2835,7 @@
     {
       "fileName": "twirl_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/twirl_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/twirl_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/twirl_01.ktx2",
       "sha256": "5711b0f681f8106b5ff1555190f9a51e26469349c1011c23303bce0d8492a744",
       "size": 81402,
       "contentType": "image/ktx2",
@@ -2845,7 +2845,7 @@
     {
       "fileName": "twirl_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/twirl_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/twirl_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/twirl_02.ktx2",
       "sha256": "b2611d992dfd5af8660cd562793b8a6aaaf73fdd779de10824db24f15765748e",
       "size": 114971,
       "contentType": "image/ktx2",
@@ -2855,7 +2855,7 @@
     {
       "fileName": "twirl_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/twirl_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/twirl_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/twirl_03.ktx2",
       "sha256": "39ad6d904c9ec22b096091702cfec2870e909cd11045bc48b69b103f58dda88b",
       "size": 114587,
       "contentType": "image/ktx2",
@@ -2865,7 +2865,7 @@
     {
       "fileName": "window_01.ktx2",
       "path": "packs/kenney-particle-pack/textures/window_01.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/window_01.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/window_01.ktx2",
       "sha256": "654a7998c113a57b89fa3fe4b402663641a0dac804cd55fcc95e0598537885d2",
       "size": 42327,
       "contentType": "image/ktx2",
@@ -2875,7 +2875,7 @@
     {
       "fileName": "window_02.ktx2",
       "path": "packs/kenney-particle-pack/textures/window_02.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/window_02.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/window_02.ktx2",
       "sha256": "24a4528e07eea59aef0bc1ebe41ec7c02cd9a1fb8311d345a59ef15efb8e9463",
       "size": 45995,
       "contentType": "image/ktx2",
@@ -2885,7 +2885,7 @@
     {
       "fileName": "window_03.ktx2",
       "path": "packs/kenney-particle-pack/textures/window_03.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/window_03.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/window_03.ktx2",
       "sha256": "036a1bf6f963c15ad84a2ccdf36f5f2cd27b056ad2ae801150abcfdbc87947a4",
       "size": 19659,
       "contentType": "image/ktx2",
@@ -2895,7 +2895,7 @@
     {
       "fileName": "window_04.ktx2",
       "path": "packs/kenney-particle-pack/textures/window_04.ktx2",
-      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/240d96a57c46c8494d4044b98b4aec77edd6e71d/packs/kenney-particle-pack/textures/window_04.ktx2",
+      "externalUrl": "https://raw.githubusercontent.com/Papyszoo/CC0-Public-Domain-Textures/ea249a862ed7676fc62fe14b71799faf839f0059/packs/kenney-particle-pack/textures/window_04.ktx2",
       "sha256": "a4be6452f6331a0d3a74fb1bd6268f164dc1f17574ef08267e309f2f6673821e",
       "size": 57711,
       "contentType": "image/ktx2",

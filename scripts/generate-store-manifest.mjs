@@ -319,7 +319,10 @@ for (const slug of packSlugs) {
     const dn = humanize(groupKey);
     let previewFile = null;
 
-    // Pick best preview file (Albedo -> Diffuse -> Color -> first file)
+    // Pick best preview file:
+    // 1. Author 3D render preview (*_preview.png)
+    // 2. Albedo / Color map
+    // 3. Any non-normal/non-AO map
     for (const filePath of groupFiles) {
       const relFromRepo = path.relative(REPO, filePath).replace(/\\/g, '/');
       const fileName = path.basename(filePath);
@@ -337,7 +340,9 @@ for (const slug of packSlugs) {
       files.push(fileEntry);
       groupItemFiles.push({ path: ast.rel, role });
 
-      if (role === 'Texture:Albedo' || (!previewFile && role !== 'Texture:Normal' && role !== 'Texture:AO')) {
+      if (fileName.endsWith('_preview.png') || fileName === `${groupKey}.png` || fileName.toLowerCase() === 'preview.png') {
+        previewFile = { filePath, ast, fileEntry };
+      } else if (!previewFile && (role === 'Texture:Albedo' || (role !== 'Texture:Normal' && role !== 'Texture:AO'))) {
         previewFile = { filePath, ast, fileEntry };
       }
     }
