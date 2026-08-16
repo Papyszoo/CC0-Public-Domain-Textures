@@ -1,0 +1,22 @@
+{
+  "name": "Poly Haven PBR Textures",
+  "creator": "Poly Haven",
+  "website": "https://polyhaven.com/textures",
+  "license": "CC0",
+  "description": "Curated collection of 100% CC0 photorealistic PBR materials by Poly Haven (polyhaven.com) in max 512px KTX2 format with full mipmaps for fast scene prototyping and low VRAM usage. High-resolution master files (up to 8K/16K) available via original source links.",
+  "upstream": {
+    "source_url": "https://polyhaven.com/textures",
+    "download_url": "https://polyhaven.com/textures",
+    "available_resolutions": [
+      "1k",
+      "2k",
+      "4k",
+      "8k",
+      "16k"
+    ]
+  },
+  "generation": {
+    "category": "Stone & Rock",
+    "subcategory": "Natural Rock"
+  }
+}

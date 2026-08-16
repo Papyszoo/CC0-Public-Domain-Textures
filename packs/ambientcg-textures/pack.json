@@ -1,0 +1,22 @@
+{
+  "name": "AmbientCG PBR Textures",
+  "creator": "AmbientCG (Lennart Demes)",
+  "website": "https://ambientcg.com",
+  "license": "CC0",
+  "description": "Extensive collection of 100% CC0 public domain PBR materials and surface textures by Lennart Demes (ambientcg.com) in max 512px KTX2 format with full mipmaps for fast scene prototyping and low VRAM usage. Master resolutions (up to 8K/12K) available via original source links.",
+  "upstream": {
+    "source_url": "https://ambientcg.com",
+    "download_url": "https://ambientcg.com",
+    "available_resolutions": [
+      "1k",
+      "2k",
+      "4k",
+      "8k",
+      "12k"
+    ]
+  },
+  "generation": {
+    "category": "Stone & Rock",
+    "subcategory": "Natural Rock"
+  }
+}
