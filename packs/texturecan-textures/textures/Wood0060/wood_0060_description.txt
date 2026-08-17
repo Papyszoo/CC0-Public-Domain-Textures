@@ -1,0 +1,10 @@
+Name:
+Rough Wood Planks (Wood 0060)
+
+Description:
+It is a rough wood planks which can be used for furniture and fences.
+
+It has prominent dark and light wood grains.
+
+Author:
+https://www.texturecan.com

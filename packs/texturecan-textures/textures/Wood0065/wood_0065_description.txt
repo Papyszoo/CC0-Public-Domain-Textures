@@ -1,0 +1,10 @@
+Name:
+Cross Section of Wood Log (Wood 0065)
+
+Description:
+It is the cross-section of a tree trunk or the tree grain patterns found on tree stumps.
+
+If you are creating a large tree log, this texture may help you fill the ends of your timber.
+
+Author:
+https://www.texturecan.com

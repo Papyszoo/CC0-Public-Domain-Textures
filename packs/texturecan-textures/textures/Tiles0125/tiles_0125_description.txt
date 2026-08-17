@@ -1,0 +1,8 @@
+Name:
+Triangular White Tilted Tiles for Wall Decoration (Tiles 0125)
+
+Description:
+Up and down tilted triangles closely packed together forming a decorated white wall.
+
+Author:
+https://www.texturecan.com

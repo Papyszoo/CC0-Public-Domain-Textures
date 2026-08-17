@@ -1,0 +1,1 @@
+tiles, floor, pavement, terracotta, outdoor, kitchen, garden, brown, orange, square, rustic

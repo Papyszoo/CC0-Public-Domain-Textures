@@ -1,0 +1,1 @@
+brick, block, tile, paver, paving, pavement, pedestrian, sidewalk, floor, concrete, cement, y-shape, interlocking, grey, gray, yellow

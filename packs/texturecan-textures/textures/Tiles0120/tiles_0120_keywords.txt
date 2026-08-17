@@ -1,0 +1,1 @@
+Tile, Pyramid, Triangle, Triangular, White, Wall

@@ -1,0 +1,10 @@
+Name:
+Asphalt Rooftop Texture (Rooftop 0009)
+
+Description:
+This trapezoid tiles are made of asphalt having a rather rough surface.
+
+Moss and dirt can be found on the surface.
+
+Author:
+https://www.texturecan.com

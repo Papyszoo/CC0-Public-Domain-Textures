@@ -1,0 +1,12 @@
+Name:
+Laminated Long Brown Wood Planks (Wood 0066)
+
+Description:
+These are laminated long wood floor tiles.
+
+This type of dark coloured planks is commonly used in interior design.
+
+Version 1.01: Fixed gap issue
+
+Author:
+https://www.texturecan.com

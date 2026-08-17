@@ -1,0 +1,8 @@
+Name:
+Concentric Circle Paving Tile (Ground 0045)
+
+Description:
+Concrete tiles arranged in a pattern of concentric circles with square slabs filling the empty areas. This texture is suitable for paving patios.
+
+Author:
+https://www.texturecan.com

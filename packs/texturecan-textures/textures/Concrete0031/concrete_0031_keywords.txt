@@ -1,0 +1,1 @@
+concrete, stone, rock, tile, wall, gray, grey, square, rectangle, rectangular

@@ -1,0 +1,10 @@
+Name:
+Waxy Tree Trunk Bark Texture (Wood 0064)
+
+Description:
+It is a waxy tree trunk. Therefore, its bark has a layer of glossy coating.
+
+If you are building a forest, this texture may increase your tree variations.
+
+Author:
+https://www.texturecan.com

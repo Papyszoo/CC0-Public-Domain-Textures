@@ -1,0 +1,10 @@
+Name:
+Giraffe Skin Fur Texture (Others 0034)
+
+Description:
+This is the skin of giraffes having cell-link brownish pattern. Fur can be found on the surface.
+
+Please remember to enable the scattering of the shader to make it look more realistic.
+
+Author:
+https://www.texturecan.com

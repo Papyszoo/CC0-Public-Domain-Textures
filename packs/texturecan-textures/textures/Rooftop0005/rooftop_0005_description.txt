@@ -1,0 +1,8 @@
+Name:
+Black Clay Rooftop (Rooftop 0005)
+
+Description:
+It is a clay rooftop of a house. It has a grey colour. Dents, bumps and dirt can be found on the surface.
+
+Author:
+https://www.texturecan.com

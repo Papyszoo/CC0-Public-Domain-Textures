@@ -1,0 +1,8 @@
+Name:
+Christmasy Diamond Shaped Pattern (Paper 0037)
+
+Description:
+A wrapping paper has a pattern of diamonds and consists of festive colors, red, green and white, decorated with elegant golden diagonals.
+
+Author:
+https://www.texturecan.com

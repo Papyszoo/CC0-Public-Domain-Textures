@@ -1,0 +1,10 @@
+Name:
+Stylized Tree Trunks or Bark Texture (Wood 0062)
+
+Description:
+It is a stylised pine tree trunk texture. The tree bark has the peeling effect.
+
+If you are creating a stylised tree, these PBR maps may suit your need.
+
+Author:
+https://www.texturecan.com

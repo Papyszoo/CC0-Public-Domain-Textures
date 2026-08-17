@@ -1,0 +1,1 @@
+tile, diamond, cross, patterned, pavement, floor, shiny, smooth, spot, spotted, grey, gray

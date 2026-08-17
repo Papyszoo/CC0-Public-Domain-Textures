@@ -1,0 +1,8 @@
+Name:
+Y-Shaped Wall Decoration (Tiles 0102)
+
+Description:
+It is a wall decor with interlocking y-shaped patterns. By close examination, concrete texture can be seen on the surface.
+
+Author:
+https://www.texturecan.com

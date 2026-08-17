@@ -1,0 +1,1 @@
+tile, white, triangle, triangular, wall, decor, decoration, tilted

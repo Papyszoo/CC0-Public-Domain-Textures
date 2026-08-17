@@ -1,0 +1,8 @@
+Name:
+Geometric Tile Texture for Wall Decor  (Tiles 0087)
+
+Description:
+This tile has a pattern made of cycles and square. The texture can be used as both wall decor and building exterior.
+
+Author:
+https://www.texturecan.com

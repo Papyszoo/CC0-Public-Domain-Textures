@@ -1,0 +1,8 @@
+Name:
+Wooden Block Wall (Wood 0053)
+
+Description:
+It is a decorated wall with blcoky wooden blocks. There are 2 layers of cubes and each layer is made of different types of wood.
+
+Author:
+https://www.texturecan.com

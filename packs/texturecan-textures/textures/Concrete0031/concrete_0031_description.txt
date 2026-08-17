@@ -1,0 +1,8 @@
+Name:
+Concrete Wall of Stacked Rectangular Stones (Concrete 0031)
+
+Description:
+Square and rectangular rocks stacked together forming a solid wall.
+
+Author:
+https://www.texturecan.com

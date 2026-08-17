@@ -106,7 +106,7 @@ function downscaleToTarget(inputPath, outputPath) {
 
     if (width > maxDimension || height > maxDimension) {
       console.log(`  Resizing from ${width}x${height} -> max ${maxDimension}px`);
-      execSync(`sips -Z ${maxDimension} "${inputPath}" --out "${outputPath}"`, {
+      execSync(`sips -s format png -Z ${maxDimension} "${inputPath}" --out "${outputPath}"`, {
         stdio: ['pipe', 'pipe', 'inherit'],
       });
       return true;

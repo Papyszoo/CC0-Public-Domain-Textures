@@ -1,0 +1,1 @@
+pavement, tile, circle, circular, concentric, brick, concrete, damaged, patterned, outdoor, patio, floor, street, moss, gray, dirty, dirt

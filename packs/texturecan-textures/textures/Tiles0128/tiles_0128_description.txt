@@ -1,0 +1,8 @@
+Name:
+Floor Pavement Tiles of Squares and Diamond Shapes (Tiles 0128)
+
+Description:
+Large and small squares and diamond tiles forming the octagonal pattern. It is a gorgeous texture for public pathways.
+
+Author:
+https://www.texturecan.com

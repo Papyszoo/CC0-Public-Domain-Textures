@@ -1,0 +1,11 @@
+Name:
+White Triangular Tile Texture with Flower Pattern (Tiles 0086)
+
+Description:
+They are wall tiles decorated with flower pattern. The surface is rather rough. This texture is excellent for wall decor.
+
+version: 0.1.1
+Fixed height map
+
+Author:
+https://www.texturecan.com

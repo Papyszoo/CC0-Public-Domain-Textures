@@ -1,0 +1,10 @@
+Name:
+Composite Clay Roof Tiles (Rooftop 0006)
+
+Description:
+They are black clay roof tiles having vertical lines as pattern on the surface.
+
+If you are building a house, this texture may suit your need.
+
+Author:
+https://www.texturecan.com

@@ -1,0 +1,10 @@
+Name:
+Rain Ripples on Puddle (Others 0028)
+
+Description:
+A puddle being hit by loads of raindrops which form ripples on the wet floor.
+
+You may create a plane above any ground and make this water layer semi-transparent as demonstrated on the web page.
+
+Author:
+https://www.texturecan.com

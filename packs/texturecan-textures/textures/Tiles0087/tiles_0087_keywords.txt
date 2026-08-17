@@ -1,0 +1,1 @@
+tile, wall, decor, decoration, circle, square, archviz, architecture

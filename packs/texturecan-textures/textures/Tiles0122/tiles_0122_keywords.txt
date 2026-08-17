@@ -1,0 +1,1 @@
+tile, circle, circular, square, patterned, pavement, floor, shiny, smooth, spot, spotted, grey, gray

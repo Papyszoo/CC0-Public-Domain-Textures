@@ -1,0 +1,8 @@
+Name:
+Brown Alligator Leather Fabric (Fabrics 0073)
+
+Description:
+It is a piece of leather having the scale pattern of alligators. There are round rectangular and elliptic scales and they have different sizes.
+
+Author:
+https://www.texturecan.com

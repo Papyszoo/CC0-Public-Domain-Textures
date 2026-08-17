@@ -1,0 +1,10 @@
+Name:
+Zigzag Unipaver Bricks with Diagonal Pattern (Tiles 0081)
+
+Description:
+The zigzag edges of each cement block interlocking each other. The red and grey colours of the blocks form the diagonal strips. 
+
+It can be used to texture pedestrian allies or terraces.
+
+Author:
+https://www.texturecan.com

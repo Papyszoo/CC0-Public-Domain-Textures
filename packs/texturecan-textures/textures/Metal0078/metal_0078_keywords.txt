@@ -1,0 +1,1 @@
+pyramid, rectangle, rectangular, square, triangle, triangular, tile, wall, decoration, metal, gold, golden, copper, dirt, dirty, oxidized, shiny, matt

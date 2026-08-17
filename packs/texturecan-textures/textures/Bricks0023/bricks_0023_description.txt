@@ -1,0 +1,10 @@
+Name:
+Parquet Brick Floor (Bricks 0023)
+
+Description:
+It is a red brick floor in parquet arrangement.
+
+This texture can be used as pavement for pedestrian pathways.
+
+Author:
+https://www.texturecan.com

@@ -1,0 +1,10 @@
+Name:
+Medieval Stone Wall (Wood 0058)
+
+Description:
+The stone wall is made of large rocks of various shapes and colours.
+
+It is an excellent candidate for medieval structures, especially forts. It can also be used to build garden structures.
+
+Author:
+https://www.texturecan.com

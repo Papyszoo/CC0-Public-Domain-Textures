@@ -1,0 +1,8 @@
+Name:
+Rusted Tread Plate Metal Texture (Metal 0070)
+
+Description:
+This metallic tread plate is highly rusted and oxidized. Rust and dirt is everywhere, especially on studs.
+
+Author:
+https://www.texturecan.com

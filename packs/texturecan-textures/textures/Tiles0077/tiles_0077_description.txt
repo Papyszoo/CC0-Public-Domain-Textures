@@ -1,0 +1,10 @@
+Name:
+Zig Zag Alternating Color Unipaver Blocks
+
+Description:
+This concrete block has zigzag edges allowing each brick to interlock each other. The blocks are arranged in running bond type with alternating colours.
+
+It can be used to texture pedestrian pavements or sidewalks.
+
+Author:
+https://www.texturecan.com

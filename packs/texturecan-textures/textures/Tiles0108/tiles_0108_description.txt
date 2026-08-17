@@ -1,0 +1,10 @@
+Name:
+Classic Checker Blue Tune Tiles (Tiles 0108)
+
+Description:
+This set of checker tiles consist of 2 colours, light blue and navy. The tiles are arranged in different orientations to form large and small squares, triangles and ribbons.
+
+Dirt can clearly be seen on the surface.
+
+Author:
+https://www.texturecan.com

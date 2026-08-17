@@ -1,0 +1,10 @@
+Name:
+White Woven Jumper Fabric Clothes (Fabrics 0079)
+
+Description:
+It is a texture of a jumper or sweater.
+
+It has a diagonal weaving pattern.
+
+Author:
+https://www.texturecan.com

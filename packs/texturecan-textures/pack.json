@@ -1,0 +1,13 @@
+{
+  "name": "TextureCan PBR Textures",
+  "slug": "texturecan-textures",
+  "version": "1.0.0",
+  "description": "Comprehensive library of CC0 procedural and photorealistic PBR textures from TextureCan (bricks, concrete, fabrics, food, ground, marble, metal, paper, plants, plastic, rock, tiles, wood). All textures are optimized to max 512px Basis Universal KTX2 format with full PBR maps and companion 256px previews.",
+  "creator": "TextureCan",
+  "author": "TextureCan",
+  "website": "https://www.texturecan.com/",
+  "sourceUrl": "https://www.texturecan.com/",
+  "license": "CC0-1.0",
+  "type": "TextureSet",
+  "tags": ["texture", "pbr", "cc0", "texturecan", "materials", "procedural", "photorealistic", "seamless", "512px", "ktx2", "uastc"]
+}

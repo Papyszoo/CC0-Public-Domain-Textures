@@ -1,0 +1,10 @@
+Name:
+Sauna Room Wood Planks (Wood 0059)
+
+Description:
+This wood plank is commonly used in sauna rooms. Due to the fine polish, it is slightly glossy.
+
+It is also a marvellous texture for other furniture.
+
+Author:
+https://www.texturecan.com

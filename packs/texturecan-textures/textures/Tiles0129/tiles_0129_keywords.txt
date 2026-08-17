@@ -1,0 +1,1 @@
+tiles, brown, white, wall, patterned, marble, stone, square

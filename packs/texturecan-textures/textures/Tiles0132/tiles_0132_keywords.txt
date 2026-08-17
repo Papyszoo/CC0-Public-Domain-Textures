@@ -1,0 +1,1 @@
+tiles, wall, decoration, decorated, blue, square, line, diagonal

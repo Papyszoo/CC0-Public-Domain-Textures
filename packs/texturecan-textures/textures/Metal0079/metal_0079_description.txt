@@ -1,0 +1,8 @@
+Name:
+Hexagonal Metal Frames with Concave Rubber (Metal 0079)
+
+Description:
+Hexagonal black metallic mesh filled with concave rubber material. It is a decorative texture which can be applied to wall etc.
+
+Author:
+https://www.texturecan.com

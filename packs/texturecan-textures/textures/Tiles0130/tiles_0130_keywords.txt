@@ -1,0 +1,1 @@
+tiles, damaged, wall, floor, square, grey, gray, white

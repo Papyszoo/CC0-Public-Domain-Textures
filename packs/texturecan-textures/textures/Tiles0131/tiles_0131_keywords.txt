@@ -1,0 +1,1 @@
+tile, square, triangle, triangular, beige, brown, stripe, stripy, line, diagonal

@@ -1,0 +1,8 @@
+Name:
+Dirt Tread Plate Metal Texture (Metal 0069)
+
+Description:
+This metallic tread plate has a black painted base with shiny silver studs. Dirt is everywhere, especially around edges of studs.
+
+Author:
+https://www.texturecan.com

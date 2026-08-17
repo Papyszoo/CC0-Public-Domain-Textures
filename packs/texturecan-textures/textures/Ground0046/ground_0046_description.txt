@@ -1,0 +1,8 @@
+Name:
+Damaged Concrete with Deep Cracks (Ground 0046)
+
+Description:
+Cracked concrete full of large and small gaps. With the SBSAR file, this texture can turn into a dry muddy field or cracky and sandy ground.
+
+Author:
+https://www.texturecan.com

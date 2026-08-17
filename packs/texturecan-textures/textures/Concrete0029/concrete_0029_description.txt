@@ -1,0 +1,8 @@
+Name:
+Gray Wall or Floor of Larger Darker and Smaller Lighter Tiles (Concrete 0029)
+
+Description:
+Pattern made of larger and small rectangular tiles with offset. This texture is applicable to both walls and floor pavement.
+
+Author:
+https://www.texturecan.com

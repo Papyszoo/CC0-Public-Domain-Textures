@@ -1,0 +1,10 @@
+Name:
+Muddy Carrot Skin Texture (Food 0025)
+
+Description:
+It is the skin of a carrot, but with mud. Cuts and specks can be found on the surface.
+
+To get a more satisfied result, you may use the subsurface scattering texture.
+
+Author:
+https://www.texturecan.com

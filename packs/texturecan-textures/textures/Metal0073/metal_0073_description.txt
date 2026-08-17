@@ -1,0 +1,8 @@
+Name:
+Oxidised Brass Metal Wall (Metal 0073)
+
+Description:
+It is a brass plate, but highly oxidised. It has rust, pores and tiny bumps everywhere. This metallic texture is a good candidate for worn metal walls.
+
+Author:
+https://www.texturecan.com

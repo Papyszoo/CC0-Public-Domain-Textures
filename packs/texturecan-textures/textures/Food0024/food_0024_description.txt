@@ -1,0 +1,10 @@
+Name:
+Carrot Skin Texture (Food 0024)
+
+Description:
+It is the skin of a carrot. Cuts and specks can be found on the surface.
+
+To achieve a better render, you may apply the subsurface scattering map.
+
+Author:
+https://www.texturecan.com

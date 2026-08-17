@@ -1,0 +1,10 @@
+Name:
+Human Face Skin Texture (Skin 0001)
+
+Description:
+It is a human skin texture. Due to its smoothness, this skin is more suitable for faces.
+
+The SBSAR allows users to adjust the skin colours.
+
+Author:
+https://www.texturecan.com

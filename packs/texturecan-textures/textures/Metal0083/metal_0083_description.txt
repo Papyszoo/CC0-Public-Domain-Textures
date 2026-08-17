@@ -1,0 +1,8 @@
+Name:
+Woven Steel Metal (Metal 0083)
+
+Description:
+A woven steel wall made of polished metal rods and stripes. Dents and dirt can be found on the surface with a close examination.
+
+Author:
+https://www.texturecan.com

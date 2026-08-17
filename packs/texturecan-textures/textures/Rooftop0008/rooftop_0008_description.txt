@@ -1,0 +1,10 @@
+Name:
+Orange Clay Rooftop Tiles (Rooftop 0008)
+
+Description:
+These orange clay roof tiles is slightly damaged and covered by some dust.
+
+It is a typical roof tile texture of European houses.
+
+Author:
+https://www.texturecan.com
