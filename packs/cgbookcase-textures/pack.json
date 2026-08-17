@@ -1,0 +1,22 @@
+{
+  "name": "cgbookcase PBR Textures",
+  "creator": "Dorian Zgraggen (cgbookcase)",
+  "website": "https://www.cgbookcase.com/",
+  "license": "CC0",
+  "description": "Complete collection of CC0 1.0 Universal PBR materials (architectural surfaces, street & asphalt, bricks, rocks, tiles, metals, woods, fabrics, ground) by Dorian Zgraggen (cgbookcase.com) in max 512px Basis Universal KTX2 format with companion 256px previews.",
+  "upstream": {
+    "source_url": "https://www.cgbookcase.com/",
+    "download_url": "https://www.cgbookcase.com/api/textures",
+    "available_resolutions": [
+      "1k",
+      "2k",
+      "4k",
+      "6k",
+      "8k"
+    ]
+  },
+  "generation": {
+    "category": "Other",
+    "subcategory": "General"
+  }
+}

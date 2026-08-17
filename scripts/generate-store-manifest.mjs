@@ -114,13 +114,13 @@ const KEYWORD_RULES = [
 
   // Metal
   [['rust', 'rusted', 'corroded', 'corrosion', 'oxidation'], 'Metal', 'Rusted & Corroded'],
-  [['grate', 'grille', 'mesh_metal', 'wire_mesh', 'chainmail', 'fence', 'diamond_plate', 'diamondplate', 'rails'], 'Metal', 'Grates & Panels'],
+  [['manhole', 'manholecover', 'manhole_cover', 'drain', 'sewer', 'grate', 'grille', 'mesh_metal', 'wire_mesh', 'chainmail', 'fence', 'diamond_plate', 'diamondplate', 'rails'], 'Metal', 'Grates & Panels'],
   [['painted_metal', 'metal_painted'], 'Metal', 'Painted'],
   [['metal', 'steel', 'iron', 'bronze', 'copper', 'gold', 'brass', 'aluminum', 'chrome', 'foil', 'pipe', 'corrugated_steel', 'corrugatedsteel', 'sheet_metal', 'metalplates', 'metalwalkway'], 'Metal', 'Clean & Polished'],
 
   // Concrete & Plaster
   [['plaster', 'stucco', 'painted_wall', 'facade', 'interior_wall', 'wall_cladding', 'ceiling', 'officeceiling', 'wall'], 'Concrete & Plaster', 'Stucco & Plaster'],
-  [['concrete', 'cement'], 'Concrete & Plaster', 'Smooth Concrete'],
+  [['concrete', 'cement', 'curb'], 'Concrete & Plaster', 'Smooth Concrete'],
 
   // Brick
   [['paver_brick', 'brick_paver'], 'Brick', 'Pavers'],
