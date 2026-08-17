@@ -35,9 +35,12 @@ const TEXTURE_TAXONOMY = {
   'Fabric & Leather': ['Woven & Cloth', 'Leather', 'Denim & Canvas', 'Patterns'],
   'Tiles & Paving': ['Ceramic Tiles', 'Stone Pavers', 'Mosaic', 'Subway Tiles'],
   Roofing: ['Clay Shingles', 'Metal Roofing', 'Thatch', 'Slate'],
-  Organic: ['Flesh & Skin', 'Scales', 'Bark', 'Coral'],
-  'Man-made': ['Plastic & Rubber', 'Glass', 'Asphalt', 'Cardboard & Paper'],
+  Electronics: ['Circuit Boards & Chips', 'Panels & Displays', 'Wires & Cables'],
+  Food: ['Cooked & Baked', 'Sweets & Candy', 'Fruits & Vegetables'],
+  Organic: ['Flesh & Skin', 'Scales', 'Flora & Vegetation', 'Bark', 'Coral'],
+  'Man-made': ['Plastic & Rubber', 'Glass', 'Asphalt', 'Cardboard & Paper', 'Synthetics & Foam', 'Signs & Decals'],
   'Imperfections & Overlays': ['Scratches & Smudges', 'Dirt & Dust', 'Fingerprints', 'Decals & Stains'],
+  Other: ['General', 'Patterns & Grids', 'Abstract', 'Misc'],
 };
 
 const TEXTURE_CATEGORIES = new Set(Object.keys(TEXTURE_TAXONOMY));
@@ -68,41 +71,80 @@ const PBR_CHANNEL_RULES = [
   [['bump'], 'Texture:Bump'],
 ];
 
-// General categorization keyword rules
+// General categorization keyword rules (evaluated in order)
 const KEYWORD_RULES = [
-  [['wood', 'plank', 'board', 'timber', 'log', 'parquet', 'hardwood'], 'Wood', 'Planks & Boards'],
-  [['bark'], 'Wood', 'Bark & Natural'],
-  [['metal', 'steel', 'iron', 'bronze', 'copper', 'gold', 'brass', 'aluminum', 'chrome', 'foil'], 'Metal', 'Clean & Polished'],
-  [['rust', 'rusted', 'corroded', 'corrosion', 'oxidation'], 'Metal', 'Rusted & Corroded'],
-  [['grate', 'grille', 'mesh_metal', 'wire'], 'Metal', 'Grates & Panels'],
-  [['cobble', 'cobblestone'], 'Stone & Rock', 'Cobblestone'],
-  [['rock', 'stone', 'granite', 'marble', 'boulder', 'cliff', 'slate'], 'Stone & Rock', 'Natural Rock'],
-  [['pebble', 'gravel'], 'Stone & Rock', 'Pebbles & Gravel'],
-  [['brick', 'brickwall', 'masonry'], 'Brick', 'Standard Brick'],
-  [['paver', 'paving_brick'], 'Brick', 'Pavers'],
-  [['concrete', 'cement'], 'Concrete & Plaster', 'Smooth Concrete'],
-  [['plaster', 'stucco'], 'Concrete & Plaster', 'Stucco & Plaster'],
-  [['dirt', 'soil', 'earth', 'ground_dirt'], 'Ground & Terrain', 'Dirt & Soil'],
-  [['grass', 'mud', 'meadow', 'lawn', 'field'], 'Ground & Terrain', 'Grass & Mud'],
-  [['sand', 'dune', 'desert'], 'Ground & Terrain', 'Sand'],
-  [['snow', 'ice', 'frost', 'glacier'], 'Ground & Terrain', 'Snow & Ice'],
-  [['fabric', 'cloth', 'woven', 'cotton', 'linen', 'wool', 'textile', 'carpet', 'curtain'], 'Fabric & Leather', 'Woven & Cloth'],
+  // Roofing
+  [['roofing', 'roof_tile', 'shingle', 'thatch', 'slate_roof', 'clay_roof', 'roof'], 'Roofing', 'Clay Shingles'],
+  [['metal_roof'], 'Roofing', 'Metal Roofing'],
+
+  // Electronics & Sci-Fi
+  [['chip', 'microchip', 'circuit', 'pcb', 'motherboard', 'cpu', 'integrated_circuit'], 'Electronics', 'Circuit Boards & Chips'],
+  [['solar_panel', 'solarpanel', 'solar', 'display', 'screen', 'monitor', 'led_panel'], 'Electronics', 'Panels & Displays'],
+  [['wire', 'cable', 'fiber_optic'], 'Electronics', 'Wires & Cables'],
+
+  // Food & Kitchen
+  [['pizza', 'bread', 'pastry', 'baked', 'flour'], 'Food', 'Cooked & Baked'],
+  [['candy', 'sweet', 'chocolate', 'cookie'], 'Food', 'Sweets & Candy'],
+  [['fruit', 'vegetable', 'apple', 'orange'], 'Food', 'Fruits & Vegetables'],
+
+  // Fabric & Leather
   [['leather', 'suede', 'hide'], 'Fabric & Leather', 'Leather'],
   [['denim', 'canvas', 'jeans'], 'Fabric & Leather', 'Denim & Canvas'],
-  [['tile', 'tiles', 'ceramic', 'subway'], 'Tiles & Paving', 'Ceramic Tiles'],
-  [['stone_paver', 'pavement', 'flagstone'], 'Tiles & Paving', 'Stone Pavers'],
-  [['mosaic'], 'Tiles & Paving', 'Mosaic'],
-  [['roof', 'roofing', 'shingle', 'thatch'], 'Roofing', 'Clay Shingles'],
-  [['flesh', 'skin'], 'Organic', 'Flesh & Skin'],
-  [['scale', 'scales'], 'Organic', 'Scales'],
-  [['plastic', 'rubber'], 'Man-made', 'Plastic & Rubber'],
-  [['glass', 'window_glass'], 'Man-made', 'Glass'],
-  [['asphalt', 'road', 'tarmac'], 'Man-made', 'Asphalt'],
-  [['cardboard', 'paper'], 'Man-made', 'Cardboard & Paper'],
-  [['scratch', 'scratches', 'smudge', 'smudges'], 'Imperfections & Overlays', 'Scratches & Smudges'],
-  [['dust', 'dirt_overlay', 'grunge'], 'Imperfections & Overlays', 'Dirt & Dust'],
+  [['checkered', 'jacquard', 'gingham', 'floral', 'geometric_fabric'], 'Fabric & Leather', 'Patterns'],
+  [['fabric', 'cloth', 'woven', 'cotton', 'linen', 'wool', 'textile', 'carpet', 'curtain', 'fleece', 'teddy', 'velour', 'velvet', 'satin', 'poplin', 'melange', 'jersey', 'tatami', 'wicker', 'caban', 'hessian', 'terlenka', 'georgette', 'corduroy', 'net', 'rope'], 'Fabric & Leather', 'Woven & Cloth'],
+
+  // Imperfections & Overlays
   [['fingerprint', 'fingerprints'], 'Imperfections & Overlays', 'Fingerprints'],
-  [['decal', 'decals', 'stain', 'leak'], 'Imperfections & Overlays', 'Decals & Stains'],
+  [['scratch', 'scratches', 'smudge', 'smudges', 'surfaceimperfection', 'wipe', 'rub'], 'Imperfections & Overlays', 'Scratches & Smudges'],
+  [['dust', 'dirt_overlay', 'grunge', 'smear'], 'Imperfections & Overlays', 'Dirt & Dust'],
+  [['decal', 'decals', 'stain', 'leak', 'footstep', 'puddle'], 'Imperfections & Overlays', 'Decals & Stains'],
+
+  // Man-made (evaluated before Wood so Cardboard/Paper/Foam/Signs win over generic wood/board)
+  [['cardboard', 'chipboard', 'paper', 'wallpaper'], 'Man-made', 'Cardboard & Paper'],
+  [['asphalt', 'road', 'tarmac', 'highway'], 'Man-made', 'Asphalt'],
+  [['glass', 'window_glass', 'stained_glass'], 'Man-made', 'Glass'],
+  [['foam', 'acoustic_foam', 'acousticfoam', 'styrofoam', 'sponge'], 'Man-made', 'Synthetics & Foam'],
+  [['sign', 'signage', 'sticker', 'tape', 'payment_card', 'paymentcard', 'credit_card'], 'Man-made', 'Signs & Decals'],
+  [['plastic', 'rubber', 'polystyrene'], 'Man-made', 'Plastic & Rubber'],
+
+  // Wood
+  [['veneer', 'polished_wood', 'lacquered'], 'Wood', 'Polished & Finished'],
+  [['bark', 'tree_bark', 'treeend', 'log', 'bamboo', 'cork'], 'Wood', 'Bark & Natural'],
+  [['plank', 'board', 'timber', 'parquet', 'hardwood', 'wood_floor', 'woodfloor', 'plywood', 'siding', 'wood_siding', 'wood'], 'Wood', 'Planks & Boards'],
+
+  // Metal
+  [['rust', 'rusted', 'corroded', 'corrosion', 'oxidation'], 'Metal', 'Rusted & Corroded'],
+  [['grate', 'grille', 'mesh_metal', 'wire_mesh', 'chainmail', 'fence', 'diamond_plate', 'diamondplate', 'rails'], 'Metal', 'Grates & Panels'],
+  [['painted_metal', 'metal_painted'], 'Metal', 'Painted'],
+  [['metal', 'steel', 'iron', 'bronze', 'copper', 'gold', 'brass', 'aluminum', 'chrome', 'foil', 'pipe', 'corrugated_steel', 'corrugatedsteel', 'sheet_metal', 'metalplates', 'metalwalkway'], 'Metal', 'Clean & Polished'],
+
+  // Concrete & Plaster
+  [['plaster', 'stucco', 'painted_wall', 'facade', 'interior_wall', 'wall_cladding', 'ceiling', 'officeceiling', 'wall'], 'Concrete & Plaster', 'Stucco & Plaster'],
+  [['concrete', 'cement'], 'Concrete & Plaster', 'Smooth Concrete'],
+
+  // Brick
+  [['paver_brick', 'brick_paver'], 'Brick', 'Pavers'],
+  [['brick', 'brickwall', 'masonry'], 'Brick', 'Standard Brick'],
+
+  // Tiles & Paving
+  [['mosaic'], 'Tiles & Paving', 'Mosaic'],
+  [['subway'], 'Tiles & Paving', 'Subway Tiles'],
+  [['paving_stone', 'pavingstone', 'pavement', 'tactile_paving', 'tactilepaving', 'flagstone', 'pathway', 'stone_paver', 'floor_pavement', 'herringbone_pavement', 'paving'], 'Tiles & Paving', 'Stone Pavers'],
+  [['tile', 'tiles', 'ceramic', 'terrazzo', 'glazed_terracotta', 'glazedterracotta', 'porcelain', 'linoleum', 'laminate', 'klinkers', 'floor_pattern', 'square_floor'], 'Tiles & Paving', 'Ceramic Tiles'],
+
+  // Ground & Terrain
+  [['snow', 'ice', 'frost', 'glacier'], 'Ground & Terrain', 'Snow & Ice'],
+  [['sand', 'dune', 'desert'], 'Ground & Terrain', 'Sand'],
+  [['grass', 'mud', 'meadow', 'lawn', 'field', 'moss', 'forest_ground', 'leaves', 'flower', 'stickset', 'leaf', 'mulch'], 'Ground & Terrain', 'Grass & Mud'],
+  [['dirt', 'soil', 'earth', 'ground', 'terrain', 'lava', 'riverbed', 'trail', 'rubble', 'beach'], 'Ground & Terrain', 'Dirt & Soil'],
+
+  // Stone & Rock
+  [['cobble', 'cobblestone'], 'Stone & Rock', 'Cobblestone'],
+  [['pebble', 'gravel'], 'Stone & Rock', 'Pebbles & Gravel'],
+  [['rock', 'stone', 'granite', 'marble', 'boulder', 'cliff', 'slate', 'travertine', 'onyx', 'limestone', 'sandstone', 'coral', 'shell', 'ivory', 'moon', 'quarry', 'ruins'], 'Stone & Rock', 'Natural Rock'],
+
+  // Other / Prototyping
+  [['prototype', 'grid', 'test_texture', 'checkerboard', 'uv_grid', 'pattern'], 'Other', 'Patterns & Grids'],
 ];
 
 function getMimeType(filePath) {
@@ -148,7 +190,7 @@ function inferPbrRole(fileName) {
 
 function categorize(relPath, options = {}) {
   const normalized = relPath.toLowerCase().replace(/\\/g, '/');
-  const baseName = path.basename(relPath, path.extname(relPath)).toLowerCase();
+  const rawBaseName = path.basename(relPath, path.extname(relPath));
   const allowedCategories = options.allowed_categories ? new Set(options.allowed_categories) : null;
 
   // 1. Explicit regex rules from pack.json "generation.category_rules"
@@ -164,21 +206,34 @@ function categorize(relPath, options = {}) {
     }
   }
 
-  // 2. Keyword token matching
-  const cleanStem = normalized.replace(/[^a-z0-9]/gi, ' ').toLowerCase();
-  const wordTokens = cleanStem.split(/\s+/).filter(Boolean);
+  // 2. Keyword token matching with PascalCase / camelCase word expansion
+  const expandedStem = rawBaseName
+    .replace(/([a-z])([A-Z])/g, '$1 $2')
+    .replace(/([A-Z]+)([A-Z][a-z])/g, '$1 $2')
+    .replace(/[^a-zA-Z0-9]/g, ' ')
+    .toLowerCase();
+  const wordTokens = expandedStem.split(/\s+/).filter(Boolean);
+  const cleanCompact = rawBaseName.toLowerCase().replace(/[^a-z0-9]/g, '');
 
   for (const [keywords, category, subcategory] of KEYWORD_RULES) {
     if (allowedCategories && !allowedCategories.has(category)) continue;
     for (const kw of keywords) {
       const kwLower = kw.toLowerCase();
-      if (wordTokens.includes(kwLower) || baseName.includes(kwLower)) {
+      const kwCompact = kwLower.replace(/[^a-z0-9]/g, '');
+      if (
+        wordTokens.includes(kwLower) ||
+        expandedStem.includes(kwLower) ||
+        cleanCompact.startsWith(kwCompact) ||
+        cleanCompact === kwCompact ||
+        normalized.includes(`/${kwLower}`) ||
+        normalized.includes(`_${kwLower}`)
+      ) {
         return { category, subcategory };
       }
     }
   }
 
-  // 3. Fallback to pack default category
+  // 3. Fallback to pack default category if explicitly configured
   if (options.category && TEXTURE_CATEGORIES.has(options.category)) {
     const validSub = options.subcategory && TEXTURE_TAXONOMY[options.category]?.includes(options.subcategory)
       ? options.subcategory
@@ -186,7 +241,8 @@ function categorize(relPath, options = {}) {
     return { category: options.category, subcategory: validSub };
   }
 
-  return { category: 'Stone & Rock', subcategory: 'Natural Rock' };
+  // 4. Standard default fallback is now Other > General
+  return { category: 'Other', subcategory: 'General' };
 }
 
 const sha256 = (p) => createHash('sha256').update(readFileSync(p)).digest('hex');
