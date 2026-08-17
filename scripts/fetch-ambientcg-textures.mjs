@@ -46,7 +46,7 @@ function downloadFile(url, destPath) {
 
 async function main() {
   console.log('Fetching AmbientCG materials index...');
-  let queryUrl = 'https://ambientcg.com/api/v2/full_json?type=Material&sort=Popular&limit=100';
+  let queryUrl = 'https://ambientcg.com/api/v2/full_json?type=Material&sort=Popular&limit=5000';
   if (targetCat) {
     queryUrl += `&q=${encodeURIComponent(targetCat)}`;
   }
@@ -71,9 +71,18 @@ async function main() {
   for (let i = 0; i < assets.length; i++) {
     const asset = assets[i];
     const assetId = asset.assetId;
-    console.log(`\n[${i + 1}/${assets.length}] Processing: ${assetId}`);
-
     const matDir = path.join(TEXTURES_DIR, assetId);
+    const previewPngPath = path.join(matDir, `${assetId}_preview.png`);
+
+    // Check if already processed
+    if (existsSync(matDir) && existsSync(previewPngPath)) {
+      const existingFiles = readdirSync(matDir);
+      if (existingFiles.some((f) => f.endsWith('.ktx2'))) {
+        continue;
+      }
+    }
+
+    console.log(`\n[${i + 1}/${assets.length}] Processing: ${assetId}`);
     mkdirSync(matDir, { recursive: true });
 
     // Download 1K-PNG zip
