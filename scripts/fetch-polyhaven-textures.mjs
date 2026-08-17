@@ -77,13 +77,37 @@ async function main() {
   for (let i = 0; i < assetKeys.length; i++) {
     const id = assetKeys[i];
     const info = allAssets[id];
-    console.log(`\n[${i + 1}/${assetKeys.length}] Processing: ${info.name || id} (${id})`);
-
     const matDir = path.join(TEXTURES_DIR, id);
+    const previewPngPath = path.join(matDir, `${id}_preview.png`);
+
+    // Check if already processed
+    if (existsSync(matDir) && existsSync(previewPngPath)) {
+      const existingFiles = readdirSync(matDir);
+      if (existingFiles.some((f) => f.endsWith('.ktx2'))) {
+        // Already processed
+        upstreamItems[id] = {
+          name: info.name || id,
+          source_url: `https://polyhaven.com/a/${id}`,
+          download_url: `https://polyhaven.com/a/${id}`,
+          available_resolutions: ['1k', '2k', '4k', '8k', ...(info.max_resolution?.[0] >= 16384 ? ['16k'] : [])],
+          categories: info.categories || [],
+          tags: info.tags || [],
+        };
+        continue;
+      }
+    }
+
+    console.log(`\n[${i + 1}/${assetKeys.length}] Processing: ${info.name || id} (${id})`);
     mkdirSync(matDir, { recursive: true });
 
     // Fetch file URLs for this asset
-    const filesInfo = await fetchJson(`https://api.polyhaven.com/files/${id}`);
+    let filesInfo = {};
+    try {
+      filesInfo = await fetchJson(`https://api.polyhaven.com/files/${id}`);
+    } catch (err) {
+      console.warn(`  Failed to fetch files index for ${id}:`, err.message);
+      continue;
+    }
 
     // Map channels to download (1k resolution)
     // Priority: Diffuse / Albedo, nor_gl / nor_dx, rough, metal, ao, disp
@@ -125,7 +149,6 @@ async function main() {
 
     // Download official 3D material sphere render from Poly Haven
     const thumbUrl = info.thumbnail_url || `https://cdn.polyhaven.com/asset_img/primary/${id}.png`;
-    const previewPngPath = path.join(matDir, `${id}_preview.png`);
     downloadFile(thumbUrl, previewPngPath);
     if (existsSync(previewPngPath)) {
       try {
