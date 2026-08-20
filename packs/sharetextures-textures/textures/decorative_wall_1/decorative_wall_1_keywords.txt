@@ -1,0 +1,3 @@
+plaster
+decorative_wall
+decorative wall 1

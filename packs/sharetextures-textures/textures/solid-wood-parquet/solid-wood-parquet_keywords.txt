@@ -1,0 +1,3 @@
+wood
+solid-wood-parquet
+solid wood parquet

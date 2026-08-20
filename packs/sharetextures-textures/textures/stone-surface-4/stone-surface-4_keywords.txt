@@ -1,0 +1,3 @@
+ground
+stone-surface
+stone 4

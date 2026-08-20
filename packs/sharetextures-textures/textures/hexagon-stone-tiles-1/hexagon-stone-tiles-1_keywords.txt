@@ -1,0 +1,3 @@
+floor
+hexagon-stone-tiles
+hexagon stone tiles 1

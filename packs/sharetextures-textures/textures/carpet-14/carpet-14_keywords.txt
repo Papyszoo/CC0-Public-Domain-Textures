@@ -1,0 +1,3 @@
+floor
+carpet
+carpet 14

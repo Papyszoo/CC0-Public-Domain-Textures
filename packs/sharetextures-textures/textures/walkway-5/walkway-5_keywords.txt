@@ -1,0 +1,3 @@
+road
+walkway
+stone walkway 5

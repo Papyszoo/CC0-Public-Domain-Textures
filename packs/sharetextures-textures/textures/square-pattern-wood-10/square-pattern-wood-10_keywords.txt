@@ -1,0 +1,3 @@
+wood
+square-pattern-wood
+square pattern parquet 10

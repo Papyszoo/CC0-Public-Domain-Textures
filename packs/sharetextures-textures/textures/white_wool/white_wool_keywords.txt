@@ -1,0 +1,3 @@
+fabric
+white_wool
+white wool

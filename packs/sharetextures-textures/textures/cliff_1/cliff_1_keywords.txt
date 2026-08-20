@@ -1,0 +1,3 @@
+ground
+cliff
+cliff 1

@@ -1,0 +1,3 @@
+wall
+stone_wall
+stone wall 12

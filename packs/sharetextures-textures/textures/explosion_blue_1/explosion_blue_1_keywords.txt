@@ -1,0 +1,3 @@
+floor
+explosion_blue
+explosion blue 1

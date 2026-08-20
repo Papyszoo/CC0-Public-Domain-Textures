@@ -1,0 +1,3 @@
+floor
+stone-wall
+stone wall 4

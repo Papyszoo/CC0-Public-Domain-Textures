@@ -1,0 +1,3 @@
+floor
+stone-floor
+stone floor 5

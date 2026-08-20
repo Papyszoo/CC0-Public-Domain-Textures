@@ -1,0 +1,3 @@
+wall
+stone-wall-7
+stone wall 7

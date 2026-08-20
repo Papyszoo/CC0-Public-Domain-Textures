@@ -1,0 +1,3 @@
+ground
+snow_covered_ground
+snow covered ground

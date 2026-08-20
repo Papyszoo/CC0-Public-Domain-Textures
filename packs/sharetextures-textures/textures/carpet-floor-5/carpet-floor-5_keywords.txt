@@ -1,0 +1,3 @@
+floor
+carpet-floor
+carpet floor 5

@@ -1,0 +1,3 @@
+plaster
+painted-wall
+painted wall 4

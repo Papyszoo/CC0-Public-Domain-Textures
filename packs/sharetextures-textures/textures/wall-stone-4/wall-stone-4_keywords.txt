@@ -1,0 +1,3 @@
+wall
+wall-stone
+wall stone 4

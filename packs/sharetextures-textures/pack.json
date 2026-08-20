@@ -1,0 +1,17 @@
+{
+  "name": "ShareTextures CC0 PBR Textures",
+  "slug": "sharetextures-textures",
+  "creator": "Share Textures",
+  "website": "https://www.sharetextures.com",
+  "license": "CC0",
+  "description": "Free CC0 PBR texture materials from ShareTextures.com. Covers metal, wood, concrete, fabric, floors, walls, and more — full PBR channel sets.",
+  "upstream": {
+    "source_url": "https://www.sharetextures.com/textures",
+    "download_url": "https://files.sharetextures.com",
+    "available_resolutions": [
+      "1k",
+      "2k",
+      "4k"
+    ]
+  }
+}

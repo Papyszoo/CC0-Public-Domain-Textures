@@ -19,7 +19,7 @@ const SOURCE_EXTS = new Set(['.png', '.jpg', '.jpeg', '.tga', '.tif', '.tiff', '
 const args = process.argv.slice(2);
 const packArgIndex = args.indexOf('--pack');
 const targetPack = packArgIndex !== -1 ? args[packArgIndex + 1] : null;
-const fileArgIndex = args.indexOf('--file');
+const fileArgIndex = args.indexOf('--file') !== -1 ? args.indexOf('--file') : args.indexOf('--dir');
 const targetFile = fileArgIndex !== -1 ? args[fileArgIndex + 1] : null;
 const maxResArgIndex = args.indexOf('--max-res');
 const maxDimension = maxResArgIndex !== -1 ? parseInt(args[maxResArgIndex + 1], 10) : 512;

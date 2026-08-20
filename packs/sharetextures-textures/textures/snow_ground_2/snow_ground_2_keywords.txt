@@ -1,0 +1,3 @@
+ground
+snow_ground
+snow ground 2

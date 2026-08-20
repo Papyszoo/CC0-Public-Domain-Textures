@@ -1,0 +1,3 @@
+road
+walkway
+pebbles walkway 1

@@ -1,0 +1,3 @@
+fabric
+seamless-fabric-texture
+fabric 36

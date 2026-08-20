@@ -1,0 +1,3 @@
+wall
+sand-stone-texture
+sand stone texture 3

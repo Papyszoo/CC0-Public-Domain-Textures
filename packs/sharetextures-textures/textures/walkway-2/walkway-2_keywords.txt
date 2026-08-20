@@ -1,0 +1,3 @@
+road
+walkway
+walkway 2

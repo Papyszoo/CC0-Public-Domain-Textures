@@ -1,0 +1,3 @@
+wood
+bamboo_fence
+bamboo fence 1

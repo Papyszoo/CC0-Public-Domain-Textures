@@ -1,0 +1,3 @@
+fabric
+carpet-floor
+carpet floor 3

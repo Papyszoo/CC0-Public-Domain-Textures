@@ -1,0 +1,3 @@
+floor
+blue_marble
+blue marble 2

@@ -1,0 +1,3 @@
+floor
+stone-tiles
+stone tiles

@@ -1,0 +1,3 @@
+ground
+rock
+rock 1

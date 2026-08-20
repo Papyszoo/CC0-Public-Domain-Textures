@@ -1,0 +1,3 @@
+fabric
+checkered_fabric
+checkered fabric

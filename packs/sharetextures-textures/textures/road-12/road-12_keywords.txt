@@ -1,0 +1,3 @@
+road
+road
+stone tile 12

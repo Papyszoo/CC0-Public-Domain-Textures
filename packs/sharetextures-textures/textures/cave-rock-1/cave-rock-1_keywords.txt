@@ -1,0 +1,3 @@
+wall
+cave-rock
+cave rock 1

@@ -1,0 +1,3 @@
+floor
+carpet_floor
+carpet floor 7

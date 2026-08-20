@@ -1,0 +1,3 @@
+animals
+fish_scale
+fish scale 1

@@ -1,0 +1,3 @@
+wood
+square_wood_parquet
+square wood parquet 23

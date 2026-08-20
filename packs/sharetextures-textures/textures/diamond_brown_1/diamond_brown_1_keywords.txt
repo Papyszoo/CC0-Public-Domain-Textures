@@ -1,0 +1,3 @@
+floor
+diamond_brown
+diamond brown 1

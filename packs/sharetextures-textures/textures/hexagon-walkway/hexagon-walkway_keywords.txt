@@ -1,0 +1,3 @@
+road
+hexagon-walkway
+hexagon walkway

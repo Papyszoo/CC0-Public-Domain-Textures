@@ -1,0 +1,3 @@
+wood
+garage_door
+garage door 2
